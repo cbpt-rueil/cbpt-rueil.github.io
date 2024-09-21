@@ -12,4 +12,4 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ## Nos conseils
 
-Environ tous les deux mois, nous produisons notre liste de livres conseillés, que vous pouvez emprunter à la bibliothèque. Vous pouvez consulter cette liste sur la page [conseils], accompagnée de notre retour sur chaque livre (sans divulgachage bien entendu !).
+Environ tous les deux mois, nous produisons notre liste de livres conseillés, que vous pouvez emprunter à la bibliothèque. Vous pouvez consulter cette liste sur la page [conseils](conseils), accompagnée de notre retour sur chaque livre (sans divulgachage bien entendu !).
