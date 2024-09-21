@@ -6,7 +6,7 @@ L'association culture et bibliothèque pour tous a pour objectif de permettre au
 
 La bibliothèque propose aussi des évènements tout au long de l'année. Voici la liste des évènements pour l'année en cours:
 
-- ~ 8 septembre: [Forum des associations de Rueil-Malmaison](https://www.villederueil.fr/en/node/6239) ~
+- <s>8 septembre: [Forum des associations de Rueil-Malmaison](https://www.villederueil.fr/en/node/6239)</s>
 - 25 décembre: Noël!
 - ...
 
