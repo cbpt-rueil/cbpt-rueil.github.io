@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-.test {
-  color: red;
+.ribbon-outer > * {
+  text-decoration: none!important;
 }
 
 img {
