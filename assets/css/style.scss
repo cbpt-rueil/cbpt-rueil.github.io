@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.ribbon-outer > * {
+.ribbon-outer * {
   text-decoration: none!important;
 }
 
@@ -15,6 +15,6 @@ img {
   max-width: 150px;
 }
 
-table {
+table * {
   vertical-align: middle;
 }
