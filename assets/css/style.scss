@@ -26,6 +26,6 @@ a.page-link {
     color: white;
 }
 
-has(a.page-link) {
+p:has(a.page-link) {
   line-height: 2em
 }
