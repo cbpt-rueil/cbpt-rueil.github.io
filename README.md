@@ -22,3 +22,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 ## Nos conseils
 
 Au moins une fois par trimestre, nous vous proposons  une liste de livres commentés par nos lecteurs. Vous pouvez consulter cette liste sur place ou par mail.
+
+## Les nouveautés du mois
+
+Chaque mois, la bibliothèque fait de nouvelles aquisitions, vous en trouverez la liste sur la page [nouveautés](nouveautés) de ce site.
