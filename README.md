@@ -13,9 +13,10 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 ## Nos permanences
 
  Venez choisir et retirer vos livres pendant nos heures de permanence, les:
-Lundi de 14h30 à 16h30
-Mercredi de 10h30 à 12h30
-Samedi de 15h30 à 17h30
+ 
+- Lundi de 14h30 à 16h30
+- Mercredi de 10h30 à 12h30
+- Samedi de 15h30 à 17h30
   
 
 ## Nos conseils
