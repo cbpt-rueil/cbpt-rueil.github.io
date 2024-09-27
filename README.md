@@ -26,5 +26,5 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ## Nos conseils
 
-Au moins une fois par trimestre, nous vous proposons  une liste de livres commentés par nos lecteurs. Vous pouvez consulter cette liste sur place ou par mail.
+Au moins une fois par trimestre, nous vous proposons  une liste de livres commentés par nos lecteurs. Vous pouvez consulter cette liste sur place, en vous inscrivant à notre newsletter durant une de nos permanences, ou sur la page <a class="page-link" href="conseils">conseils</a> de ce site.
 
