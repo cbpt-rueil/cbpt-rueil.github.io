@@ -7,8 +7,15 @@ L'association culture et bibliothèque pour tous a pour objectif de permettre au
 La bibliothèque propose aussi des évènements tout au long de l'année. Voici la liste des évènements pour l'année en cours:
 
 - <s>8 septembre: <a href="https://www.villederueil.fr/en/node/6239">Forum des associations de Rueil-Malmaison</a></s>
-- 8 octobre: 15h-16h30, Orangerie square Lagauche <a href="https://www.ancienneferme.fr">cercle de lecture</a>
+- 8 octobre: 15h-16h30, Orangerie square Lagauche, cercle de lecture
 - 12 octobre: café littéraire, 15h30-17h30, les livres de la rentrée littéraire
+
+## Nos permanences
+
+ Venez choisir et retirer vos livres pendant nos heures de permanence, les:
+Lundi de 14h30 à 16h30
+Mercredi de 10h30 à 12h30
+Samedi de 15h30 à 17h30
   
 
 ## Nos conseils
