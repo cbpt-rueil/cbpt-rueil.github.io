@@ -1,4 +1,4 @@
-# Nos nouveautés
+# Les nouveautés du mois: Mai 2024
 
 Sur cette page, vous trouverez nos nouveautés.
 
