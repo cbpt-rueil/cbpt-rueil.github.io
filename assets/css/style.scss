@@ -18,3 +18,14 @@ img {
 table * {
   vertical-align: middle;
 }
+
+a.page-link {
+    border-radius: .5em;
+    background: #7c334f;
+    padding: .5em;
+    color: white;
+}
+
+has(a.page-link) {
+  line-height: 2em
+}
