@@ -2,6 +2,11 @@
 
 L'association culture et bibliothèque pour tous a pour objectif de permettre aux habitants de Rueil et de ses environs, d'avoir accès à une sélection de livres régulièrements mise à jour. Avec l'aide de nos bénévoles qui sauront vous conseiller sur votre prochain roman, épopée politique, essai, biographie, vous deviendrez, nous l'espérons, dévoreurs de livres !
 
+## Les nouveautés du mois
+
+Chaque mois, la bibliothèque fait de nouvelles aquisitions, vous en trouverez la liste sur la page [nouveautés](nouveautés) de ce site.
+
+
 ## Évènements
 
 La bibliothèque propose aussi des évènements tout au long de l'année. Voici la liste des évènements pour l'année en cours:
@@ -23,6 +28,3 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 Au moins une fois par trimestre, nous vous proposons  une liste de livres commentés par nos lecteurs. Vous pouvez consulter cette liste sur place ou par mail.
 
-## Les nouveautés du mois
-
-Chaque mois, la bibliothèque fait de nouvelles aquisitions, vous en trouverez la liste sur la page [nouveautés](nouveautés) de ce site.
