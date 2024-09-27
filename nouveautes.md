@@ -1,6 +1,6 @@
-# Notre liste
+# Nos nouveautés
 
-Sur cette page, vous trouverez la liste de nos recommandations.
+Sur cette page, vous trouverez nos nouveautés.
 
 ## ROMANS
 
