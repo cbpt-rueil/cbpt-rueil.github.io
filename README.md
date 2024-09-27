@@ -7,8 +7,9 @@ L'association culture et bibliothèque pour tous a pour objectif de permettre au
 La bibliothèque propose aussi des évènements tout au long de l'année. Voici la liste des évènements pour l'année en cours:
 
 - <s>8 septembre: <a href="https://www.villederueil.fr/en/node/6239">Forum des associations de Rueil-Malmaison</a></s>
-- 25 décembre: Noël!
-- ...
+- 8 octobre: 15h-16h30, Orangerie square Lagauche <a href="https://www.ancienneferme.fr">cercle de lecture</a>
+- 12 octobre: café littéraire, 15h30-17h30, les livres de la rentrée littéraire
+  
 
 ## Nos conseils
 
