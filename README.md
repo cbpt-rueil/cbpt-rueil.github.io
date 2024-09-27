@@ -4,7 +4,7 @@ L'association culture et bibliothèque pour tous a pour objectif de permettre au
 
 ## Les nouveautés du mois
 
-Chaque mois, la bibliothèque fait de nouvelles aquisitions, vous en trouverez la liste sur la page [nouveautés](nouveautes) de ce site.
+Chaque mois, la bibliothèque fait de nouvelles aquisitions, vous en trouverez la liste sur la page <a class="page-link" href="nouveautes">nouveautés</a> de ce site.
 
 
 ## Évènements
