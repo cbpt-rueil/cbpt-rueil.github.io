@@ -1,6 +1,6 @@
 # Notre mission
 
-L'association culture et bibliothèque pour tous a pour objectif de permettre aux habitants du quartier de Rueil gare d'avoir accès à une selection de livres réguulièrements mise à jour. Avec l'aide de nos bénévoles qui sauront vous conseiller sur votre prochain roman, épopée politique, nouvelle classique ou autre...
+L'association culture et bibliothèque pour tous a pour objectif de permettre aux habitants du quartier de Rueil gare d'avoir accès à une sélection de livres régulièrements mise à jour. Avec l'aide de nos bénévoles qui sauront vous conseiller sur votre prochain roman, épopée politique, nouvelle classique ou autre...
 
 ## Évènements
 
