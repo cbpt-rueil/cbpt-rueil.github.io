@@ -12,8 +12,10 @@ Chaque mois, la bibliothèque fait de nouvelles aquisitions, vous en trouverez l
 La bibliothèque propose aussi des évènements tout au long de l'année. Voici la liste des évènements pour l'année en cours:
 
 - <s>8 septembre: <a href="https://www.villederueil.fr/en/node/6239">Forum des associations de Rueil-Malmaison</a></s>
-- 8 octobre: 15h-16h30, Orangerie square Lagauche, cercle de lecture
-- 12 octobre: café littéraire, 15h30-17h30, les livres de la rentrée littéraire
+- <s>8 octobre: 15h-16h30, Orangerie square Lagauche, cercle de lecture</s>
+- <s>12 octobre: café littéraire, 15h30-17h30, les livres de la rentrée littéraire</s>
+- 26 novembre: 15h-16h30, Orangerie square Lagauche, cercle de lecture: les prix littéraires
+- 14 décembre: 15h30-17h30, Orangerie square Lagauche, rencontre avec Marie Sizun
 
 ## Nos permanences
 
