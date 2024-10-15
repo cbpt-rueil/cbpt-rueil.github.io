@@ -1,43 +1,41 @@
-# Les nouveautés du mois: Mai 2024
-
-Sur cette page, vous trouverez nos nouveautés.
+# Les nouveautés du mois: Octobre 2024
 
 ## ROMANS
 
--	ARDITI Metin, L’île de la Française
--	ARENZ Ewald, L’été où tout a commencé
--	BANKS Russell, Le royaume enchanté
--	BEAUCHEMIN Jean-François, Le roitelet (poche)
--	BOYLE T.C., Un ciel si bleu
--	CARRIERE Stephen, maintenant
--	CHARREL Marie, Les Mangeurs de nuit
--	DESIATI Mario, Les irrésolus
--	HERBERT Frank, Dune (poche)
--	HIGASHINO Keigo, Les Miracles du bazar Namiya (poche)
--	KANT Caroline, L’immeuble de la rue Cavendish: Les tourments d’Hermine (T4)
--	LARSON Erik, Lusitania, 1915, La dernière traversée
--	LIASSINE Yasmina, L’oiseau des Français
--	PATURAUD Valérie, La cuisinière des Kennedy
--	SIZUN Marie, Les Petits Personnages (poche)
--	SNEGAROFF Thomas, Putzi, Le pianiste d’Hitler (poche)
+-   BARBERY Muriel Thomas Helder
+-   BOUM Hemley Le rêve du pêcheur
+-   BUREAU Edouard Les dernières rêveries d’Akkad
+-   DIAZ Hernan Trust
+-   EGLOFF Joël Ces féroces soldats
+-   FREGNI René Minuit dans la ville des songes
+-   GUEZ Olivier Mesopotamia
+-   HUMM Philibert Roman de gare
+-   IAPADRE Laura L’odyssée de Livia
+-   MABROUK Sonia Et si demain tout s’inversait
+-   METEYER Madeleine Les obsessions bourgeoises
+-   NOLAN Megan Plus jamais
+-   OLMI Véronique Le courage des innocents
+-   PERRIN Valérie Tata
+-   SIMIOT Bernard Ces Messieurs de Saint-Malo\* (poche)
+-   SIMIOT Bernard Le Temps des Carbec, \*\* (poche)
+-   VINGTRAS Marie Les âmes féroces
+-   ZENITER Alice Frapper l’épopée
 
-## ROMANS POLICIERS
+## ROMANS POLICIERS / THRILLERS
 
--	EVERETT Percival, Châtiment
--	GUENA Pauline, Reine
--	HAYES Terry, Je suis Pilgrim
--	HIGASHINO Keigo, Les Doigts rouges
--	MINIER Bernard, Les Effacées, Lucia 2
+-   GIEBEL Karine Et chaque fois, mourir un peu (T1)
+-   REDONDO Dolores En attendant le déluge
+-   SAENZ DE URTURI Eva Garcia Un piège de papier
+-   GUSTAWSSON Johana L’île de Yule (poche), Prix des lecteurs polar
 
 ## BIOGRAPHIES
 
--	BACQUE Raphaëlle, Une affaire très française
--	BUSNEL François, Jim Harrison, Seule la terre est éternelle
--	DU BOUCHET Paule, La langue de l’hirondelle
--	MALTERE Stéphane, Madame de Sévigné (poche)
+-   KRIENS CHABANE Samia Récits d’Alger et…d’ailleurs, L’histoire d’une femme libre 
+-   LASSABATERE Thierry Bayard, le “bon chevalier”
+-   NAY Catherine L’impétueux
+-   RUFO Marcel Grands-parents, à vous de jouer
 
-## ESSAIS
+## ESSAI
 
--	BRUCKNER Pascal, Je souffre donc je suis
--	MENDRAS Marie, La guerre permanente
--	SARACCO Natalie, En avant les vieux ¡
+-   PEPIN Charles Vivre avec son passé, Une philosophie pour aller de l’avant
+
