@@ -3,29 +3,304 @@
 Au moins une fois par trimestre, nous proposons une liste de livres accompagnés de commentaires de nos lecteurs. 
 Si vous cherchez votre prochaine lecture, cette page peut être pour vous !
 
-## LISTE ANNOTEE DU MOIS D’AVRIL 2024 
+## LISTE ANNOTEE DU MOIS D’OCTOBRE 2024
 
-| AUTEURS | TITRES | COMMENTAIRES |
-|---|---|---|
-| BACHARAN Nicole | La plus résistante de toutes &amp;&amp;&amp; | Nicole Bacharan, spécialiste de la politique américaine, écrit après une enquête de dix ans, un livre sur sa mère, Ginette Guy, «la plus résistante de toutes» pendant l’occupation allemande. Eprise de liberté avec un diplôme de secrétariat, Ginette quitte sa famille pour vivre libre à Toulouse. Elle tombe amoureuse de Jean Obermann, jeune juif, qu’elle n’oubliera jamais. Avec la guerre, elle s’engage dans la Résistance, et mène le très dur combat pour la liberté. Le lecteur suit les missions, la lutte pour survivre. Arrêtée par la Gestapo en juillet 1944, elle ne raconte rien, sans doute torturée. Un livre vrai, émouvant, un récit historique d’une occupation étrangère qui fait réfléchir sur la guerre russe en Ukraine. |
-| BACHARAN Nicole | La plus résistante de toutes &amp;&amp;&amp; | Très bel hommage, sincère et émouvant de l’auteure à sa mère qui s’engagea dans la Résistance à l’âge de 18 ans. A 20 ans, elle fut arrêtée au siège de la Gestapo à Marseille. Lors d’un transfert, cette jeune femme idéaliste et courageuse réussit à s’enfuir. L’auteure a mené une enquête très détaillée auprès de réseaux de Résistants et d’amis qui se sont fait connaître-via internet- pour raconter cette «mère courage» qui le fut tout au long de sa vie. (Prix Simone Veil 2023) |
-| BUSSI Michel | Mon cœur a déménagé &amp;&amp;&amp; | Une jeune femme enquête sur la mort de sa mère qui aurait été tuée par son père. Un thriller psychologique et social. Le récit est d’autant plus terrible qu’il est raconté par une enfant de sept ans, Ophélie, qu’on retrouve après le crime, dans un foyer, toujours à Rouen. Même sa grand-mère l’abandonne à son sort. L’intrigue est lancée, on suit Ophélie dans sa quête obsessionnelle de venger la mort de sa mère. Enquête virevoltante, où l’on suit Ophélie enfant, ado et enfin jeune femme. |
-| CHAPEYE Artem | Les hommes ordinaires ne portent pas de mitraillettes &amp;&amp; | Le 24 février 2022, l’écrivain pacifiste Artem Chapeye est face à un terrible dilemme: rester auprès des siens pour les protéger ou partir au combat. Voir des gens simples accepter de donner leur vie pour la patrie alors que d’autres, mieux lotis, se dérobent, le décide à partir au front. Un beau témoignage d’une honnêteté scrupuleuse sur le quotidien des soldats ukrainiens qui luttent par ailleurs pour ne pas sombrer psychologiquement et moralement. |
-| COHEN Leonard | Un ballet de lépreux &amp;&amp;&amp; | Le célèbre chanteur avait commencé par être écrivain, voici un de ses romans de jeunesse terriblement cocasse et cruel. Toronto, fin des années 1950, le narrateur voit débarquer son grand-père facétieux et violent, qu’il connaît à peine. Contraint de l’héberger chez lui, cet homme de 35ans se rend à la gare centrale pour récupérer la valise de l’aïeul, début d’une histoire qui ira crescendo jusqu’à la bacchanale finale complètement délirante. |
-| CORTANZE Gérard (de) | Une jeune fille en feu &amp;&amp; | Pour les lecteurs qui aiment les vies de saints et le merveilleux chrétien. L’intérêt de ce roman réside dans l’étonnante modernité d’une jeune femme du XIIème siècle, rebelle et féministe avant la lettre. L’auteur restitue avec un certain talent l’atmosphère d’une époque particulièrement troublée. |
-| COSBY S.A. | Le Sang des innocents &amp;&amp;&amp;&amp; | En 2017, en Virginie, un jeune shérif noir très scrupuleux doit enquêter sur le meurtre d’un professeur blanc très charismatique. Son équipe de policiers en vient à tuer le lycéen noir coupable de ce crime. Une enquête remarquablement menée qui nous embarque dans une communauté divisée où s’affrontent suprémacistes blancs et afro-américains. Un thriller sociologique parfaitement maîtrisé. |
-| DUBOIS Jean-Paul | L’origine des larmes &amp;&amp;&amp; | En 2031, Paul Sorensen tire sur la tête de son père décédé. Cela lui vaut une condamnation avec l’obligation de suivre une psychothérapie. Pour se libérer de la détestation obsessionnelle d’un père dont il dévoile la perversité, il lui faut traverser les affres d’une dépression profonde et se laisser porter par une méditation philosophique sur les larmes, d’ailleurs sublimées par un peintre japonais. Un roman décidément très sombre sur l’inexorable angoisse existentielle si universellement humaine, mise à distance grâce à l’autodérision et l’humour noir. |
-| FINKIELKRAUT Alain | Pêcheur de perles &amp;&amp;&amp; | A partir de citations ou «perles» habilement choisies et empruntées à de grands penseurs, le philosophe développe avec brio en quinze chapitres ses réflexions sur des sujets aussi divers que l’amour conjugal, le déclin de l’école républicaine, la mort de la culture humaniste, le wokisme et l’euthanasie assistée. Une lecture très stimulante. |
-| GLATT Gérard | Juste avant l’Espérance &amp;&amp;&amp; | Le narrateur, un éditeur parisien, reçoit une lettre posthume de son père, décédé dans la longère bretonne où il a choisi de vivre seul. Il hésite avant de se rendre dans la maison familiale. Il y découvrira de lourds secrets mais entreprendra surtout un cheminement personnel qui le conduira vers une forme de sérénité et le choix assumé de sa propre voie. Un roman qui nous touche profondément et une belle invitation à retrouver l’espérance par le truchement d’un mystérieux tapuscrit. |
-| HIGASHINO Keigo | Le Nouveau &amp;&amp;&amp; | Un policier original, exceptionnellement empathique, enquête, en faisant jouer ses dons d’observation et de déduction, sur le meurtre d’une femme sans histoires. Une intrigue réglée au cordeau et une plongée dans un quartier de Tokyo, encore attaché aux traditions. Un regard bienveillant et pétillant sur la vie, les petits secrets de gens simples. L’auteur nous donne aussi un aperçu de la condition féminine dans le Japon actuel. Une évocation quelque peu idéalisée d’une culture qui ne souhaite pas perdre son âme. |
-| GLATT Gérard | Tête de Paille &amp;&amp; | Un récit poignant qui retrace le triste destin du plus jeune frère de l’auteur. Daniel est né trisomique et atteint de troubles autistiques dans une famille qui peine à composer avec sa différence. Un témoignage qui ne peut laisser indifférent et qui évite de porter des jugements définitifs notamment sur le comportement des parents. |
-| KENNEDY Margaret | Divorce à l’anglaise &amp;&amp;&amp; | En 1936, Alec et Betsy, proches de la quarantaine, semblent avoir tout pour être heureux. Cette vie trop bien réglée devient pesante pour Betsy. Elle annonce à son mari son intention de divorcer mais commet l’imprudence d’en aviser par courrier sa mère. Quand les deux belles-mères interfèrent, la situation finit par échapper totalement au jeune couple. Une analyse très fine de la vie conjugale et d’une société corsetée par des principes et des codes que la romancière se délecte à épingler avec un humour inimitable. |
-| JOSSE Gaëlle | A quoi songent-ils, ceux que le sommeil fuit? &amp;&amp;&amp; | Un recueil de brèves nouvelles, des microfictions qui introduisent le lecteur dans les ruminations, les regrets, les espoirs et les désespoirs d’êtres anonymes qui veillent au cœur de la nuit. L’auteur évoque ces âmes sœurs avec une infinie humanité et une grande délicatesse, sans jamais peser ni juger. |
-| KINGSOLVER Barbara | On m’appelle Demon Copperhead &amp;&amp;&amp;&amp; | Le lecteur se laisse très facilement happer par ce roman qui livre, de la bouche même du jeune héros, le récit de sa vie, de sa naissance extravagante à ses dix-huit ans. Le parcours chaotique d’un orphelin de père très tôt entraîné dans une couse infernale pour la survie auprès d’une mère junkie, totalement défaillante. Damon Field, alias Demon Copperhead, se démène pour tracer son chemin alors même que tout se ligue contre lui. Une plongée dans l’Amérique des «péquenauds» des Appalaches que tous méprisent mais que des mains secourables vont tenter de sauver du poison des opioïdes. Un roman puissant, l’un des plus remarquables de ce début d’année. Un prix Pulitzer qu’on n’oublie pas. |
-| LEVY Bernard-Henri | Solitude d’Israël &amp;&amp;&amp; | Le philosophe engagé, partisan de la création de deux Etats, revient sur le pogrom suivi d’une prise d’otages du 7 octobre, en soulignant l’impact incommensurable de cet événement inédit et imprévisible. Il revient sur l’histoire d’un pays, patrie de deux peuples en conflit. L’essayiste dénonce les dérives des extrémistes de tous bords et pourfend d’une plume cinglante les contempteurs haineux des Juifs. Un texte brillant qui s’appuie sur l’Histoire et les écrits de nombreux humanistes. |
-| MALYE Julia | Louisiane &amp;&amp;&amp; | Récit romanesque, très documenté et plaisant à lire même si les conditions de vie en Louisiane à cette époque nous sont, en partie, connues. En 1720, la supérieure de la Salpêtrière doit sélectionner une centaine de femmes volontaires (orphelines, criminelles…) qui seront envoyées en Louisiane pour y épouser des colons français. L’intrigue concerne trois d’entre elles, très différentes, qui vont devoir affronter de nombreux obstacles et périls -la traversée de l’Atlantique, l’arrivée dans une terre de marécages infestés de moustiques, les mariages problématiques, parfois cruels, sans oublier la rencontre brutale avec les Indiens-. Malgré tout, entre ces «trois filles», une solide amitié et une belle solidarité vont se créer. Un livre assurément optimiste. |
-| MURAT Laure | Proust, roman familial &amp;&amp;&amp; | Prix Médicis pour cet essai passionnant. Entre noblesse d’Empire et noblesse d’Ancien Régime, Laure Murat nous parle de son enfance, de la découverte de Proust qui va lui permettre de rompre avec cette famille corsetée par les codes et les normes, pour vivre sa vie autrement. |
-| REINHARDT Eric | Sarah, Suzanne et l’écrivain &amp;&amp;&amp; | Sarah, architecte bretonne, découvre incidemment qu’elle n’est véritablement propriétaire que du quart des parts de la maison qu’elle occupe avec son mari et ses deux enfants. Elle somme son mari de régulariser la situation mais il se dérobe… L’auteur revient dans ce roman inspiré d’un récit vrai sur le thème de la manipulation mentale qu’il déjà traité et raconte une histoire machiavélique, digne des meilleurs thrillers psychologiques. Sarah qui souhaite ne pas être reconnue devient Suzanne et participe à toutes les étapes de l’élaboration d’une fiction, à partir de sa véritable histoire. Un roman brillant et prenant par la tension dramatique qu’il installe mais qui pèche par l’excès de sophistication dans sa construction et ses trop nombreuses références littéraires et picturales. |
-| ROSNAY Tatiana (de) | Poussière blonde &amp;&amp;&amp; | Le mythe Marilyn traverse forcément l’ère Metoo: ici il s’agit du tournage très difficile du film de John Huston «Les désaxés», tout le monde picole et s’engueule, il fait une chaleur torride. Marilyn se bourre de cachets. La bonne idée du roman, c’est de nous faire découvrir tout cela à travers le regard de Pauline, jeune femme de chambre d’origine française, à qui Marilyn va offrir son amitié le plus simplement du monde. Un doux hommage à une femme dont l’aura semble éternelle. |
-| SARACCO Natalie | En avant les vieux! &amp;&amp;&amp; | Inutile de se mentir: la vieillesse est souvent une épreuve. Le corps s’use, les capacités mentales se dégradent, la solitude se fait parfois sentir. Or, au lieu d’un récit ténébreux, on a une succession de témoignages d’anciens rencontrés au hasard d’une vie, assumant chacun d’être arrivé au bout du chemin mais avec la conviction d’une sagesse éternelle. Oui, une forme d’optimisme s’impose et convainc du règne de l’amour, du règne de Dieu. |
-| ZWEIG Stephen | Les très riches Heures de l’humanité &amp;&amp;&amp;&amp; | Inimitable Stephen Zweig dans l’art de théâtraliser et de mettre en perspective les pages les plus marquantes de l’histoire de l’humanité, de la prise de Constantinople à la prise de pouvoir de Lénine, sans oublier les exploits de créateurs ou d’inventeurs parfois méconnus. Autant de temps forts ou de moments décisifs qui ont joué un rôle clé dans la grande Histoire. Passionnant. |
+<table>
+<colgroup>
+<col style="width: 23%" />
+<col style="width: 19%" />
+<col style="width: 57%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>AUTEURS</strong></th>
+<th><strong>TITRES</strong></th>
+<th><strong>COMMENTAIRES</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>BAILLY</strong></p>
+<p><strong>Pierric</strong></p></td>
+<td><p><em>Le roman de Jim</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Un roman poignant sur l’amour filial et la paternité raconté avec
+intelligence et finesse. Quand Aymeric retrouve Florence, elle est
+enceinte de six mois et célibataire. Quand Jim naît, Aymeric est là. Ils
+passent de belles années ensemble, jusqu’au jour où Christophe, le père
+naturel de Jim, débarque.</td>
+</tr>
+<tr class="even">
+<td><p><strong>BELVAUX</strong></p>
+<p><strong>Luc</strong></p></td>
+<td><p><em>Les tourmentés</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Ça vaut quoi, la vie d’un homme comme lui, Skender, un clochard que
+personne n’attend, une vie d’invisible ? Madame, riche veuve passionnée
+de chasse, s’ennuie. Elle charge Max, son majordome, d’une terrible
+mission. Le pacte que Max propose à Skender les conduira-t-il tous les
+trois à leur perte ou une échappée est-elle possible ?</td>
+</tr>
+<tr class="odd">
+<td><p><strong>BOUM</strong></p>
+<p><strong>Hemley</strong></p></td>
+<td><p><em>Le rêve du pêcheur</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></td>
+<td>Dans les années 1970, quand une société d’exploitation forestière
+s’installe au nom du progrès dans un village paradisiaque du Cameroun,
+la vie paisible du pêcheur Zacharias Mecobé est bouleversée. Quelques
+décennies plus tard, un autre Zacharias doit fuir son pays et tente de
+reconstruire sa vie à Paris. Deux histoires qui se font écho et
+s’entrelacent. Dans une langue poétique et imagée, de beaux portraits de
+femmes combatives qui savent par leur ténacité tenir à distance la
+malédiction.</td>
+</tr>
+<tr class="even">
+<td><p><strong>BRIGHELLI</strong></p>
+<p><strong>Jean-Paul</strong></p></td>
+<td><p><em>L’école</em></p>
+<p><em>sous</em></p>
+<p><em>emprise</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>L’auteur qui a enseigné les Lettres pendant plus de quarante ans
+revient sur la crise de l’école qu’il avait analysée sur un tom
+polémique dans <em>La fabrique du crétin.</em> Dans ce nouveau pamphlet,
+il déplore le décrochage de l’école publique française et alerte quant à
+l’entrisme islamiste. Un plaidoyer pour la laïcité et contre les dérives
+obscurantistes. Une réflexion qui bouscule et donne à réfléchir.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>COLLIN</strong></p>
+<p><strong>Philippe</strong></p></td>
+<td><p><em>Le barman du Ritz</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></td>
+<td>Un roman passionnant sur les années noires de l’Occupation
+allemande, à travers le regard de Franck Meier, le génial barman du
+Ritz, célèbre pour ses cocktails. Lui, le juif ashkénaze, dont tout le
+monde ignore l’histoire, observe, médusé et très vite désabusé, la
+manière dont certains Parisiens fortunés, le monde du spectacle et de la
+culture composent avec l’Occupant qui pille sans vergogne la France. Un
+roman au rythme enlevé dont on goûte l’art du portrait et la restitution
+sans concession mais tout en nuances d’une époque.</td>
+</tr>
+<tr class="even">
+<td><p><strong>DAOUD</strong></p>
+<p><strong>Kamel</strong></p></td>
+<td><p><em>Houris</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></td>
+<td>Sans doute, le roman le plus fort de cette rentrée littéraire.
+L’auteur donne à entendre le monologue intérieur d’une jeune femme qui
+porte sur son corps les traces terribles d’une tentative d’égorgement,
+au début de la décennie noire, en Algérie, alors qu’elle n’avait que
+cinq ans. Elle s’adresse à l’enfant qu’elle porte et qu’elle ne veut pas
+mettre au monde et lui narre la tragédie vécue par tout un peuple. Un
+récit allégorique puissant, nécessaire pour que ne sombrent pas dans
+l’oubli les victimes. Une lecture éprouvante.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>EGLOFF</strong></p>
+<p><strong>Joël</strong></p></td>
+<td><p><em>Ces féroces soldats</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Dans un récit lacunaire, le romancier mosellan tente de reconstituer
+la vie difficile des siens pendant la Seconde Guerre mondiale. Il
+s’intéresse en particulier à l’histoire saisissante de son père, un
+Malgré-nous, recruté à dix-sept ans dans l’unité d’élite des Waffen-SS,
+à Munich. Un roman qui rapporte sans pathos le sort terrible des cent
+trente mille Alsaciens et Lorrains, otages du régime nazi.</td>
+</tr>
+<tr class="even">
+<td><p><strong>FAYE</strong></p>
+<p><strong>Gaël</strong></p></td>
+<td><p><em>Jacaranda</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></td>
+<td><em>Jacaranda</em> raconte comment une société se reconstruit après
+l’indicible d’un génocide. Que fait-on de la violence, des envies de
+vengeance ? Comment faire société alors que les victimes vivent à côté
+de leurs bourreaux ? Roman pudique mais terriblement efficace, aussi
+fort que sensible sur la mémoire meurtrie du Rwanda, pays d’adoption de
+Gaël Faye.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>HADJ</strong></p>
+<p><strong>Nathalie</strong></p></td>
+<td><p><em>L’impossible retour</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Dans ce premier roman, la narratrice accompagne à l’hôpital son père
+mourant et le soutient jusqu’à son dernier souffle. Elle constate,
+effondrée, qu’elle ignore presque tout de l’histoire d’un homme qui a
+quitté, adolescent, en 1956, son Algérie natale pour la France. Grâce à
+la bienveillance d’un juif qui l’embauche dans son atelier de confection
+à Paris et qui lui apprend son métier, il parvient à construire une
+nouvelle vie et à fonder une famille avec Ana, une jeune Espagnole qui
+fuit le franquisme. Une exploration d’un passé familial particulièrement
+émouvante et bien conduite.</td>
+</tr>
+<tr class="even">
+<td><p><strong>HUMM</strong></p>
+<p><strong>Philibert</strong></p></td>
+<td><p><em>Roman</em></p>
+<p><em>de gare</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Un périple drôle et poétique, planqué dans des trains de
+marchandise : Philibert entraîne son ami Simon dans une nouvelle
+aventure, devenir « hobo », du nom de ces vagabonds américains qui
+voyageaient en se cachant dans des trains de marchandise. De Villeneuve
+Saint Georges jusqu’en Occitanie, une image poétique de la liberté.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>GUEZ</strong></p>
+<p><strong>Olivier</strong></p></td>
+<td><p><em>Mesopotamia</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></td>
+<td>Une biographie romancée qui donne à suivre le parcours de Gertrude
+Bell, une richissime héritière anglaise, polyglotte, passionnée par
+l’archéologie et les voyages. Des récits alternés qui narrent tantôt les
+déconvenues sentimentales d’une Anglaise, rigide, bridée par son
+éducation tantôt, et c’est le plus intéressant, les missions
+diplomatiques d’une femme ambitieuse pro-Arabe avec Lawrence d’Arabie
+qu’elle fréquente. Ils seront tous deux les artisans de la création d’un
+état indépendant mais sous tutelle britannique : l’Irak.
+Passionnant.</td>
+</tr>
+<tr class="even">
+<td><p><strong>IAPADRE</strong></p>
+<p><strong>Laura</strong></p></td>
+<td><p><em>L’Odyssée de Livia</em></p>
+<p><em>&amp;&amp;</em></p></td>
+<td>Un roman qui fait écho au <em>Choix</em> de Viola Ardone. Livia
+devient muette à la suite d’un AVC en pleine pandémie du Covid. Elle se
+remémore dans sa cruelle solitude son parcours d’Italienne immigrée en
+France, séparée un temps d’un mari maçon et mère de deux garçons qu’elle
+éduque au mieux. Sa vie prend un autre cours quand elle devient une
+couturière très recherchée à Paris. Un roman prenant malgré une écriture
+ampoulée et artificielle.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>METEYER</strong></p>
+<p><strong>Madeleine</strong></p></td>
+<td><p><em>Les obsessions</em></p>
+<p><em>bourgeoises</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Des embrouilles entre amies d’origines sociales différentes sont
+l’occasion d’une satire sociale réjouissante : Servane est happée par la
+prestance et l’aura de Céleste dans son élégante blouse en soie, elle
+apprend les codes, se corrige, se compare sans cesse, jusqu’au jour
+où…</td>
+</tr>
+<tr class="even">
+<td><p><strong>MINOUI</strong></p>
+<p><strong>Delphine</strong></p></td>
+<td><p><em>Badjens</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>A travers le monologue intérieur de Zahra, une adolescente de 16 ans
+qui assume pleinement son surnom de « Badjens », c’est-à-dire mauvais
+genre et effrontée, une radiographie de l’Iran actuelle, celle de la
+révolte des femmes qui osent contester les fondements de la République
+islamique. Un témoignage bouleversant sur la condition féminine en Iran
+et sur la terrible répression qui vise à bâillonner les rebelles.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>OLMI</strong></p>
+<p><strong>Véronique</strong></p></td>
+<td><p><em>Le courage des innocents</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Ben vit en marge de la société et milite activement pour des causes
+nobles. Quand il apprend que son demi-frère a été pris en charge dans un
+centre pour enfants en difficulté, il se porte aussitôt à son secours.
+Sur un coup de tête, il part avec une ONG en Ukraine et découvre à
+Kherson la politique poutinienne de déportation massive d’enfants vers
+la Russie. Un nouveau combat se profile pour lui. L’intrigue gagne peu à
+peu en intensité dramatique et le ton devient polémique dans ce roman
+dont on peut déplorer la construction un peu bancale.</td>
+</tr>
+<tr class="even">
+<td><p><strong>PASCAL</strong></p>
+<p><strong>Camille</strong></p></td>
+<td><p><em>La reine du labyrinthe</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></td>
+<td>Quatrième roman au souffle éminemment romanesque. Camille Pascal
+nous dévoile dans cette célèbre affaire du collier de la reine, des
+dessous politiques méconnus, jusqu’alors inexploités. Ce récit se mue en
+véritable enquête dans laquelle le souffle romanesque, le raffinement du
+style et la profondeur historique de l’auteur nous enchantent.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>PEPIN</strong></p>
+<p><strong>Charles</strong></p></td>
+<td><p><em>Vivre avec</em></p>
+<p><em>son passé</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></td>
+<td>Une très belle leçon philosophique qui explique comment notre passé
+se rappelle à nous, à notre corps défendant. L’auteur montre, à la
+lumière des dernières découvertes des neuro-sciences, comment fonctionne
+la mémoire et donne des pistes pour nous apprendre à composer le plus
+sereinement possible avec notre passé. Un essai facile à lire et qui
+fait du bien.</td>
+</tr>
+<tr class="even">
+<td><p><strong>PEREZ-REVERTE</strong></p>
+<p><strong>Arturo</strong></p></td>
+<td><p><em>Sidi</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Le mythe du Cid revisité par le brillant romancier espagnol. Le
+contexte historique est très clairement campé. On suit avec intérêt les
+tribulations de Ruiz Diaz alias Sidi, les combats épiques contre les
+Maures dont l’auteur dévoile la complexité et les enjeux.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>PERRIN</strong></p>
+<p><strong>Valérie</strong></p></td>
+<td><p><em>Tata</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Agnès, scénariste brillante, divorcée et mère d’une délicieuse
+fille, apprend par la gendarmerie de Gueugnon que sa tante qu’elle
+pensait morte depuis trois ans, vient de décéder. On la prie de venir
+reconnaître la « remorte ». Commence alors une enquête sur une femme
+simple qu’elle croyait ennuyeuse et banale. Un roman social qui tient du
+polar et qui séduit facilement pour peu qu’on s’attache aux personnages.
+Un peu facile peut-être et manichéen mais addictif.</td>
+</tr>
+<tr class="even">
+<td><p><strong>REDONDO</strong></p>
+<p><strong>Dolores</strong></p></td>
+<td><p><em>En attendant</em></p>
+<p><em>le déluge</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>De Glasgow à Bilbao avec un nouvel enquêteur souffrant d’une grave
+malformation cardiaque. Début des années 80, disparitions et meurtres de
+jeunes femmes, un suspect connu sous le nom de Bible John qui parvient à
+s’enfuir, alors que notre enquêteur, à deux doigts de l’arrêter, est
+victime d’une crise cardiaque et est donné pour mort. Superbe enquête
+menée tambour battant.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>THILLIEZ</strong></p>
+<p><strong>Franck</strong></p></td>
+<td><p><em>Norferville</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></td>
+<td>Un thriller construit sur une double traque, d’abord menée par une
+jeune femme originaire de Norferville, une ville canadienne maléfique
+pour elle et une de ses amies. Elle revient vingt ans plus tard, comme
+inspectrice de police, chargée d’enquêter sur la mort suspecte d’une
+jeune femme et rencontre le père de la victime, un criminologue
+expérimenté. Ils forment équipe et découvrent de nombreuses disparitions
+jamais élucidées. Le lecteur est happé par l’intrigue et séduit par les
+deux protagonistes dont il épouse facilement la cause. Un univers
+glaçant dans tous les sens du terme.</td>
+</tr>
+<tr class="even">
+<td><p><strong>VINGTRAS</strong></p>
+<p><strong>Marie</strong></p></td>
+<td><p><em>Âmes</em></p>
+<p><em>Féroces</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Quatre saisons, quatre voix différentes pour tenter de trouver qui a
+tué Léo, jeune fille discrète de cette petite ville des Etats-Unis, une
+ville et des gens sans histoire, chacun croit connaître l’autre. On suit
+les personnages au plus près de leurs émotions. Marie Vingtras a su
+capter les insondables recoins de chacun, une histoire à suspense qu’on
+ne lâche pas.</td>
+</tr>
+</tbody>
+</table>
