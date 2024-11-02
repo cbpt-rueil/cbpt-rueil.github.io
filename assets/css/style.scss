@@ -36,6 +36,9 @@ nav {
   left: 0;
   height: 100%;
   border-right: 2px solid #7c334f;
+  border-right: #7c334f 2px solid;
+  background: #7c334f20;
+  font-weight: bold;
 }
 
 nav > ul {
