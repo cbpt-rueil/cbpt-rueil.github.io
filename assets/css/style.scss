@@ -29,3 +29,15 @@ a.page-link {
 p:has(a.page-link) {
   line-height: 2em
 }
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+nav > ul {
+  display: flex;
+  gap: 1em;
+}
