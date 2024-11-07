@@ -21,6 +21,14 @@
       $(document).ready(function () {
         $('#main_content').headsmart()
       })
+      function displayMenu() {
+        nav = document.getElementById("nav");
+        nav.classList.remove("sm-hidden");
+      }
+      function hideMenu() {
+        nav = document.getElementById("nav");
+        nav.classList.add("sm-hidden");
+      }
     </script>
 
 {% seo %}
@@ -30,21 +38,26 @@
 
   <body>
     <div class="shell">
-
+      
       <header>
         <div class="ribbon-outer">
-          <a href="https://cbpt-rueil.github.io">
-            <div class="ribbon-inner">
+          <div class="ribbon-inner">
+            <div class="hamburger" onclick="displayMenu()">
+              <img src="resources/menu.svg" alt="Open navigation menu">
+              Menu
+            </div>
+            <a href="https://cbpt-rueil.github.io">
               <h1>{{ site.title | default: site.github.repository_name }}</h1>
               <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+            </a>
             </div>
-          </a>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </div>
       </header>
 
-      <nav>
+      <nav id="nav" class="sm-hidden">
+        <div id="nav-close" onclick="hideMenu()">Fermer le menu <img src="resources/cross.svg" alt="Close nav"></div>
         <ul>
           <li><a href="/"> Accueil </a></li>
           <li><a href="/nouveautes"> Nouveautés </a></li>
