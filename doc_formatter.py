@@ -47,6 +47,23 @@ md = f"# Les nouveautés du mois: {month.capitalize()} {year}" + md
 with open("nouveautes.md", "w", encoding="utf-8") as f:
     f.write(md)
 
-# with open("pandoc/LISTE ANNOTEE DE NOVEMBRE 2024.docx", "rb") as f:
-#     doc.docx = f.read()  # type: ignore
-# md: str = doc.markdown.decode()  # type: ignore
+with open("pandoc/LISTE ANNOTEE DE NOVEMBRE 2024.docx", "rb") as f:
+    doc.docx = f.read()  # type: ignore
+md: str = doc.markdown_strict.decode()  # type: ignore
+
+advice_header = """# Nos conseils de lecture
+
+Au moins une fois par trimestre, nous proposons une liste de livres accompagnés de commentaires de nos lecteurs. 
+Si vous cherchez votre prochaine lecture, cette page peut être pour vous !
+
+## """
+
+md = advice_header + (
+    md.replace("**", "")
+    .replace("\r", "")
+    .replace("\n\n", "\n")
+    .replace("ANNOTEE", "ANNOTÉE")
+)
+
+with open("conseils.md", "w", encoding="utf-8") as f:
+    f.write(md)

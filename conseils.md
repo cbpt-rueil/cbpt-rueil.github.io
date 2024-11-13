@@ -3,8 +3,7 @@
 Au moins une fois par trimestre, nous proposons une liste de livres accompagnés de commentaires de nos lecteurs. 
 Si vous cherchez votre prochaine lecture, cette page peut être pour vous !
 
-## LISTE ANNOTEE DU MOIS D’OCTOBRE 2024
-
+## LISTE ANNOTÉE DU MOIS DE NOVEMBRE 2024
 <table>
 <colgroup>
 <col style="width: 23%" />
@@ -17,290 +16,347 @@ Si vous cherchez votre prochaine lecture, cette page peut être pour vous !
 <th><strong>TITRES</strong></th>
 <th><strong>COMMENTAIRES</strong></th>
 </tr>
+<tr class="odd">
+<th><p><strong>ASSOR</strong></p>
+<p><strong>Abigail</strong></p></th>
+<th><p><em>La nuit de</em></p>
+<p><em>David</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th><p>Olive, à l’âge adulte, relate son enfance avec son jumeau David,
+leur complicité, leurs jeux.</p>
+<p>Très tôt, elle s’inquiète de sa différence, le protège et devient son
+interprète auprès de leur mère soucieuse de sa normalité. Avec beaucoup
+de sensibilité, Abigail Assor fait revivre la fin de son enfance et la
+tension progressive jusqu’à la nuit du drame. Très bon roman.</p></th>
+</tr>
+<tr class="header">
+<th><p><strong>BONNEFOY</strong></p>
+<p><strong>Miguel</strong></p></th>
+<th><p><em>Le rêve du jaguar</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>L’histoire fabuleuse d’un orphelin abandonné sur les marches d’une
+église de Maracaibo et qui deviendra un médecin renommé et un
+bienfaiteur du Venezuela. L’occasion pour le romancier de revenir sur
+l’évolution récente d’un pays que la découverte du pétrole a enrichi et
+entraîné dans des dérives inquiétantes. Un roman flamboyant et
+passionnant.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>BOUZOU</strong></p>
+<p><strong>Nicolas</strong></p></th>
+<th><p><em>La civilisation de la peur</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th><p>Une belle défense des démocraties libérales, à l’heure où des
+régimes durs voire totalitaires se font de plus en plus menaçants.
+L’auteur décline toutes les raisons que les Occidentaux ont de croire en
+l’avenir. Une étude rationaliste, chiffres et faits avérés à l’appui. Le
+pire n’est pas toujours sûr !</p>
+<p>«L’ enthousiasme et la confiance dans l’avenir sont de meilleur
+conseil que le ressentiment contre les erreurs passées ».</p></th>
+</tr>
+<tr class="header">
+<th><strong>BUREAU Edouard</strong></th>
+<th><p><em>Les dernières rêveries</em></p>
+<p><em>d’ Akkad</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>Plus de 2000 ans avant J.-C., un vieux sage précepteur du prince de
+la ville d’Akkad, se réveille à cause d’une simple brise qui lui indique
+que la journée sera décisive. Son élève sera couronné le lendemain,
+mais… Il y a dans ces pages quelque chose qui ressemble aux Pères du
+désert, une vieille sagesse ; et si le prince doit s’enfuir, il y
+gagnera peut-être sa liberté.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>CHEVALIER</strong></p>
+<p><strong>Tracy</strong></p></th>
+<th><p><em>La fileuse de verre</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></th>
+<th>La petite île de Murano, de la naissance d’Orsola en 1486 à
+aujourd’hui, une découverte du métier de verrier et de son évolution
+liée à la place de Venise dans le monde. Un voyage dans le temps avec
+Orsola, fille d’un maître verrier, qui dans cet univers masculin va
+atteindre l’excellence dans le travail du verre. L’autrice, Tracy
+Chevalier, jongle avec le temps, les siècles s’écoulent et parallèlement
+Orsola et sa famille cheminent à leur rythme propre. Il est difficile de
+quitter Orsola.</th>
+</tr>
+<tr class="header">
+<th><p><strong>CHEVALIER</strong></p>
+<p><strong>Tracy</strong></p></th>
+<th><p><em>La fileuse</em></p>
+<p><em>de verre</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></th>
+<th>Tracy Chevalier imagine la saga d’une famille de Murano se déployant
+sur plus de Cinq siècles, dans un roman historique écrit d’une plume
+gracieuse. C’est une famille imaginaire de verriers, les Rosso, que l’on
+suit, et en particulier Orsola, une femme forte, qui se lance dans la
+fabrication de perles après le décès accidentel de son père. Le roman,
+extrêmement documenté sur les techniques du verre, se révèle
+passionnant, mille et un rebondissements nous emmènent jusqu’au Covid et
+donnent envie de retourner toutes affaires cessantes à Murano.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>CARO</strong></p>
+<p><strong>Fabrice</strong></p></th>
+<th><p><em>Journal</em></p>
+<p><em>d’un scénario</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>Les mésaventures drolatiques d’un scénariste qui se lance dans
+l’écriture d’une histoire sentimentale triste qu’il intitule <em>Les
+servitudes silencieuses.</em> Quand il confie son projet à un ami
+producteur qui lui promet qu’ils feront ensemble <em>un beau film,</em>
+son scénario lui échappe lentement mais sûrement et tout se dérègle. On
+goûte infiniment l’humour de Caro qui s’en prend à fleurets mouchetés au
+monde du cinéma.</th>
+</tr>
+<tr class="header">
+<th><p><strong>CONNELLY</strong></p>
+<p><strong>Michael</strong></p></th>
+<th><p><em>Sans l’ombre</em></p>
+<p><em>d’un doute</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></th>
+<th>Une enquête haletante de l’avocat à la Lincoln, Mickey Haller, et de
+son demi-frère, Harry Bosch, ancien inspecteur de police, dans le but de
+faire libérer une femme qui avait pourtant avoué le meurtre de son
+ex-mari. Une plongée vertigineuse dans le cœur du système judiciaire
+américain.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>DUGAIN</strong></p>
+<p><strong>Marc</strong></p></th>
+<th><p><em>L’avion, Poutine,</em></p>
+<p><em>l’Amérique…</em></p>
+<p><em>Et moi</em></p></th>
+<th>Dans ce roman à la première personne du singulier, un narrateur qui
+ressemble étrangement à l’auteur revient sur son parcours atypique dans
+le monde de la finance, des années 1980 à nos jours. On bascule assez
+vite dans un récit d’espionnage avec un protagoniste incorruptible qui
+porte un regard critique sur deux mondes radicalement opposés, les
+Etats-Unis et la Russie. Un récit prenant qui se lit comme un thriller
+et qui délivre des jugements cinglants sur les mensonges d’Etat et sur
+le cynisme et la cupidité des hommes de pouvoir. Une réflexion
+géopolitique très intéressante et stimulante.</th>
+</tr>
+<tr class="header">
+<th><p><strong>HILL</strong></p>
+<p><strong>Nathan</strong></p></th>
+<th><p><em>Bien-être</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></th>
+<th>A Chicago, dans les années 90, Elizabeth et Jack habitent l’un en
+face de l’autre dans un quartier délabré. Ils tombent amoureux et
+fondent une famille mais vingt ans plus tard, la magie de leur coup de
+foudre s’est évaporée. L’auteur décrypte avec acuité et humour une
+société en perte d’authenticité, en proie à différents maux qui la
+minent : thérapies de bien-être douteuses, gentrification sans scrupules
+des quartiers, mystification artistique, complotisme des réseaux sociaux
+et manipulation des algorithmes.</th>
+</tr>
+<tr class="odd">
+<th><strong>KENNEDY Douglas</strong></th>
+<th><p><em>Ailleurs</em></p>
+<p><em>chez moi</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>Un récit autobiographique passionnant qui donne l’occasion à
+l’auteur de réfléchir sur ce que veut dire « être américain ». Le titre
+annonce la couleur et le point de vue d’un romancier progressiste et
+cosmopolite. En huit chapitres, il célèbre la richesse et la diversité
+de la culture américaine tout en nous entraînant sur les routes et les
+lieux mythiques d’un pays qu’il dit à la fois aimer et craindre. Il met
+surtout l’accent sur le culte de l’argent, sur le racisme, la misogynie
+qui va de pair avec le virilisme sans oublier le pouvoir redoutable des
+télévangélistes et de la droite conservatrice dure et intolérante.</th>
+</tr>
+<tr class="header">
+<th><p><strong>KERN</strong></p>
+<p><strong>Etienne</strong></p></th>
+<th><p><em>La vie</em></p>
+<p><em>meilleure</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>Qui ne connaît pas la méthode Coué dont on s’est beaucoup gaussé ?
+Mais sait-on qui fut exactement Emile Coué (1854-1926), un pharmacien
+nancéen devenu en peu de temps un thérapeute renommé même au-delà des
+frontières, avant de tomber dans l’oubli ? Un livre plein de tendresse
+pour un brave homme dont les méthodes annoncent la pensée et la
+psychologie positives de notre époque.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>KHADRA</strong></p>
+<p><strong>Yasmina</strong></p></th>
+<th><p><em>Cœur-d’amande</em></p>
+<p><em>&amp;&amp;</em></p></th>
+<th>Une immersion sympathique dans le Montmartre populaire de notre
+époque. Nestor qui a été abandonné par sa mère à cause de son infirmité
+physique voue une reconnaissance sans bornes à sa grand-mère qui l’a
+élevé et qui lui a donné le goût des livres. Il est comme un poisson
+dans l’eau dans son quartier même s’il lui a fallu lutter pour s’imposer
+mais des vents contraires vont lui rendre la vie quotidienne difficile.
+Un roman tendre comme le protagoniste mais qui s’essouffle très
+vite.</th>
+</tr>
+<tr class="header">
+<th><p><strong>LIGHIERI</strong></p>
+<p><strong>Rebecca</strong></p></th>
+<th><p><em>Le club des enfants perdus</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>La succession de deux récits, celui d’un père narcissique mais
+aimant et celui d’une jeune femme définitivement perdue permet de
+mesurer le fossé qui les sépare irrémédiablement. La romancière explore
+jusqu’à la nausée les différentes facettes du mal-être abyssal d’une
+partie de la génération Z. De multiples références théâtrales et
+littéraires tentent d’éclairer la psyché et le parcours d’une jeune
+femme hypersensible. Un roman dérangeant mais qui se veut
+empathique.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>MAGEE</strong></p>
+<p><strong>Michael</strong></p></th>
+<th><p><em>Retour</em></p>
+<p><em>à Belfast</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></th>
+<th>Ce premier roman possède une force, une énergie, un humour qui
+ravagent tout sur leur passage. Nous suivons Sean et Ryan, deux jeunes à
+qui la pauvreté colle aux talons. Seule éclaircie, les livres. C’est une
+lettre d’amour à un pays, l’Irlande du Nord, un adieu à la jeunesse, un
+cri d’espoir dans des rues noyées de pluie. Cela s’arrose ; comme on dit
+dans les pubs de là-bas : « Slainte ! »</th>
+</tr>
+<tr class="header">
+<th><p><strong>MEYER</strong></p>
+<p><strong>Myriam</strong></p></th>
+<th><p><em>Wesh, Madame ?!</em></p>
+<p><em>&amp;&amp;</em></p></th>
+<th>Le témoignage d’une jeune professeure de Lettres classiques qui
+découvre la spontanéité, l’indiscipline et les terribles lacunes des
+collégiens qu’on lui confie. Elle nous livre avec une indiscutable
+tendresse des saynètes de la vie de classe tantôt affligeantes, tantôt
+désopilantes.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>MINOUI</strong></p>
+<p><strong>Delphine</strong></p></th>
+<th><p><em>Badjens</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></th>
+<th>En un long monologue intérieur qui égrène des phrases scandées comme
+dans un poème, la jeune Zahra, née en 2006 à Chiraz, en Iran et
+surnommée Badjens ou « l’effrontée » en persan crie sa révolte et exalte
+le pouvoir libérateur du mouvement » Femmes, Vie et Liberté ». Un livre
+poignant mais porteur d’espoir.</th>
+</tr>
+<tr class="header">
+<th><p><strong>PATIN</strong></p>
+<p><strong>Sylvie</strong></p></th>
+<th><em>La féerie quotidienne selon Berthe Morisot</em></th>
+<th>Apparu dès la première exposition impressionniste de 1874, « Le
+berceau » fut inspiré à Berthe Morisot par sa sœur Edma de qui elle
+était très proche. Conservateur au musée d’Orsay et spécialiste des
+impressionnistes, Sylvie Patin nous relate toute l’histoire de ce
+merveilleux tableau à travers la bouche d’Edma, s’appuyant notamment sur
+la correspondance des deux sœurs.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>PATY</strong></p>
+<p><strong>Mickaëlle</strong></p></th>
+<th><p><em>Le cours de Monsieur</em></p>
+<p><em>Paty</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>Une des sœurs de Samuel Paty, révoltée par la mort barbare de son
+frère entreprend avec la romancière Emilie Frêche de rétablir la vérité
+sur le dernier cours donné par l’enseignant. En s’appuyant sur les notes
+de ce professeur d’histoire consciencieux, respectueux des consignes
+rectorales et de la laïcité républicaine, elle se livre à une enquête
+minutieuse sur la dernière semaine de vie de son frère. Elle dénonce
+avec vigueur les mensonges et les lâchetés des uns et des autres.</th>
+</tr>
+<tr class="header">
+<th><p><strong>PEREZ-REVERTE</strong></p>
+<p><strong>Arturo</strong></p></th>
+<th><p><em>L’Italien</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th><em>L’Italien</em> est un roman historique, solidement documenté sur
+des faits qui se sont déroulés pendant la seconde guerre mondiale, à
+Gibraltar et dans la baie d’Algésiras. Des commandos de plongeurs
+d’élite italiens traversent de nuit la baie d’Algésiras, en chevauchant
+des torpilles, destinées à exploser sous les bateaux anglais basés à
+Gibraltar. Ils prennent évidemment des risques inouïs. Et le lecteur est
+saisi par l’atmosphère nocturne du récit, la tension qui monte au fur et
+à mesure de l’action. C’est aussi un beau roman d’amour entre un de ces
+soldats italiens et une jeune libraire espagnole.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>PULIXI</strong></p>
+<p><strong>Piergiorgio</strong></p></th>
+<th><p><em>La librairie</em></p>
+<p><em>des chats</em></p>
+<p><em>noirs</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>A Cagliari, un tueur affreusement sadique sévit et sème la terreur.
+Les enquêteurs qui sont sardes impliquent un de leurs amis d’enfance, le
+très chatouilleux et irascible Marzio Montecristo qui vient d’ouvrir une
+librairie consacrée aux romans policiers dans laquelle deux chats noirs
+règnent en maître. On rit autant qu’on frémit dans ce roman où un club
+de « polardeux » hauts en couleurs mène la danse. Un hommage appuyé aux
+grands auteurs de la littérature policière.</th>
+</tr>
+<tr class="header">
+<th><p><strong>SIRE</strong></p>
+<p><strong>Guillaume</strong></p></th>
+<th><p><em>Les Grandes Patries étranges</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>Un roman d’amour à l’âme d’enfant : Joseph Portedor, au cœur
+débordant, a perdu son père durant la 1<sup>ère</sup> guerre mondiale.
+Vivant avec sa mère éplorée, il tombe amoureux fou de sa voisine, une
+jeune fille juive. Un amour qu’il gardera envers et contre tout, tel le
+chevalier d’un roman d’amour courtois qu’il est resté au fond de son âme
+d’enfant.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>TAMAGE</strong></p>
+<p><strong>Daphné</strong></p></th>
+<th><p><em>Le retour</em></p>
+<p><em>de Saturne</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>Cela commence par l’ordonnance suivante : « Je vous prescris un mois
+sans hommes ». Le cauchemar pour la narratrice qui ne vit que par le
+regard des hommes. Et qui va, en effet, se retirer à Conques, « son
+village sacré et son abbatiale ». Elle y habite la maison de sa tante
+(absente) et se remémore l’histoire des hommes de sa vie, de six à
+trente-deux ans. Un côté décalé, spirituel, sensible et le goût du mot
+juste font mouche.</th>
+</tr>
+<tr class="header">
+<th><p><strong>VIVECA</strong></p>
+<p><strong>Sten</strong></p></th>
+<th><p><em>Chambre</em></p>
+<p><em>505</em></p>
+<p><em>&amp;&amp;&amp;</em></p></th>
+<th>Une riche et ambitieuse femme d’affaires est sauvagement assassinée
+dans la suite luxueuse d’un hôtel, près d’ Are, en Suède, alors qu’elle
+était sur le point de signer un contrat immobilier qui ne plaît pas à
+tout le monde. Le drame qui s’est noué dans la chambre 505 dans un vieil
+hôtel abandonné, cinquante ans plus tôt, ne sera dévoilé qu’à la toute
+fin du roman. Des enquêteurs attachants, de lourds secrets qui
+ressurgissent et qui dévoilent l’envers du décor. Addictif.</th>
+</tr>
+<tr class="odd">
+<th><p><strong>WHITEHEAD</strong></p>
+<p><strong>Colson</strong></p></th>
+<th><p><em>La règle du crime</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></th>
+<th>Le New York des années 1970 et son quartier emblématique de Harlem
+racontés par Whitehead. Sans surprise, la description d’un monde d’enfer
+fait de mouvement perpétuel, de crimes, de corruption de la police et de
+la justice et d’incendies criminels. La description de ce quartier
+« uptown » mis en coupe réglée par ses gangs avec l’aide des activistes
+du Black Live Army mais aussi un quartier sous la férule des blancs de
+« downtown » à l’origine de tout ce système mafieux. Mais surtout, la
+description dans le style si attachant de Whitehead, d’un monde vu à
+travers les lunettes de Ray Carney, un relecteur retraité qui revit
+toute l’évolution de sa ville avec tant d’histoires et d’anecdotes
+traversées dans sa première vie ! Mais attention, difficile d’oublier et
+de mettre de côté totalement ce qu’on a été, la tentation de
+« replonger » est toujours là…</th>
+</tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><p><strong>BAILLY</strong></p>
-<p><strong>Pierric</strong></p></td>
-<td><p><em>Le roman de Jim</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>Un roman poignant sur l’amour filial et la paternité raconté avec
-intelligence et finesse. Quand Aymeric retrouve Florence, elle est
-enceinte de six mois et célibataire. Quand Jim naît, Aymeric est là. Ils
-passent de belles années ensemble, jusqu’au jour où Christophe, le père
-naturel de Jim, débarque.</td>
-</tr>
-<tr class="even">
-<td><p><strong>BELVAUX</strong></p>
-<p><strong>Luc</strong></p></td>
-<td><p><em>Les tourmentés</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>Ça vaut quoi, la vie d’un homme comme lui, Skender, un clochard que
-personne n’attend, une vie d’invisible ? Madame, riche veuve passionnée
-de chasse, s’ennuie. Elle charge Max, son majordome, d’une terrible
-mission. Le pacte que Max propose à Skender les conduira-t-il tous les
-trois à leur perte ou une échappée est-elle possible ?</td>
-</tr>
-<tr class="odd">
-<td><p><strong>BOUM</strong></p>
-<p><strong>Hemley</strong></p></td>
-<td><p><em>Le rêve du pêcheur</em></p>
-<p><em>&amp;&amp;&amp;&amp;</em></p></td>
-<td>Dans les années 1970, quand une société d’exploitation forestière
-s’installe au nom du progrès dans un village paradisiaque du Cameroun,
-la vie paisible du pêcheur Zacharias Mecobé est bouleversée. Quelques
-décennies plus tard, un autre Zacharias doit fuir son pays et tente de
-reconstruire sa vie à Paris. Deux histoires qui se font écho et
-s’entrelacent. Dans une langue poétique et imagée, de beaux portraits de
-femmes combatives qui savent par leur ténacité tenir à distance la
-malédiction.</td>
-</tr>
-<tr class="even">
-<td><p><strong>BRIGHELLI</strong></p>
-<p><strong>Jean-Paul</strong></p></td>
-<td><p><em>L’école</em></p>
-<p><em>sous</em></p>
-<p><em>emprise</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>L’auteur qui a enseigné les Lettres pendant plus de quarante ans
-revient sur la crise de l’école qu’il avait analysée sur un tom
-polémique dans <em>La fabrique du crétin.</em> Dans ce nouveau pamphlet,
-il déplore le décrochage de l’école publique française et alerte quant à
-l’entrisme islamiste. Un plaidoyer pour la laïcité et contre les dérives
-obscurantistes. Une réflexion qui bouscule et donne à réfléchir.</td>
-</tr>
-<tr class="odd">
-<td><p><strong>COLLIN</strong></p>
-<p><strong>Philippe</strong></p></td>
-<td><p><em>Le barman du Ritz</em></p>
-<p><em>&amp;&amp;&amp;&amp;</em></p></td>
-<td>Un roman passionnant sur les années noires de l’Occupation
-allemande, à travers le regard de Franck Meier, le génial barman du
-Ritz, célèbre pour ses cocktails. Lui, le juif ashkénaze, dont tout le
-monde ignore l’histoire, observe, médusé et très vite désabusé, la
-manière dont certains Parisiens fortunés, le monde du spectacle et de la
-culture composent avec l’Occupant qui pille sans vergogne la France. Un
-roman au rythme enlevé dont on goûte l’art du portrait et la restitution
-sans concession mais tout en nuances d’une époque.</td>
-</tr>
-<tr class="even">
-<td><p><strong>DAOUD</strong></p>
-<p><strong>Kamel</strong></p></td>
-<td><p><em>Houris</em></p>
-<p><em>&amp;&amp;&amp;&amp;</em></p></td>
-<td>Sans doute, le roman le plus fort de cette rentrée littéraire.
-L’auteur donne à entendre le monologue intérieur d’une jeune femme qui
-porte sur son corps les traces terribles d’une tentative d’égorgement,
-au début de la décennie noire, en Algérie, alors qu’elle n’avait que
-cinq ans. Elle s’adresse à l’enfant qu’elle porte et qu’elle ne veut pas
-mettre au monde et lui narre la tragédie vécue par tout un peuple. Un
-récit allégorique puissant, nécessaire pour que ne sombrent pas dans
-l’oubli les victimes. Une lecture éprouvante.</td>
-</tr>
-<tr class="odd">
-<td><p><strong>EGLOFF</strong></p>
-<p><strong>Joël</strong></p></td>
-<td><p><em>Ces féroces soldats</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>Dans un récit lacunaire, le romancier mosellan tente de reconstituer
-la vie difficile des siens pendant la Seconde Guerre mondiale. Il
-s’intéresse en particulier à l’histoire saisissante de son père, un
-Malgré-nous, recruté à dix-sept ans dans l’unité d’élite des Waffen-SS,
-à Munich. Un roman qui rapporte sans pathos le sort terrible des cent
-trente mille Alsaciens et Lorrains, otages du régime nazi.</td>
-</tr>
-<tr class="even">
-<td><p><strong>FAYE</strong></p>
-<p><strong>Gaël</strong></p></td>
-<td><p><em>Jacaranda</em></p>
-<p><em>&amp;&amp;&amp;&amp;</em></p></td>
-<td><em>Jacaranda</em> raconte comment une société se reconstruit après
-l’indicible d’un génocide. Que fait-on de la violence, des envies de
-vengeance ? Comment faire société alors que les victimes vivent à côté
-de leurs bourreaux ? Roman pudique mais terriblement efficace, aussi
-fort que sensible sur la mémoire meurtrie du Rwanda, pays d’adoption de
-Gaël Faye.</td>
-</tr>
-<tr class="odd">
-<td><p><strong>HADJ</strong></p>
-<p><strong>Nathalie</strong></p></td>
-<td><p><em>L’impossible retour</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>Dans ce premier roman, la narratrice accompagne à l’hôpital son père
-mourant et le soutient jusqu’à son dernier souffle. Elle constate,
-effondrée, qu’elle ignore presque tout de l’histoire d’un homme qui a
-quitté, adolescent, en 1956, son Algérie natale pour la France. Grâce à
-la bienveillance d’un juif qui l’embauche dans son atelier de confection
-à Paris et qui lui apprend son métier, il parvient à construire une
-nouvelle vie et à fonder une famille avec Ana, une jeune Espagnole qui
-fuit le franquisme. Une exploration d’un passé familial particulièrement
-émouvante et bien conduite.</td>
-</tr>
-<tr class="even">
-<td><p><strong>HUMM</strong></p>
-<p><strong>Philibert</strong></p></td>
-<td><p><em>Roman</em></p>
-<p><em>de gare</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>Un périple drôle et poétique, planqué dans des trains de
-marchandise : Philibert entraîne son ami Simon dans une nouvelle
-aventure, devenir « hobo », du nom de ces vagabonds américains qui
-voyageaient en se cachant dans des trains de marchandise. De Villeneuve
-Saint Georges jusqu’en Occitanie, une image poétique de la liberté.</td>
-</tr>
-<tr class="odd">
-<td><p><strong>GUEZ</strong></p>
-<p><strong>Olivier</strong></p></td>
-<td><p><em>Mesopotamia</em></p>
-<p><em>&amp;&amp;&amp;&amp;</em></p></td>
-<td>Une biographie romancée qui donne à suivre le parcours de Gertrude
-Bell, une richissime héritière anglaise, polyglotte, passionnée par
-l’archéologie et les voyages. Des récits alternés qui narrent tantôt les
-déconvenues sentimentales d’une Anglaise, rigide, bridée par son
-éducation tantôt, et c’est le plus intéressant, les missions
-diplomatiques d’une femme ambitieuse pro-Arabe avec Lawrence d’Arabie
-qu’elle fréquente. Ils seront tous deux les artisans de la création d’un
-état indépendant mais sous tutelle britannique : l’Irak.
-Passionnant.</td>
-</tr>
-<tr class="even">
-<td><p><strong>IAPADRE</strong></p>
-<p><strong>Laura</strong></p></td>
-<td><p><em>L’Odyssée de Livia</em></p>
-<p><em>&amp;&amp;</em></p></td>
-<td>Un roman qui fait écho au <em>Choix</em> de Viola Ardone. Livia
-devient muette à la suite d’un AVC en pleine pandémie du Covid. Elle se
-remémore dans sa cruelle solitude son parcours d’Italienne immigrée en
-France, séparée un temps d’un mari maçon et mère de deux garçons qu’elle
-éduque au mieux. Sa vie prend un autre cours quand elle devient une
-couturière très recherchée à Paris. Un roman prenant malgré une écriture
-ampoulée et artificielle.</td>
-</tr>
-<tr class="odd">
-<td><p><strong>METEYER</strong></p>
-<p><strong>Madeleine</strong></p></td>
-<td><p><em>Les obsessions</em></p>
-<p><em>bourgeoises</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>Des embrouilles entre amies d’origines sociales différentes sont
-l’occasion d’une satire sociale réjouissante : Servane est happée par la
-prestance et l’aura de Céleste dans son élégante blouse en soie, elle
-apprend les codes, se corrige, se compare sans cesse, jusqu’au jour
-où…</td>
-</tr>
-<tr class="even">
-<td><p><strong>MINOUI</strong></p>
-<p><strong>Delphine</strong></p></td>
-<td><p><em>Badjens</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>A travers le monologue intérieur de Zahra, une adolescente de 16 ans
-qui assume pleinement son surnom de « Badjens », c’est-à-dire mauvais
-genre et effrontée, une radiographie de l’Iran actuelle, celle de la
-révolte des femmes qui osent contester les fondements de la République
-islamique. Un témoignage bouleversant sur la condition féminine en Iran
-et sur la terrible répression qui vise à bâillonner les rebelles.</td>
-</tr>
-<tr class="odd">
-<td><p><strong>OLMI</strong></p>
-<p><strong>Véronique</strong></p></td>
-<td><p><em>Le courage des innocents</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>Ben vit en marge de la société et milite activement pour des causes
-nobles. Quand il apprend que son demi-frère a été pris en charge dans un
-centre pour enfants en difficulté, il se porte aussitôt à son secours.
-Sur un coup de tête, il part avec une ONG en Ukraine et découvre à
-Kherson la politique poutinienne de déportation massive d’enfants vers
-la Russie. Un nouveau combat se profile pour lui. L’intrigue gagne peu à
-peu en intensité dramatique et le ton devient polémique dans ce roman
-dont on peut déplorer la construction un peu bancale.</td>
-</tr>
-<tr class="even">
-<td><p><strong>PASCAL</strong></p>
-<p><strong>Camille</strong></p></td>
-<td><p><em>La reine du labyrinthe</em></p>
-<p><em>&amp;&amp;&amp;&amp;</em></p></td>
-<td>Quatrième roman au souffle éminemment romanesque. Camille Pascal
-nous dévoile dans cette célèbre affaire du collier de la reine, des
-dessous politiques méconnus, jusqu’alors inexploités. Ce récit se mue en
-véritable enquête dans laquelle le souffle romanesque, le raffinement du
-style et la profondeur historique de l’auteur nous enchantent.</td>
-</tr>
-<tr class="odd">
-<td><p><strong>PEPIN</strong></p>
-<p><strong>Charles</strong></p></td>
-<td><p><em>Vivre avec</em></p>
-<p><em>son passé</em></p>
-<p><em>&amp;&amp;&amp;&amp;</em></p></td>
-<td>Une très belle leçon philosophique qui explique comment notre passé
-se rappelle à nous, à notre corps défendant. L’auteur montre, à la
-lumière des dernières découvertes des neuro-sciences, comment fonctionne
-la mémoire et donne des pistes pour nous apprendre à composer le plus
-sereinement possible avec notre passé. Un essai facile à lire et qui
-fait du bien.</td>
-</tr>
-<tr class="even">
-<td><p><strong>PEREZ-REVERTE</strong></p>
-<p><strong>Arturo</strong></p></td>
-<td><p><em>Sidi</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>Le mythe du Cid revisité par le brillant romancier espagnol. Le
-contexte historique est très clairement campé. On suit avec intérêt les
-tribulations de Ruiz Diaz alias Sidi, les combats épiques contre les
-Maures dont l’auteur dévoile la complexité et les enjeux.</td>
-</tr>
-<tr class="odd">
-<td><p><strong>PERRIN</strong></p>
-<p><strong>Valérie</strong></p></td>
-<td><p><em>Tata</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>Agnès, scénariste brillante, divorcée et mère d’une délicieuse
-fille, apprend par la gendarmerie de Gueugnon que sa tante qu’elle
-pensait morte depuis trois ans, vient de décéder. On la prie de venir
-reconnaître la « remorte ». Commence alors une enquête sur une femme
-simple qu’elle croyait ennuyeuse et banale. Un roman social qui tient du
-polar et qui séduit facilement pour peu qu’on s’attache aux personnages.
-Un peu facile peut-être et manichéen mais addictif.</td>
-</tr>
-<tr class="even">
-<td><p><strong>REDONDO</strong></p>
-<p><strong>Dolores</strong></p></td>
-<td><p><em>En attendant</em></p>
-<p><em>le déluge</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>De Glasgow à Bilbao avec un nouvel enquêteur souffrant d’une grave
-malformation cardiaque. Début des années 80, disparitions et meurtres de
-jeunes femmes, un suspect connu sous le nom de Bible John qui parvient à
-s’enfuir, alors que notre enquêteur, à deux doigts de l’arrêter, est
-victime d’une crise cardiaque et est donné pour mort. Superbe enquête
-menée tambour battant.</td>
-</tr>
-<tr class="odd">
-<td><p><strong>THILLIEZ</strong></p>
-<p><strong>Franck</strong></p></td>
-<td><p><em>Norferville</em></p>
-<p><em>&amp;&amp;&amp;&amp;</em></p></td>
-<td>Un thriller construit sur une double traque, d’abord menée par une
-jeune femme originaire de Norferville, une ville canadienne maléfique
-pour elle et une de ses amies. Elle revient vingt ans plus tard, comme
-inspectrice de police, chargée d’enquêter sur la mort suspecte d’une
-jeune femme et rencontre le père de la victime, un criminologue
-expérimenté. Ils forment équipe et découvrent de nombreuses disparitions
-jamais élucidées. Le lecteur est happé par l’intrigue et séduit par les
-deux protagonistes dont il épouse facilement la cause. Un univers
-glaçant dans tous les sens du terme.</td>
-</tr>
-<tr class="even">
-<td><p><strong>VINGTRAS</strong></p>
-<p><strong>Marie</strong></p></td>
-<td><p><em>Âmes</em></p>
-<p><em>Féroces</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td>Quatre saisons, quatre voix différentes pour tenter de trouver qui a
-tué Léo, jeune fille discrète de cette petite ville des Etats-Unis, une
-ville et des gens sans histoire, chacun croit connaître l’autre. On suit
-les personnages au plus près de leurs émotions. Marie Vingtras a su
-capter les insondables recoins de chacun, une histoire à suspense qu’on
-ne lâche pas.</td>
-</tr>
 </tbody>
 </table>
