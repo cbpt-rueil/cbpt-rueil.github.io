@@ -17,7 +17,7 @@ def split_name_title(line: str) -> tuple[str, str]:
 
 
 doc = Document()
-with open("pandoc/ACQUISITIONS DE NOVEMBRE.docx", "rb") as f:
+with open("pandoc/ACQUISITIONS.docx", "rb") as f:
     doc.docx = f.read()  # type: ignore
 
 md: str = doc.markdown.decode()  # type: ignore
@@ -47,7 +47,7 @@ md = f"# Les nouveautés du mois: {month.capitalize()} {year}" + md
 with open("nouveautes.md", "w", encoding="utf-8") as f:
     f.write(md)
 
-with open("pandoc/LISTE ANNOTEE DE NOVEMBRE 2024.docx", "rb") as f:
+with open("pandoc/LISTE ANNOTEE.docx", "rb") as f:
     doc.docx = f.read()  # type: ignore
 md: str = doc.markdown_strict.decode()  # type: ignore
 
