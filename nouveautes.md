@@ -1,41 +1,52 @@
-# Les nouveautés du mois: Octobre 2024
+# Les nouveautés du mois: Novembre 2024
 
 ## ROMANS
 
--   BARBERY Muriel Thomas Helder
--   BOUM Hemley Le rêve du pêcheur
--   BUREAU Edouard Les dernières rêveries d’Akkad
--   DIAZ Hernan Trust
--   EGLOFF Joël Ces féroces soldats
--   FREGNI René Minuit dans la ville des songes
--   GUEZ Olivier Mesopotamia
--   HUMM Philibert Roman de gare
--   IAPADRE Laura L’odyssée de Livia
--   MABROUK Sonia Et si demain tout s’inversait
--   METEYER Madeleine Les obsessions bourgeoises
--   NOLAN Megan Plus jamais
--   OLMI Véronique Le courage des innocents
--   PERRIN Valérie Tata
--   SIMIOT Bernard Ces Messieurs de Saint-Malo\* (poche)
--   SIMIOT Bernard Le Temps des Carbec, \*\* (poche)
--   VINGTRAS Marie Les âmes féroces
--   ZENITER Alice Frapper l’épopée
+- ARNIM Elizabeth (von), Avril enchanté (poche)
+- ASSOR Abigail, La nuit de David
+- BARROUK Ruben, Tout le bruit du Guéliz
+- BONNEFOY Miguel, Le rêve du jaguar
+- DECK Julia, Ann d'Angleterre
+- CHEVALIER Tracy, La fileuse de verre
+- DUGAIN Marc, L'avion, Poutine, l'Amérique... et moi
+- EL ASWANY Alaa, Au soir d'Alexandrie
+- GREGGIO Simonetta, Mes nuits sans Bardot
+- HILL Nathan, Bien-être
+- HWANG Bo-reum, Bienvenue à la librairie Hyunam
+- KERN Etienne, La vie meilleure
+- KHADRA Yasmina, Cœur-d'amande
+- LIGHIERI Rebecca, Le club des enfants perdus
+- LOUIS Edouard, L'effondrement
+- McDERMOTT Alice, Absolution
+- McFADDEN Freida, La femme de ménage (poche)
+- McFADDEN Freida, Les secrets de la femme de ménage (poche)
+- MAGEE Michael, Retour à Belfast
+- MARTINEZ Carole, Dors ton sommeil de brute
+- MONTAIGU Thibault (de), Cœur
+- PATIN Sylvie, La féerie quotidienne selon Berthe Morisot
+- PEREZ-REVERTE Arturo, L'Italien
+- RAGON Michel, Un si bel espoir
+- ROYER Corinne, Ceux du lac
+- SIRE Guillaume, Les grandes patries étranges
+- STAMM Peter, L'heure bleue
+- TAÏA Abdellah, Le Bastion des Larmes
+- TAMAGE Daphné, Le retour de Saturne
+- WHITEHEAD Colson, La règle du crime
 
-## ROMANS POLICIERS / THRILLERS
+## ROMANS POLICIERS
 
--   GIEBEL Karine Et chaque fois, mourir un peu (T1)
--   REDONDO Dolores En attendant le déluge
--   SAENZ DE URTURI Eva Garcia Un piège de papier
--   GUSTAWSSON Johana L’île de Yule (poche), Prix des lecteurs polar
+- PULIXI Piergiorgio, La librairie des chats noirs
+- STEN Viveca, Chambre 505
 
-## BIOGRAPHIES
+## BIOGRAPHIE
 
--   KRIENS CHABANE Samia Récits d’Alger et…d’ailleurs, L’histoire d’une femme libre 
--   LASSABATERE Thierry Bayard, le “bon chevalier”
--   NAY Catherine L’impétueux
--   RUFO Marcel Grands-parents, à vous de jouer
+- KENNEDY Douglas, Ailleurs, chez moi
 
-## ESSAI
+## ESSAIS / RECITS / THEÂTRE
 
--   PEPIN Charles Vivre avec son passé, Une philosophie pour aller de l’avant
-
+- BRANCA Eric La, République des imposteurs
+- DEVI Ananda, La nuit s'ajoute à la nuit
+- FRECHE Emilie, Le professeur
+- KEPEL Gilles, Le bouleversement du monde
+- MEYER Myriam, Wesh, Madame ¡
+- PATY Mickaëlle, Le cours de Monsieur Paty
