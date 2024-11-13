@@ -1,9 +1,10 @@
 # Nos conseils de lecture
 
-Au moins une fois par trimestre, nous proposons une liste de livres accompagnés de commentaires de nos lecteurs. 
+Au moins une fois par trimestre, nous proposons une liste de livres accompagnés de commentaires de nos lecteurs.
 Si vous cherchez votre prochaine lecture, cette page peut être pour vous !
 
 ## LISTE ANNOTÉE DU MOIS DE NOVEMBRE 2024
+
 <table>
 <colgroup>
 <col style="width: 23%" />
@@ -16,6 +17,8 @@ Si vous cherchez votre prochaine lecture, cette page peut être pour vous !
 <th><strong>TITRES</strong></th>
 <th><strong>COMMENTAIRES</strong></th>
 </tr>
+</thead>
+<tbody>
 <tr class="odd">
 <th><p><strong>ASSOR</strong></p>
 <p><strong>Abigail</strong></p></th>
@@ -356,7 +359,5 @@ traversées dans sa première vie ! Mais attention, difficile d’oublier et
 de mettre de côté totalement ce qu’on a été, la tentation de
 « replonger » est toujours là…</th>
 </tr>
-</thead>
-<tbody>
 </tbody>
 </table>
