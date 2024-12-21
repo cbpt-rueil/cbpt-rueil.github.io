@@ -53,8 +53,9 @@ md: str = doc.markdown_strict.decode()  # type: ignore
 
 advice_header = """# Nos conseils de lecture
 
-Au moins une fois par trimestre, nous proposons une liste de livres accompagnés de commentaires de nos lecteurs. 
-Si vous cherchez votre prochaine lecture, cette page peut être pour vous !
+Au moins une fois par trimestre, nous proposons une liste de livres accompagnés
+de commentaires de nos lecteurs. Si vous cherchez votre prochaine lecture, cette
+page peut être pour vous !
 
 ## """
 
