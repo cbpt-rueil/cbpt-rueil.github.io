@@ -1,47 +1,50 @@
-# Les nouveautés du mois: Décembre 2024
+# Les nouveautés du mois: Février 2025
 
 ## ROMANS
 
-- BOURBON PARME Amélie (de), L'ascension
-- BOURBON PARME Amélie (de), Les Trafiquants d'éternité T2
-- CARO Fabrice Fort, Alamo
-- CARSON Jan, Le fantôme de la banquette arrière
-- CHARRIER Catherine Col, Rouge
-- CHPOPLIN Antoine, La barque de Masao
-- CLERY Armand Camille,, 1815
-- FOUCHET Lorraine, Face à la mer immense
-- FOUCHET Lorraine, Entre ciel et Lou
-- LODOLI Marco, Si peu
-- MARTIN-CHAUFFIER Gilles, Clause de conscience
-- PRUDHOMME Sylvain, Coyote
-- SAINT-CRICQ Nathalie, L'ombre d'un traître
-- SANSAL Boualem, Abraham ou La cinquième Alliance (poche)
-- SANSAL Boualem, Vivre, Le compte à rebours
-- SIZUN Marie, Jeux croisés
-- SIZUN Marie La, Maison-Guerre
-- SIZUN Marie, Vous n'avez pas vu Violette ?
-- SIZUN Marie, Un jour par la forêt
-- TANGVALD Virginia, Les enfants du large
-- THOMAS Thierry, Feydeau s'en va
-- TRABUCCO ZERAN Alia, Propre (PRIX FEMINA ETRANGER, 2024)
-- ZALAPI Gabriella, Ilaria ou la conquête de la désobéissance (PRIX FEMINA DES LYCEENS, 2024)
-
-## BIOGRAPHIES / ESSAIS
-
-- JULLIAND Anne-Dauphine, Ajouter de la vie aux jours
-- LAMBRON Marc, Le monde d'avant
-- LIOTARD Yann, Juste le temps de vivre
-- PAULIN Frédéric, Nul ennemi comme frère
-- SANSAL Boualem, Le français, parlons-en!
-- TIBON Amir, Les portes de Gaza
-- TOLLET Anne-Isabelle, Le voyage interdit
-- TRINQUAND Dominique D'un, Monde à l'autre
+- ECHENOZ Jean, Bristol
+- FOUCHET Lorraine, Les couleurs de la vie
+- FLANAGAN Richard, Question 7
+- GALLAY Claudie, Les jardins de Torcello
+- GESTERN Hélène, Eux sur la photo
+- HUMBERT Fabrice, L'expérience des fantômes
+- KANG Han, Impossibles adieux
+- JOSSE Gaëlle, De nos blessures un royaume
+- LAURENS Camille, Ta promesse
+- LEMAITRE Pierre, Un avenir radieux
+- MAKINE Andreï, Prisonnier du rêve écarlate
+- MEKOUAR Zineb, Souviens-toi des abeilles
+- OATES Joyce Carol, Respire...
+- PATCHETT Ann, Un été à soi
+- PONTHUS Joseph, A la ligne, Feuillets d'usine (poche)
+- RAVEY Yves, Enlèvement avec rançon
+- ROLIN Jean, Tous passaient sans effroi
+- SANSAL Boualem 2084, La fin du monde
+- SLIMANI Leïla, J'emporterai le feu
+- SPRINGORA Vanessa, Patronyme
+- TAVERNIER Tiffany, En vérité Alice
+- THURIN Paul, Le livre de Joan
+- VENTURA Maud, Célèbre
+- WEIL Jiri, Mendelssohn est sur le toit (poche)
 
 ## ROMANS POLICIERS
 
-- BEUGLET Nicolas, L'ultime avertissement
-- BUSSI Michel, Les assassins de l'aube
-- CALLAHAN Maureen, American predator(poche)
-- DIETRICH Pascale, L'agent
-- MINIER Bernard, Les chats et 14 histoires extraordinaires cruelles (poche)
-- OLIVIER Pierre, Lorsque tous trahiront (poche)
+- CONNELLY Michael, A qui sait attendre
+- GARDNER Lisa, Dernière soirée
+- LEVY Marc, La librairie des libres interdits
+- MANCHETTE Ludovic & NIEMIEC Christian, A l'ombre de Winnicott
+
+## BIOGRAPHIES
+
+- BORDONOVE Georges, Talleyrand
+- KEPEL Gilles, Enfant de Bohême
+- NAVALNY Alexeï, Patriote
+- PICARDIE Julie Coco, Chanel
+- WINOCK Michel, Madame de Staël
+
+## ESSAIS
+
+- BRISSAC Elvire (de), O dix-neuvième!
+- LAFON Lola, Il n'a jamais été trop tard
+- MALKA Richard, Après Dieu
+- ONO-DIT-BIOT Christophe, La minute antique
