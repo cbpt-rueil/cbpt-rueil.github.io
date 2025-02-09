@@ -4,7 +4,7 @@ Au moins une fois par trimestre, nous proposons une liste de livres accompagnés
 de commentaires de nos lecteurs. Si vous cherchez votre prochaine lecture, cette
 page peut être pour vous !
 
-## LISTE ANNOTÉE DU MOIS DE DECEMBRE 2024
+## LISTE ANNOTÉE DU MOIS DE FEVRIER 2025
 
 <table>
 <colgroup>
@@ -20,249 +20,345 @@ page peut être pour vous !
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><p><strong>CARSON</strong></p>
-<p><strong>Jan</strong></p></td>
-<td><p><em>Le fantôme de</em></p>
-<p><em>la banquette</em></p>
-<p><em>arrière</em></p>
+<tr class="even">
+<td><p><strong>AMINE Kathera</strong></p>
+<p><strong>BAJAC</strong></p>
+<p><strong>Maurine</strong></p></td>
+<td><p><em>Je vous écris</em></p>
+<p><em>de Kaboul…</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>Ancrées dans l’Irlande du Nord, les seize nouvelles de ce recueil
-empli de poésie et de fantaisie, mêlent réalité sociologique et
-étrangetés irrationnelles. Livre original, à l’humour parfois grinçant
-mais plein d’humanité.</td>
+<td>Grâce à des réseaux sociaux cryptés, Maurine, une journaliste
+française, entre en contact avec une intellectuelle afghane qui est
+contrainte de se cacher avec sa famille depuis le retour au pouvoir des
+talibans et qui refuse de se soumettre. Elle nous éclaire sur la
+terrible répression qui prend surtout pour cible les femmes qu’il faut
+faire taire et effacer de l’espace public.</td>
 </tr>
-<tr class="header">
-<td><p><strong>DECK</strong></p>
-<p><strong>Julia</strong></p></td>
-<td><p><em>Ann d’Angleterre</em></p>
+<tr class="odd">
+<td><p><strong>ASTRABIE</strong></p>
+<p><strong>Sophie</strong></p></td>
+<td><p><em>La chance de</em></p>
+<p><em>sa vie</em></p>
 <p><em>&amp;&amp;</em></p></td>
-<td>Un roman qui raconte alternativement l’histoire de la mère anglaise
-de l’auteure et sa fin de vie après un AVC qui la rend dépendante. Un
-secret de famille, des zones d’ombre qui taraudent la romancière. Malgré
-une écriture inégale, un texte prenant qui donne lieu à une analyse
-subtile de l’ambivalence d’une relation mère-fille un peu trop
-fusionnelle.</td>
+<td>Un feel good book, un peu décousu et déjanté qui n’est pas
+déplaisant à lire. On peut apprécier l’écriture inventive et tonique
+d’une auteure qui nous invite à voir la vie comme un jeu, à prendre des
+risques et à ne pas se résigner.</td>
+</tr>
+<tr class="even">
+<td><p><strong>BARDON</strong></p>
+<p><strong>Catherine</strong></p></td>
+<td><p><em>Almah, une</em></p>
+<p><em>jeunesse</em></p>
+<p><em>viennoise</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Ce roman raconte bien une « jeunesse viennoise », celle d’une jeune
+fille de la grande bourgeoisie juive, née en 1911. Première guerre
+mondiale, l’empire austro-hongrois est détruit, l’histoire rattrape
+cruellement ce petit milieu éclairé. Montée du nazisme et de
+l’antisémitisme, ceux-là même qui se croyaient assimilés subissent
+l’iniquité, en attendant pire encore. Roman au charme entêtant avec le
+contraste entre la grande histoire sombre et inquiétante et la fraîche
+allégresse d’une jeune vie, celle de l’héroïne, plus forte que la
+mort.</td>
 </tr>
 <tr class="odd">
-<td><p><strong>DEVI</strong></p>
-<p><strong>Ananda</strong></p></td>
-<td><p><em>La nuit s’ajoute à la nuit</em></p>
-<p><em>&amp;&amp;</em></p>
-<p><em>Collection Ma nuit au musée</em></p></td>
-<td>La romancière choisit de passer une nuit à la prison de Montluc qui
-est devenue un Mémorial. Elle y retrouve entre autres les fantômes des
-44 enfants d’Izieu qui y ont passé une nuit avant d’être déportés, des
-Résistants célèbres et des tondues de la Libération. L’occasion pour
-cette humaniste pleine d’humilité et de respect pour tous les êtres qui
-ont été brisés par cette prison de souligner la nécessité de combattre
-l’oubli et l’indifférence aux malheurs du monde. Un texte sensible,
-malheureusement un peu répétitif.</td>
-</tr>
-<tr class="header">
-<td><p><strong>DIAZ</strong></p>
-<p><strong>Hernan</strong></p></td>
-<td><p><em>Trust</em></p>
+<td><p><strong>CHARRIER</strong></p>
+<p><strong>Catherine</strong></p></td>
+<td><p><em>Col</em></p>
+<p><em>rouge</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>Les transactions financières à Wall Street et une immersion
-corrosive dans le milieu des ultra-riches newyorkais dans les années
-1930. La double acception du titre anglais qui signifie à la fois
-« confiance » et « montage financier » donne un aperçu de l’ambivalence
-d’un monde très fermé. Un roman gigogne étourdissant qui dévoile en
-partie les dessous des cartes. Prix Pulitzer 2023.</td>
+<td>Pour remercier les Savoyards d’avoir voté pour le rattachement de la
+Savoie à la France, Napoléon III leur octroya le monopole de la
+confrérie des commissionnaires à l’hôtel des ventes de Drouot à Paris.
+Le récit raconte l’histoire d’une famille sur six générations, exerçant
+ce métier de commissionnaire (dénommé « col rouge ») au milieu de
+mobilier et d’objets d’art). 150 ans d’aventures, d’enchères (et de
+tentations…) jusqu’au jour où en 2009, l’OCBC (office central de lutte
+contre le trafic de biens culturels) et la P.J. mirent fin brutalement
+au trafic parfois frauduleux de ces « cols rouges ». Petite et grande
+histoire s’entremêlent dans ce récit vivant.</td>
+</tr>
+<tr class="even">
+<td><p><strong>CLERY</strong></p>
+<p><strong>Armand</strong></p></td>
+<td><p><em>Camille,</em></p>
+<p><em>1815</em></p></td>
+<td>En cette fin d’Empire après Waterloo, en juin-juillet 1815, quatre
+personnages vont se rechercher et se battre sur la Loire, près
+d’Orléans. Les Prussiens occupent la rive droite et les soldats de
+l’Empire commandés par le Maréchal Davout la rive gauche. C’est un roman
+d’épée et de vengeance. Le vieil Italien Harmonio Bruto qui a suivi les
+troupes jusqu’à Borodino a vu sa femme et sa petite fille massacrées. Il
+fait alors de la vengeance l’œuvre de sa vie. Le Maréchal Davout qui a
+suivi Napoléon de l’Egypte à la Russie doit ordonner la Retraite à la
+Grande Armée sur la Loire à Orléans afin de barrer la route aux
+Prussiens. Il sait qu’il doit signer la capitulation devant le baron de
+Cléry et le drapeau blanc de Louis XVIII. Le Baron, grand aristocrate,
+voyageur, essaie de comprendre, de déchiffrer le monde dans lequel il
+vit. Il se souvient d’une cavalière en habit d’homme, Camille
+d’Harpalyce. Cette dernière se veut libre : « Toute femme que je suis,
+je ne crains aucun homme à l’épée ou au sabre ». Un roman d’aventures,
+violent, sur un fond d’histoire peu connu. PRIX NAPOLEON 1<sup>er</sup>
+2024.</td>
 </tr>
 <tr class="odd">
-<td><p><strong>KEPEL</strong></p>
-<p><strong>Gilles</strong></p></td>
-<td><p><em>Le bouleversement du monde</em></p>
+<td><p><strong>DIETRICH</strong></p>
+<p><strong>Pascale</strong></p></td>
+<td><p><em>L’agent</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>L’auteur examine les conséquences à l’échelle mondiale de la
-« razzia pogromiste » du 7 octobre 2023 suivie de l’hécatombe des
-Palestiniens à Gaza. Il met en évidence avec une grande clarté le
-chamboulement géopolitique avec l’émergence d’un Sud global autoproclamé
-qui conteste l’hégémonie du Nord. Autres effets : la polarisation
-identitaire et des sociétés fracturées selon des lignes de faille
-inédites.</td>
+<td>Un roman déjanté, au rythme enlevé, qui entraîne le lecteur dans une
+course-poursuite folle où les rencontres les plus improbables nous
+amusent alors même qu’il n’est question que de tueurs à gages d’une
+amoralité totale, bien décidés à débarrasser la société des parasites et
+des nuisibles. Un prétexte pour défendre, avec des formules bien
+senties, les « vies méprisées et bradées » ou « mises au rebut » par la
+société.</td>
 </tr>
-<tr class="header">
-<td><p><strong>LECOINTRE</strong></p>
-<p><strong>François</strong></p></td>
-<td><p><em>Entre</em></p>
-<p><em>Guerres</em></p>
+<tr class="even">
+<td><p><strong>EL ASWANY</strong></p>
+<p><strong>Alaa</strong></p></td>
+<td><p><em>Au soir</em></p>
+<p><em>d’Alexandrie</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>Le général Lecointre fait le récit de son engagement militaire, une
-tradition familiale, un père, un grand-père, un oncle mort très jeune en
-Algérie. Une formation à Saint Cyr à l’âge de 22 ans, le préparant à la
-guerre alors qu’elle semblait appartenir au passé sur le territoire
-européen. Être projeté avec ses soldats dans le mal absolu au Rwanda
-(1994) puis en Bosnie. Chef d’Etat-major des armées, en retraite, ne
-plus participer à la guerre alors qu’elle est aux portes de l’Europe en
-Ukraine. Être un soldat, c’est aussi être tué avec ses hommes et tuer
-l’autre, ce qui conduit à une réflexion sur la mort. Une dernière
-réflexion sur la communauté des familles, la solidarité entre ceux qui
-combattent pour nous, pour la France.</td>
+<td>Un roman plein de nostalgie qui évoque l’Alexandrie cosmopolite des
+années 1950, le bonheur des échanges et des fêtes, juste avant l’arrivée
+au pouvoir de Nasser. Le roman célèbre l’amitié et la tolérance par-delà
+les différences.</td>
 </tr>
 <tr class="odd">
-<td><p><strong>LOUIS</strong></p>
-<p><strong>Edouard</strong></p></td>
-<td><p><em>L’effondrement</em></p>
+<td><p><strong>GELY</strong></p>
+<p><strong>Cyril</strong></p></td>
+<td><p><em>Le dernier thé de maître Soho</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>Le romancier apprend la mort à trente-huit ans de son demi-frère
-aîné, abandonné dans sa petite enfance par un père parti pour fonder une
-autre famille. Il entreprend de retracer le parcours de ce frère
-alcoolique, violent et homophobe qu’il n’aimait pas, pour tenter de le
-comprendre. Une interrogation douloureuse sur les déterminismes sociaux
-et sur les responsabilités des adultes qui humilient les enfants au lieu
-de les éduquer. Un livre qui bouleverse, marque et fait réfléchir.</td>
+<td>Récit et voyage poétiques qui nous emmènent dans le Japon
+traditionnel en 1875, à la rencontre de Akira Sohô, samouraï renommé, et
+de Ibuki, héritière d’un producteur de saké qui rêve de devenir
+samouraï. Maître Sohô l’accepte comme élève à condition qu’elle s’initie
+aussi à l’art du thé car d’après Maître Sohô, un samouraï ne se réduit
+pas au sabre, il doit aussi connaître tous les arts : la calligraphie,
+la peinture, la poésie et, le plus important, l’art subtil du thé car un
+samouraï n’est rien sans cet art. Après deux ans d’initiation, Ibuki
+devra choisir : voie du sabre ou voie du thé ! … car le sabre est
+synonyme de ruine et le thé, l’image de la vie.</td>
 </tr>
-<tr class="header">
-<td><p><strong>McDERMOTT</strong></p>
-<p><strong>Alice</strong></p></td>
-<td><p><em>Absolution</em></p>
+<tr class="even">
+<td><p><strong>GESTERN</strong></p>
+<p><strong>Hélène</strong></p></td>
+<td><p><em>Cézembre</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>A la fin de sa vie, dans une longue lettre, Patricia confie à Rainey
-qu’elle a connue enfant à Saïgon, sa vie d’épouse américaine expatriée,
-pendant la guerre du Vietnam. Bien qu’elle ait été rapidement intégrée
-par la charismatique Charlene, mère de Rainey, elle ne se sent pas à
-l’aise dans ce monde de cocktails et d’œuvres de charité. Un joli
-portrait de femme emplie de doutes et de prises de conscience.</td>
+<td>Si vous aimez Saint Malo et si l’île de Cézembre vous fascine, ce
+roman est pour vous. Une écriture ciselée pour un roman qui reconstitue
+l’histoire d’une famille d’armateurs bretons tout en en dévoilant
+progressivement les secrets. On se laisse facilement charmer par
+l’évocation très poétique des paysages marins.</td>
 </tr>
 <tr class="odd">
-<td><p><strong>MONNIN</strong></p>
-<p><strong>Isabelle</strong></p></td>
-<td><p><em>Odette Froyard</em></p>
-<p><em>en trois façons</em></p>
+<td><p><strong>GLOWACKI</strong></p>
+<p><strong>Ingrid</strong></p></td>
+<td><p><em>La Poète aux</em></p>
+<p><em>Mains noires</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>« Est-il possible qu’on ne soit rien ? », « Existe-t-il des vies qui
-ne valent rien ? ». Voilà les questions qui ouvrent une biographie
-consacrée à la grand-mère tant aimée de l’auteure, une femme
-particulièrement effacée et dévouée aux autres dont elle ne sait
-quasiment rien. On se laisse peu à peu prendre par son enquête qui va la
-conduire jusqu’à une institution maçonnique où sa grand-mère a passé une
-partie de son enfance, et à bien d’autres révélations surprenantes. Des
-réflexions profondes dans un roman rédigé dans une langue élégante et
-qui parle de réparation. Un bel hommage à un « cœur simple ».</td>
+<td>Fiction romancée de la vie de Marie Talbot. A sa naissance en 1814 à
+La Borne dans le Berry, pays du grès dédié à la poterie, elle s’appelait
+Jeanne Brulé, car bâtarde. Son père l’initie à ce métier malgré les
+réticences des apprentis hommes de l’atelier. Elle s’appellera désormais
+Marie Talbot. Féministe avant l’heure, elle va oser briser les tabous,
+se faire une place dans cette société patriarcale où les femmes doivent
+se taire, et où leur rôle est limité à la famille. Elle sera une femme
+libre, rebelle, s’affranchissant des carcans de son siècle. Elle
+s’exprimera par ses créations anthropomorphes, toujours de
+femmes-fontaines ou femmes-bouteilles qu’elle signera : « Fait par moi
+Marie Talbot ». Elle va vivre sa vraie passion : être potière,
+céramiste, sculptrice et poète mais au détriment de sa vie de femme et
+de mère.</td>
 </tr>
-<tr class="header">
-<td><p><strong>MONTAIGU</strong></p>
-<p><strong>Thibault (de)</strong></p></td>
-<td><p><em>Cœur</em></p>
+<tr class="even">
+<td><p><strong>HWANG</strong></p>
+<p><strong>Bo-reum</strong></p></td>
+<td><p><em>Bienvenue à la</em></p>
+<p><em>librairie</em></p>
+<p><em>Hyunam</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Bienvenue dans une librairie coréenne tenue par une passionnée de
+lecture qui est persuadée que « plus le nombre de lecteurs augmente,
+plus le monde devient meilleur » ! Une librairie où on vient faire une
+pause, un délicieux lieu de rencontre et de méditation pour ceux qui
+s’interrogent sur la juste place du travail dans la société.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>JULLIAND</strong></p>
+<p><strong>Anne-Dauphine</strong></p></td>
+<td><p><em>Ajouter</em></p>
+<p><em>de la vie</em></p>
+<p><em>aux jours</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>La force de ce témoignage d’une mère « orpheline » de trois de ses
+quatre enfants réside dans la retenue et l’élégance du récit qui refuse
+les leçons de sagesse boursouflées, l’expression emphatique du deuil.
+Elle évoque les disparus avec des mots choisis et se reconstruit dans
+les petits riens de la vie, dans l’empathie pour d’autres personnes en
+souffrance qu’elle rencontre et soutient. Un très beau texte,
+particulièrement prenant et consolateur.</td>
+</tr>
+<tr class="even">
+<td><p><strong>LAFON</strong></p>
+<p><strong>Lola</strong></p></td>
+<td><p><em>Il n’a jamais été trop tard</em></p>
+<p><em>&amp;&amp;</em></p></td>
+<td>Un journal de bord des années 2023 et 2024 qui donne lieu à une
+réflexion sur la difficulté d’habiter le présent à une époque troublée
+et incertaine. Le regard d’une féministe et d’une humaniste qui refuse
+de se laisser submerger par les peurs hystérisées et souvent
+instrumentalisées dans les sociétés modernes.</td>
+</tr>
+<tr class="odd">
+<td><p><strong>LEMAITRE</strong></p>
+<p><strong>Pierre</strong></p></td>
+<td><p><em>Un avenir</em></p>
+<p><em>Radieux</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Le troisième volet de la trilogie consacrée aux trente Glorieuses.
+L’auteur nous propose une sorte de roman d’espionnage et pour ce faire,
+envoie l’un des fils Pelletier à Prague, en pleine guerre froide. Un
+questionnement intéressant sur les premiers accidents nucléaires,
+soigneusement escamotés dans les années 1950-1960. Indéniablement
+plaisant à lire, un peu caricatural et simpliste parfois.</td>
+</tr>
+<tr class="even">
+<td><p><strong>LODOLI</strong></p>
+<p><strong>Marco</strong></p></td>
+<td><p><em>Si peu</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td><p>La jeune concierge d’un lycée de la banlieue de Rome tombe
+amoureuse (« at first sight ») du nouveau professeur de Lettres arrivé
+en retard pour son premier jour d’enseignement. Elle nous raconte cet
+amour fou, insensé, presque mystique…, qui va durer au long des 40
+années suivantes, envahissant tout son quotidien solitaire monotone,
+sans que Matteo, dans son propre parcours compliqué d’enseignant et
+d’écrivain n’en sache jamais rien et n’ait jamais eu le moindre échange
+avec elle…</p>
+<p>Ce court roman (142p.), à l’écriture fluide très cinématographique,
+d’une obsession amoureuse, d’une vie à attendre, est aussi une réflexion
+poétique et philosophique sur l’amour, le sens d’une vie… Il peut
+également donner envie de découvrir son auteur, qui avait, dès son
+premier livre, en 1987, obtenu un beau prix littéraire en
+Italie.</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>MAKINE</strong></p>
+<p><strong>Andreï</strong></p></td>
+<td><p><em>Prisonnier</em></p>
+<p><em>du rêve</em></p>
+<p><em>écarlate</em></p>
 <p><em>&amp;&amp;&amp;&amp;</em></p></td>
-<td>L’auteur finit par céder à une demande pressante de son père très
-malade : écrire la biographie de son arrière-grand-père Louis, considéré
-comme un héros de la Première guerre mondiale pour avoir conduit une
-charge héroïque à la tête des cavaliers qu’il dirigeait. En menant une
-enquête plus difficile que prévu et en recourant à la psychologie
-transgénérationnelle, il en vient à découvrir qui fut vraiment le héros
-familial et restitue l’histoire des siens sur cinq générations, une
-histoire pleine de zones d’ombre. Une belle méditation sur le goût du
-panache et l’idéal chevaleresque cher à sa famille et une enquête
-passionnante à suivre. On est ému par la piété filiale de l’auteur.</td>
+<td>La terrible histoire d’un jeune communiste qui croit à l’avenir
+radieux promis par les soviétiques. Quand, le 16 août 1939, il arrive
+avec une délégation française en Russie, il ouvre les yeux, cherche à
+comprendre… Un récit poignant et haletant, avec de multiples
+rebondissements. L’auteur nous propose une réflexion passionnante, tout
+en finesse sur les idéologies majeures du XXème siècle et sur les
+errements de certains intellectuels.</td>
+</tr>
+<tr class="even">
+<td><p><strong>MALKA</strong></p>
+<p><strong>Richard</strong></p></td>
+<td><p><em>Après Dieu</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Dans la collection Ma nuit au musée, un essai revigorant et tonique
+construit à partir d’une conversation avec Voltaire, dans la crypte du
+Panthéon. L’occasion de revenir sur la question de la laïcité et
+d’élargir la réflexion sur la place et la fonction des religions.</td>
 </tr>
 <tr class="odd">
-<td><p><strong>ROYER</strong></p>
-<p><strong>Corinne</strong></p></td>
-<td><p><em>Ceux du lac</em></p>
-<p><em>&amp;&amp;</em></p></td>
-<td>La romancière part d’une histoire vraie. Le delta de Vacaresti, à
-six kilomètres de Bucarest est transformé avec la bénédiction de l’Union
-européenne en réserve naturelle, ce qui aboutit au déplacement forcé
-d’une famille de Roms. Un roman bouleversant qui nous sensibilise au
-destin d’une communauté traitée comme un peuple de parias par les
-Roumains.</td>
-</tr>
-<tr class="header">
-<td><p><strong>SANSAL</strong></p>
-<p><strong>Boualem</strong></p></td>
-<td><p><em>Le français,</em></p>
-<p><em>parlons-en !</em></p>
+<td><p><strong>PATCHETT</strong></p>
+<p><strong>Ann</strong></p></td>
+<td><p><em>Un été à soi</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>Un essai brillant, érudit et percutant. En pastichant <em>Le Neveu
-de Rameau</em> de Diderot, l’auteur nous bouscule en nous invitant à
-réfléchir sur les origines et le devenir de notre langue et ce faisant à
-revisiter notre histoire. Il plaide pour un humanisme militant qui
-ferait barrage au fanatisme, au nom du « principe de liberté, de
-tolérance et de doute » qu’il faut défendre à tout prix. Une belle
-célébration de la force créatrice de la langue, en l’occurrence la
-langue française, socle de l’unité nationale.</td>
+<td>Au printemps 2020, en pleine pandémie, Lara accueille ses trois
+filles dans la cerisaie familiale du Michigan. C’est l’occasion pour
+elle de revenir sur sa jeunesse et sur son histoire d’amour avec un
+acteur devenu une star qu’elle s’empresse de démythifier. Une délicate
+méditation sur la passion et sur l’amour conjugal inscrite dans une
+forme d’éducation sentimentale. Un hymne à l’harmonie familiale et à la
+beauté de la nature !</td>
+</tr>
+<tr class="even">
+<td><p><strong>PICHAT</strong></p>
+<p><strong>Bérénice</strong></p></td>
+<td><p><em>La Petite Bonne</em></p>
+<p><em>&amp;&amp;&amp;&amp;</em></p></td>
+<td>La romancière orchestre, en vers et en prose, la confrontation
+poignante entre une gueule cassée et son employée de maison, ou plutôt
+bonniche comme on disait. La petite bonne s’exprime en vers libres, une
+manière d’enjoliver le quotidien répétitif et morne d’une employée de
+maison. Elle travaille chez les Daniel, Alexandrine et Blaise ; lorsque
+vient leur tour de raconter, la prose reprend sa place. Alexandrine est
+sur le point de partir pour une escapade à la campagne, vingt ans
+qu’elle veille sur son mari, gueule cassée : il était pianiste, il est
+désormais homme tronc. Dans sa tête, la bonne l’appelle le vieux ; il va
+profiter de l’absence de sa femme pour lui demander de commettre
+l’irréparable, ils vont se découvrir en miroir. L’émotion affleure sans
+jamais nous engloutir, l’espoir est privilégié, ce n’est pas rien.</td>
 </tr>
 <tr class="odd">
-<td><p><strong>STAMM</strong></p>
-<p><strong>Peter</strong></p></td>
-<td><p><em>L’heure bleue</em></p>
-<p><em>&amp;&amp;</em></p></td>
-<td>Si vous aimez les romans avec des intrigues bien fournies et pleines
-de rebondissements, passez votre chemin. En revanche, si vous ne boudez
-pas les réflexions sur les questions existentielles, le dernier roman de
-cet auteur suisse très prisé peut vous intéresser. Peut-on vraiment
-connaître les autres et rendre compte de ce qu’ils sont ? La
-documentariste Andrea et son compagnon tentent de monter un film sur un
-romancier mais se heurtent à toutes sortes de difficultés. Intéressant
-mais inégal. Des pages inspirées cependant.</td>
-</tr>
-<tr class="header">
-<td><p><strong>TANGVALD</strong></p>
-<p><strong>Virginia</strong></p></td>
-<td><p><em>Les enfants du</em></p>
-<p><em>large</em></p>
+<td><p><strong>PRUDHOMME</strong></p>
+<p><strong>Sylvain</strong></p></td>
+<td><p><em>Coyote</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>Ce n’est pas un roman mais l’incroyable Odyssée d’un aventurier sur
-tous les océans, retracé par sa dernière fille. Virginia n’avait que
-trois ans quand sa mère et elle se sont enfuies. Peter Tangvald a eu
-plusieurs femmes et enfants qui périrent en mer. Epris de liberté,
-égoïste et idéaliste, il ne trouva pas la paix et la sérénité que
-cherchait Virginia pour se construire. On se laisse embarquer même si on
-connaît l’issue fatale, restent des images fortes de naufrage et des
-cris d’enfants qui peuvent heurter les âmes sensibles.</td>
+<td>L’auteur décide de se lancer dans un road trip et fait de
+l’auto-stop, le long du mur construit du Pacifique à l’Atlantique pour
+empêcher le passage des migrants illégaux aux Etats-Unis. Ce voyage
+donne lieu à des rencontres et à des échanges dont l’écrivain nous donne
+le verbatim. Récit intéressant et édifiant !</td>
+</tr>
+<tr class="even">
+<td><p><strong>SLIMANI</strong></p>
+<p><strong>Leïla</strong></p></td>
+<td><p><em>J’emporterai</em></p>
+<p><em>Le feu</em></p>
+<p><em>&amp;&amp;&amp;</em></p></td>
+<td>Un roman qui clôt la trilogie du « Pays de l’autre ». Après
+l’histoire de Mathilde et d’Amine, on passe à la génération suivante
+dont on découvre les heurs et les malheurs, de Casablanca à New York en
+passant par Rabat. Le lecteur suit le parcours de la fille aînée des
+Daoud, ses émois et son questionnement. Le titre du roman renvoie à son
+« exil » à Paris où la jeune femme tente de trouver sa voie. Un regard
+sans complaisance sur l’évolution du Maroc des années 1980 au début du
+nouveau millénaire.</td>
 </tr>
 <tr class="odd">
-<td><p><strong>TOLLET</strong></p>
-<p><strong>Anne-Isabelle</strong></p></td>
-<td><p><em>Voyage interdit</em></p>
+<td><p><strong>THIBON</strong></p>
+<p><strong>Amir</strong></p></td>
+<td><p><em>Les portes de Gaza</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>Grâce à un visa touristique (les journalistes occidentaux sont
-interdits en Iran) voyage d’une journaliste qui, malgré le danger, à
-travers ses rencontres avec des Iraniens nous décrit non seulement la
-situation actuelle des femmes mais aussi l’oppression d’un peuple face à
-un régime totalitaire et corrompu.</td>
+<td>Amir Tibon, correspondant diplomatique pour le quotidien Haaretz
+vivait avec sa famille dans le kibboutz Nahal Oz, situé à moins d’un
+kilomètre des « portes de Gaza ». Au petit matin du 7 octobre 2023, il a
+le temps de trouver refuge dans la pièce sécurisée de sa maison quand
+des hommes armés du Hamas envahissent le kibboutz. Il lui faudra
+attendre une dizaine d’heures pour être délivré par son père et les
+forces de sécurité. En alternance avec son témoignage, il nous livre
+avec un souci de la vérité historique qui l’honore l’histoire du conflit
+israélo-palestinien depuis les années 50 jusqu’à nos jours. Il ne ménage
+pas ses critiques sur la vie politique israélienne et sur Netanyahou
+tout en analysant la progressive prise de pouvoir du Hamas. Un livre
+passionnant et rigoureux qui nous donne les clés d’une guerre conduite
+par ceux qu’il appelle des « psychopathes et des hommes
+égocentriques ».</td>
 </tr>
-<tr class="header">
-<td><p><strong>TRABUCCO ZERAN</strong></p>
-<p><strong>Alia</strong></p></td>
-<td><p><em>Propre</em></p>
-<p><em>&amp;&amp;&amp;/&amp;</em></p></td>
-<td>Julia, la fillette du couple qui emploie Estela comme domestique,
-est morte. On ne sait que cela au début du roman. Accident, meurtre ?
-Dans un long monologue, Estela livre son témoignage sur le drame, à un
-public invisible, derrière une vitre sans tain, (en prison, à la police,
-dans un asile psychiatrique ?). Elle remonte dans ses souvenirs, de son
-enfance d’enfant pauvre dans le sud du Chili jusqu’à l’inéluctable, la
-mort de la fillette. Le lecteur est pris à parti pour entendre sa
-colère, sa hargne, sa rage accumulée en elle depuis qu’elle sert cette
-famille : plus de vie « propre », sa solitude car elle est transparente
-aux yeux de ses employeurs. Elle révèle aussi les hypocrisies, les
-injustices et la réalité sociale du Chili, souvent avec brutalité et une
-pointe de sarcasme. Roman psychologique addictif : lecture percutante.
-Le lecteur se fera son opinion sur l’origine exacte de la mort de la
-fillette et sur l’état d’esprit d’Estela… à la fin du roman.</td>
-</tr>
-<tr class="odd">
-<td><p><strong>ZENITER</strong></p>
-<p><strong>Alice</strong></p></td>
-<td><p><em>Frapper</em></p>
-<p><em>l’épopée</em></p>
+<tr class="even">
+<td><p><strong>ZALAPI</strong></p>
+<p><strong>Gabriella</strong></p></td>
+<td><p><em>Ilaria</em></p>
 <p><em>&amp;&amp;&amp;</em></p></td>
-<td>Tass est une métisse qui est née en Nouvelle-Calédonie. Elle partage
-sa vie entre Paris et son archipel natal, jusqu’à sa rupture avec son
-compagnon parisien. Elle enseigne le français dans un lycée technique,
-s’intéresse à ses élèves et s’interroge sur la subite déscolarisation de
-jumeaux Kanaks. En menant son enquête, elle s’aventure dans des zones
-qu’elle ne connaît pas et découvre mieux encore le quotidien difficile
-d’une partie de la population. La romancière revient sur l’histoire du
-« Caillou », de la colonisation et sur la terrible déportation au XIXème
-siècle de Kabyles qui auraient pu être ses ancêtres. Un livre sensible
-qui tente de cerner au mieux la situation politique et sociale de cette
-région du monde.</td>
+<td>En 1980, Ilaria est enlevée à sa mère par son père qui n’accepte pas
+le divorce et qui l’entraîne dans une sorte de road trip à travers
+l’Italie. Le père vit d’expédients et de trafics louches et emmène la
+fillette de huit ans dans des bars et des hôtels souvent minables.
+Comment échapper à l’emprise d’un père irresponsable ? Le lecteur suit
+avec intérêt et émotion le cheminement d’Ilaria qui découvre la réalité
+sociale et politique de son pays tout en essayant de se construire.</td>
 </tr>
 </tbody>
 </table>
