@@ -1,50 +1,35 @@
-# Les nouveautés du mois: Février 2025
+# Les nouveautés du mois: Mars 2025
 
 ## ROMANS
 
-- ECHENOZ Jean, Bristol
-- FOUCHET Lorraine, Les couleurs de la vie
-- FLANAGAN Richard, Question 7
-- GALLAY Claudie, Les jardins de Torcello
-- GESTERN Hélène, Eux sur la photo
-- HUMBERT Fabrice, L'expérience des fantômes
-- KANG Han, Impossibles adieux
-- JOSSE Gaëlle, De nos blessures un royaume
-- LAURENS Camille, Ta promesse
-- LEMAITRE Pierre, Un avenir radieux
-- MAKINE Andreï, Prisonnier du rêve écarlate
-- MEKOUAR Zineb, Souviens-toi des abeilles
-- OATES Joyce Carol, Respire...
-- PATCHETT Ann, Un été à soi
-- PONTHUS Joseph, A la ligne, Feuillets d'usine (poche)
-- RAVEY Yves, Enlèvement avec rançon
-- ROLIN Jean, Tous passaient sans effroi
-- SANSAL Boualem 2084, La fin du monde
-- SLIMANI Leïla, J'emporterai le feu
-- SPRINGORA Vanessa, Patronyme
-- TAVERNIER Tiffany, En vérité Alice
-- THURIN Paul, Le livre de Joan
-- VENTURA Maud, Célèbre
-- WEIL Jiri, Mendelssohn est sur le toit (poche)
+- AZOULAI Nathalie, Toutes les vies de Théo
+- BLANKFELD Keren, Les amants d'Auschwitz
+- DROIT Roger-Pol, Alice au pays des idées
+- FAVIER Emmanuelle, Ecouter les eaux vives
+- FOENKINOS David, Tout le monde aime Clara
+- LAESTADIUS Ann-Helen, Straff
+- SANDREL Julien, Beaucoup d'amour et quelques cendres
+- SIZUN Marie, L'absent
+- STROUT Elizabeth, Lucy face à la mer
+- VIDA Vendela, Dompter les vagues
 
 ## ROMANS POLICIERS
 
-- CONNELLY Michael, A qui sait attendre
-- GARDNER Lisa, Dernière soirée
-- LEVY Marc, La librairie des libres interdits
-- MANCHETTE Ludovic & NIEMIEC Christian, A l'ombre de Winnicott
+- INDRIDASON Arnaldur, Les lendemains qui chantent
+- BARCLAY Linwood, Disparue à cette adresse
+- GOMEZ-JURADO Juan, Reine rouge (poche)
+- INCARDONA Joseph, Stella et l'Amérique (poche)
 
 ## BIOGRAPHIES
 
-- BORDONOVE Georges, Talleyrand
-- KEPEL Gilles, Enfant de Bohême
-- NAVALNY Alexeï, Patriote
-- PICARDIE Julie Coco, Chanel
-- WINOCK Michel, Madame de Staël
+- BARDON Catherine, Une femme debout
+- BUISSON Marie-Laure Espionnes., Six agents secrets d'exception
+- LODGE David L'auteur!, L'auteur!
+- MILESI Jean-Louis Flamboyante, Zola
 
 ## ESSAIS
 
-- BRISSAC Elvire (de), O dix-neuvième!
-- LAFON Lola, Il n'a jamais été trop tard
-- MALKA Richard, Après Dieu
-- ONO-DIT-BIOT Christophe, La minute antique
+- DA EMPOLI Giuliano, Les ingénieurs du chaos (poche)
+- GRAS Cédric, Les routes de la soif
+- GRAS Cédric, Voyage aux sources de la mer d'Aral
+- LAURENT Boris, La guerre totale à l'est (1941-1945)
