@@ -29,10 +29,10 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
   les romans de la littérature étrangère</s>
 - <s>4 mars 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture: roman
   et poésie</s>
-- 29 mars 2025: 15h30-17h, Orangerie square Lagauche, café littéraire: l'amour
-  toujours
-- 8 avril: 15h-16h30, Orangerie square Lagauche, cercle de lecture: la
-  littérature du réel (non fiction)
+- <s>29 mars 2025: 15h30-17h, Orangerie square Lagauche, café littéraire: l'amour
+  toujours</s>
+- <s>8 avril: 15h-16h30, Orangerie square Lagauche, cercle de lecture: la
+  littérature du réel (non fiction)</s>
 
 ## Nos permanences
 
