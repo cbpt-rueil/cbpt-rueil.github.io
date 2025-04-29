@@ -33,6 +33,11 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
   toujours</s>
 - <s>8 avril: 15h-16h30, Orangerie square Lagauche, cercle de lecture: la
   littérature du réel (non fiction)</s>
+- <s>26 avril: 10h-13h, Orangerie square Lagauche, Matinée portes ouvertes</s>
+- 22 mai: 10h-12h30, Orangerie square Lagauche, La dictée de l'orangerie
+  (niveaux difficile et facile prévus)
+- 27 mai: 15h-16h30, Orangerie square Lagauche, cercle de lecture: le meilleur
+  de la littérature mondiale du XXIème siècle
 
 ## Nos permanences
 
