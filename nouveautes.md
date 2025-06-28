@@ -1,35 +1,43 @@
-# Les nouveautés du mois: Mars 2025
-
+# Les nouveautés du mois: Juin 2025
+  
 ## ROMANS
+- ALEXIEVITCH Svetlana, La Fin de l’homme rouge
+- APPELFELD Aharon, La chambre de Mariana (poche)
+- ARDITI Metin,   Le danseur oriental
+- AVALLONE Silvia, Cœur noir
+- BARICCO Alessandro,  Abel
+- CLAUDEL Philippe,   Wanted
+- DICKER Joël,  La Très Catastrophique Visite au zoo
+- FOUCHET Lorraine,  Aller simple pour la joie
+- GRANN David,   Il était une fois les Amériques
+- GRIMALDI Virginie,  Les heures fragiles
+- LAFON Marie-Hélène, Vie de Gilles  
+- ORBAN Christine, Mademoiselle Spencer
+- PAMUK Orhan, La femme aux cheveux roux
+- RUFIN Jean-Christophe,  Le revenant d’Albanie
+- SHIMAZAKI Aki,Ajisaï
 
-- AZOULAI Nathalie, Toutes les vies de Théo
-- BLANKFELD Keren, Les amants d'Auschwitz
-- DROIT Roger-Pol, Alice au pays des idées
-- FAVIER Emmanuelle, Ecouter les eaux vives
-- FOENKINOS David, Tout le monde aime Clara
-- LAESTADIUS Ann-Helen, Straff
-- SANDREL Julien, Beaucoup d'amour et quelques cendres
-- SIZUN Marie, L'absent
-- STROUT Elizabeth, Lucy face à la mer
-- VIDA Vendela, Dompter les vagues
 
 ## ROMANS POLICIERS
-
-- INDRIDASON Arnaldur, Les lendemains qui chantent
-- BARCLAY Linwood, Disparue à cette adresse
-- GOMEZ-JURADO Juan, Reine rouge (poche)
-- INCARDONA Joseph, Stella et l'Amérique (poche)
+- FLUKE Joanne,Meurtres et carrot cake 
+ Les enquêtes d’ Hannah Swensen
+- FOUASSIER Eric, Requiem pour la dame Blanche
+- GIEBEL Karine,Chambres noires 
+- HIGASHINO Keigo, Le fil de l’espoir
+- McFADDEN Freida,La prof
+- McFADDEN Freida,La Psy (poche)
+- PULIXI Piergiorgio, Stella
 
 ## BIOGRAPHIES
+- GOLDNADEL Gilles-William,   Journal d’un prisonnier
+- PERRIGNON Judith,  L’autre Amérique
 
-- BARDON Catherine, Une femme debout
-- BUISSON Marie-Laure Espionnes., Six agents secrets d'exception
-- LODGE David L'auteur!, L'auteur!
-- MILESI Jean-Louis Flamboyante, Zola
-
-## ESSAIS
-
-- DA EMPOLI Giuliano, Les ingénieurs du chaos (poche)
-- GRAS Cédric, Les routes de la soif
-- GRAS Cédric, Voyage aux sources de la mer d'Aral
-- LAURENT Boris, La guerre totale à l'est (1941-1945)
+## ESSAIS /RECITS / BD
+- BELAÏCH Charlotte et PEROU Olivier,  La Meute
+- CHENG François,   Une nuit au cap de la Chèvre
+- DAOUD Kamel,  Avant qu’il ne soit trop tard
+- DESERABLE François-Henri,Chagrin d’un chant inachevé
+- HORVILLEUR Delphine,Euh…
+ Comment parler de la mort aux enfants
+- SAVIANO Roberto,Giovanni Falcone
+  
