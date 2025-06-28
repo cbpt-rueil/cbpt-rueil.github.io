@@ -16,35 +16,47 @@ site.
 
 La bibliothèque propose aussi des évènements tout au long de l'année. Voici la liste des évènements pour l'année en cours:
 
-- <s>8 septembre 2024: <a href="https://www.villederueil.fr/en/node/6239">Forum
-  des associations de Rueil-Malmaison</a></s>
-- <s>8 octobre 2024: 15h-16h30, Orangerie square Lagauche, cercle de lecture</s>
-- <s>12 octobre 2024: café littéraire, 15h30-17h30, les livres de la rentrée
-  littéraire</s>
-- <s>26 novembre 2024: 15h-16h30, Orangerie square Lagauche, cercle de lecture:
-  les prix littéraires</s>
-- <s>14 décembre 2024: 15h30-17h30, Orangerie square Lagauche, rencontre avec
-  Marie Sizun</s>
-- <s>14 janvier 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture:
-  les romans de la littérature étrangère</s>
-- <s>4 mars 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture: roman
-  et poésie</s>
-- <s>29 mars 2025: 15h30-17h, Orangerie square Lagauche, café littéraire: l'amour
-  toujours</s>
-- <s>8 avril: 15h-16h30, Orangerie square Lagauche, cercle de lecture: la
-  littérature du réel (non fiction)</s>
-- <s>26 avril: 10h-13h, Orangerie square Lagauche, Matinée portes ouvertes</s>
-- 22 mai: 10h-12h30, Orangerie square Lagauche, La dictée de l'orangerie
-  (niveaux difficile et facile prévus)
+### Evènements à venir:
+
+- 7 septembre 2025: 10h-18h, Forum des Associations
+- 16 septembre: 15h-16h30, cercle de lecture: Eloge de la bienveillance
+- 11 octobre: 15h30-17h30: café littéraire: Récits et carnets de voyage, ouvert à tous
+- 16 octobre: 15h: la dictée de l'Orangerie, ouverte à tous
+  
+### Evènements passés:
+
+- 21 juin: 9h30-13h, grande braderie annuelle 
 - 27 mai: 15h-16h30, Orangerie square Lagauche, cercle de lecture: le meilleur
   de la littérature mondiale du XXIème siècle
+- 22 mai: 10h-12h30, Orangerie square Lagauche, La dictée de l'orangerie
+  (niveaux difficile et facile prévus)
+- 26 avril: 10h-13h, Orangerie square Lagauche, Matinée portes ouvertes
+- 8 avril: 15h-16h30, Orangerie square Lagauche, cercle de lecture: la
+  littérature du réel (non fiction)
+- 29 mars 2025: 15h30-17h, Orangerie square Lagauche, café littéraire: l'amour
+  toujours
+- 4 mars 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture: roman
+  et poésie
+- 14 janvier 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture:
+  les romans de la littérature étrangère
+- 14 décembre 2024: 15h30-17h30, Orangerie square Lagauche, rencontre avec
+  Marie Sizun
+- 26 novembre 2024: 15h-16h30, Orangerie square Lagauche, cercle de lecture:
+  les prix littéraires
+- 12 octobre 2024: café littéraire, 15h30-17h30, les livres de la rentrée
+  littéraire
+- 8 octobre 2024: 15h-16h30, Orangerie square Lagauche, cercle de lecture
+- 8 septembre 2024: [Forum des associations de Rueil-Malmaison](https://www.villederueil.fr/en/node/6239)
 
 ## Nos permanences
+
+> [!NOTE]
+> Nouvelle permanence à partir de Septembre 2025: le mercredi de 16h30 à 18h30
 
 Venez choisir et retirer vos livres pendant nos heures de permanence, les:
 
 - Lundi de 14h30 à 16h30
-- Mercredi de 10h30 à 12h30
+- Mercredi de 10h30 à 12h30 et de 16h30 à 18h30
 - Samedi de 15h30 à 17h30
 
 ## Nos conseils
