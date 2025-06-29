@@ -39,11 +39,8 @@
 -  RUFIN Jean-Christophe,       Un été avec Dumas
   
 ## ESSAIS /RECITS / BD
-- BELAÏCH Charlotte et PEROU Olivier,  La Meute
-- CHENG François,   Une nuit au cap de la Chèvre
-- DAOUD Kamel,  Avant qu’il ne soit trop tard
-- DESERABLE François-Henri,Chagrin d’un chant inachevé
-- HORVILLEUR Delphine,Euh…
- Comment parler de la mort aux enfants
-- SAVIANO Roberto,Giovanni Falcone
-  
+-  CHANTREAU Jérôme,            L’affaire de la rue Transnonain
+-  DETOMBE Baptiste,               L’homme démantelé 
+-  OUDGHIRI Rémy,                   Microvoyage
+                                                 Le paradis à deux pas
+-  MAALOUF Amin,                   Le naufrage des civilisations
