@@ -1,21 +1,22 @@
-# Les nouveautés du mois: Juin 2025
+# Les nouveautés du mois: Juillet-Août 2025
   
 ## ROMANS
-- ALEXIEVITCH Svetlana, La Fin de l’homme rouge
-- APPELFELD Aharon, La chambre de Mariana (poche)
-- ARDITI Metin,   Le danseur oriental
-- AVALLONE Silvia, Cœur noir
-- BARICCO Alessandro,  Abel
-- CLAUDEL Philippe,   Wanted
-- DICKER Joël,  La Très Catastrophique Visite au zoo
-- FOUCHET Lorraine,  Aller simple pour la joie
-- GRANN David,   Il était une fois les Amériques
-- GRIMALDI Virginie,  Les heures fragiles
-- LAFON Marie-Hélène, Vie de Gilles  
-- ORBAN Christine, Mademoiselle Spencer
-- PAMUK Orhan, La femme aux cheveux roux
-- RUFIN Jean-Christophe,  Le revenant d’Albanie
-- SHIMAZAKI Aki,Ajisaï
+-  BLANC-GRAS Julien         Bungalow
+-  CUNNINGHAM Michael Un jour d’avril 
+-  DELFINO Jean-Paul          L’Homme qui rêvait d’aimer
+-  DELOMME Martine         Une vie d’amour et de haine
+-  FRAIN Irène                       L’Or de la nuit
+-  FROMM Pete                    Impératrice des airs
+-  FUNDER Anna                   L’Invisible Madame Orwell
+-  HOWARD Elizabeth J.     A petit feu
+-  KINSELLA Sophie             Comment tu te sens ?
+-  LOUBIERE Sophie            Obsolète
+-  LYNCH David                    Le chant du prophète
+-  PAVLENKO Marie            Traverser les montagnes et venir naître ici
+-  RAVENNE Jacques           Les Ressuscités
+-  RYAN Donal                      La vie est une chose étrange
+-  SUTER Martin                   Allmen et le dernier des Weynfeldt
+-  VITKINE Benoît                 Donbass
 
 
 ## ROMANS POLICIERS
