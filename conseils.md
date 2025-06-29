@@ -30,9 +30,9 @@ page peut être pour vous !
 <td>Une lectrice attentionnée offre à l’auteur un séjour dans une maison isolée au bout du cap de la Chèvre, loin de tout, dans la presqu’île de Crozon. L’occasion de méditer face à la mer et dans la contemplation du ciel étoilé sur la vie, la mort et les chers disparus. Un texte d’une poésie délicate et subtile qui nous aide dans l’acceptation de la condition humaine. </td> <!-- description -->
 </tr>
   <tr>
-<td><p><strong>AUDIN Michèle</strong></p></td> <!-- nom de l'auteur -->
-<td><p><em>La maison hantée &amp;&amp;</em></p></td> <!-- titre et notation -->
-<td>La narratrice quitte Paris pour Strasbourg. Elle trouve une place de bibliothécaire et achète un grand appartement dans un immeuble des années 1930. Le passé et tout particulièrement celui de la période de l’Annexion de l’Alsace par les nazis, se rappelle peu à peu à elle. Elle recueille des témoignages, fait des recherches sur ceux qui ont vécu là et restitue ainsi la vie quotidienne sous l’Occupation. Rien de spectaculaire mais une enquête intéressante et émouvante qui révèle les souffrances et aussi les compromissions d’une société dominée.</td> <!-- description -->
+<td><p><strong>COLLETTE Sandrine</strong></p></td> <!-- nom de l'auteur -->
+<td><p><em>Animal &amp;&amp;&amp</em></p></td> <!-- titre et notation -->
+<td>Un thriller prenant qui transporte le lecteur successivement dans la jungle népalaise et, vingt ans plus tard, au Kamtchatka. L’autrice excelle dans l’évocation saisissante de la vie rude et dangereuse dans les lieux les plus reculés et les plus « sauvages » de la planète. Un roman sur les liens entre animalité et humanité et sur la confrontation avec les grands fauves dans la pratique cruelle de la chasse. Un fil conducteur passionnant : comment guérir de son enfance, surtout quand elle a été profondément ensevelie ?</td> <!-- description -->
 </tr>
 </tbody>
 </table>
