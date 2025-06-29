@@ -4,7 +4,7 @@ Au moins une fois par trimestre, nous proposons une liste de livres accompagnés
 de commentaires de nos lecteurs. Si vous cherchez votre prochaine lecture, cette
 page peut être pour vous !
 
-## LISTE ANNOTÉE DU MOIS DE MAI 2025
+## LISTE ANNOTÉE DU MOIS DE JUIN 2025
 <table>
 <colgroup>
 <col style="width: 32%" />
@@ -20,9 +20,9 @@ page peut être pour vous !
 </thead>
 <tbody>
 <tr>
-<td><p><strong>ARDITI Metin</strong></p></td> <!-- nom de l'auteur -->
-<td><p><em>Le danseur oriental &amp;&amp;&amp;</em></p></td> <!-- titre et notation -->
-<td>Un livre aux saveurs orientales qui se déroule dans la Constantinople de nos rêves, à la charnière d’un empire ottoman finissant et de l’avènement de la nouvelle république turque. Des saveurs complexes, faites de transmission paternelle, de questionnements identitaires – est-on vraiment turque quand on est moitié juive moitié grecque, installée à Constantinople depuis des siècles ? -, de beauté artistique - Dieu ne pourrait trouver plus belles calligraphies pour s’exprimer dans un Coran -, d’amours troubles et de sombres intrigues autour du commerce de miniatures. Laissons-nous porter par l’écriture si légère et si évocatrice de Metin Arditi.</td> <!-- description -->
+<td><p><strong>BARICCO Alessandro</strong></p></td> <!-- nom de l'auteur -->
+<td><p><em>Abel &amp;&amp;</em></p></td> <!-- titre et notation -->
+<td>Dans ce court roman qui tient de la fable, on suit avec un certain plaisir les tribulations improbables d’Abel Crow, un pistolero de génie devenu shérif et justicier dans un Far West revisité par la fantaisie de l’auteur. Un héros qui revient sur son parcours, qui s’interroge sur le destin et nous entraîne dans des questionnements philosophiques, reste somme toute plutôt attachant. Le caractère décousu de la narration choisie par l’auteur peut désorienter mais on se laisse facilement séduire.</td> <!-- description -->
 </tr>
 <tr>
 <td><p><strong>ANGOT Christine</strong></p></td> <!-- nom de l'auteur -->
