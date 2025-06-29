@@ -41,9 +41,9 @@ page peut être pour vous !
 </td> <!-- description -->
 </tr>
   <tr>
-<td><p><strong>COLLETTE Sandrine</strong></p></td> <!-- nom de l'auteur -->
-<td><p><em>Animal &amp;&amp;&amp</em></p></td> <!-- titre et notation -->
-<td>Un thriller prenant qui transporte le lecteur successivement dans la jungle népalaise et, vingt ans plus tard, au Kamtchatka. L’autrice excelle dans l’évocation saisissante de la vie rude et dangereuse dans les lieux les plus reculés et les plus « sauvages » de la planète. Un roman sur les liens entre animalité et humanité et sur la confrontation avec les grands fauves dans la pratique cruelle de la chasse. Un fil conducteur passionnant : comment guérir de son enfance, surtout quand elle a été profondément ensevelie ?</td> <!-- description -->
+<td><p><strong></strong></p></td> <!-- nom de l'auteur -->
+<td><p><em></em></p></td> <!-- titre et notation -->
+<td></td> <!-- description -->
 </tr>
   <tr>
 <td><p><strong>DETOMBE Baptiste</strong></p></td> <!-- nom de l'auteur -->
