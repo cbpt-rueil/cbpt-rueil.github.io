@@ -25,9 +25,9 @@ page peut être pour vous !
 <td>Dans ce court roman qui tient de la fable, on suit avec un certain plaisir les tribulations improbables d’Abel Crow, un pistolero de génie devenu shérif et justicier dans un Far West revisité par la fantaisie de l’auteur. Un héros qui revient sur son parcours, qui s’interroge sur le destin et nous entraîne dans des questionnements philosophiques, reste somme toute plutôt attachant. Le caractère décousu de la narration choisie par l’auteur peut désorienter mais on se laisse facilement séduire.</td> <!-- description -->
 </tr>
 <tr>
-<td><p><strong>ANGOT Christine</strong></p></td> <!-- nom de l'auteur -->
-<td><p><em>La Nuit sur commande (Collection Ma nuit au Musée) &amp;&amp;</em></p></td> <!-- titre et notation -->
-<td>Vous n’apprendrez pas grand-chose sur la Bourse du commerce ou la Fondation Pinault mais vous comprendrez mieux le rapport à l’art ou plutôt à l’écriture de Christine Angot. Une Nuit au Musée un peu erratique, écourtée, car la seule chose qui compte pour l’auteure, c’est l’écriture. Pour les inconditionnels de la romancière.</td> <!-- description -->
+<td><p><strong>CHENG François</strong></p></td> <!-- nom de l'auteur -->
+<td><p><em>Une nuit au cap de  la Chèvre &amp; &amp;&amp;</em></p></td> <!-- titre et notation -->
+<td>Une lectrice attentionnée offre à l’auteur un séjour dans une maison isolée au bout du cap de la Chèvre, loin de tout, dans la presqu’île de Crozon. L’occasion de méditer face à la mer et dans la contemplation du ciel étoilé sur la vie, la mort et les chers disparus. Un texte d’une poésie délicate et subtile qui nous aide dans l’acceptation de la condition humaine. </td> <!-- description -->
 </tr>
   <tr>
 <td><p><strong>AUDIN Michèle</strong></p></td> <!-- nom de l'auteur -->
