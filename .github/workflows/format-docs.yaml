@@ -1,0 +1,36 @@
+name: Advanced Usage
+
+on:
+  push:
+    paths:
+      - current/**
+
+permissions:
+  contents: write
+
+jobs:
+  convert_documents:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: backup files
+        run: |
+          cp "current/24-12_LISTE ANNOTEE.docx" "past/${date +"%y-%m"}LISTE ANNOTEE.docx"
+          cp current/ACQUISITIONS.docx past/${date +"%y-%m"}_ACQUISITIONS.docx
+      - name: Convert advices
+        uses: docker://pandoc/core
+        with:
+          args: --output=tmp/conseils.md "current/LISTE ANNOTEE.docx"
+      - name: Convert new purchases
+        uses: docker://pandoc/core
+        with:
+          args: --output=tmp/nouveautes.md current/ACQUISITIONS.docx
+      - name: Extract relevant information
+        run: python advices_formater.py
+      - name: upload changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add past/*.docx conseils.md nouveautes.md
+          git commit -m "converted documents uploaded" && git push
