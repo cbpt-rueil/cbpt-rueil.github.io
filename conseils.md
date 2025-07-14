@@ -41,11 +41,6 @@ page peut être pour vous !
       <td>L’auteur se lance avec un ami, depuis Cordoba en Argentine, sur les traces d’Ernesto Guevara, encore étudiant, et d’Alberto Granado qui décidèrent de traverser l’Amérique latine à moto, en passant par le Chili, le Pérou, la Colombie et le Venezuela. Un seul objectif : voir du pays. On se laisse très facilement embarquer dans cette équipée parfois drôle qui invite le lecteur à réfléchir sur l’évolution actuelle de l’Amérique latine. L’auteur ne cache pas son admiration pour l’idéalisme du jeune Che Guevara. Son périple devient un pèlerinage quand il se rend en Bolivie où sera exécutée son idole. Un récit de voyage tonique et sans prétention qui s’inspire avec bonheur des carnets des deux comparses que l’auteur suit scrupuleusement.</td>
     </tr>
     <tr>
-      <td><p><strong></strong></p></td>
-      <td><p><em></em></p></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><p><strong>DETOMBE Baptiste</strong></p></td>
       <td><p><em>L’homme démantelé &amp;&amp;&amp;&amp; </em></p></td>
       <td>Un essai absolument nécessaire et brillant qui analyse avec une très grande finesse les ravages de l’omnipotence numérique en particulier sur le cerveau des plus jeunes. On aboutit à mutiler de manière irréversible l’être humain, à le désocialiser et à déconstruire toutes les conquêtes de l’humanisme sous le prétexte de créer un homme augmenté. Un livre à méditer de toute urgence.</td>
