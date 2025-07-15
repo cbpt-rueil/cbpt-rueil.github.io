@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - current/**
+  workflow_dispatch:
 
 permissions:
   contents: write
