@@ -36,7 +36,7 @@ for index, line in enumerate(lines):
 nouveautes = "\n".join(lines[1:])
 
 year = datetime.today().year
-locale.setlocale(locale.LC_TIME, "fr_FR")
+locale.setlocale(locale.LC_TIME, "fr_FR.UTF-8")
 month = datetime.today().strftime("%B")
 
 nouveautes = f"# Les nouveautés du mois: {month.capitalize()} {year}" + nouveautes
