@@ -21,7 +21,7 @@ jobs:
           cp "current/LISTE ANNOTEE.docx" "past/$(date +%y-%m)LISTE ANNOTEE.docx"
           cp current/ACQUISITIONS.docx past/$(date +%y-%m)_ACQUISITIONS.docx
           mkdir tmp
-          sudo apt install language-pack-fr
+          sudo apt install language-pack-fr_FR
           sudo dpkg-reconfigure locales
       - name: Convert advices
         uses: docker://pandoc/core
