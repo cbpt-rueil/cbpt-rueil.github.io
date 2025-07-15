@@ -20,6 +20,7 @@ with open("tmp/nouveautes.md", "rb") as f:
 nouveautes = (
     nouveautes.replace("**", "")
     .replace("En bleu, les livres très récents", "")
+    .replace("En bleu les livres très récents", "")
     .replace("\r", "")
     .replace("\n\n", "\n")
     .replace("   ", " ")
