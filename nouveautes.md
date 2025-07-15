@@ -37,7 +37,9 @@
 
 - GOLDNADEL Gilles-William, Journal d'un prisonnier
 - PERRIGNON Judith L'autre, Amérique
-> ESSAIS /RECITS /, BD
+
+## ESSAIS /RECITS /, BD
+
 - BELAÏCH Charlotte, La, Meute
 
 ## PEROU Olivier
