@@ -4,295 +4,111 @@ Au moins une fois par trimestre, nous proposons une liste de livres accompagnés
 de commentaires de nos lecteurs. Si vous cherchez votre prochaine lecture, cette
 page peut être pour vous !
 
-## LISTE ANNOTÉE DU MOIS DU MOIS DE MAI 2025
+## LISTE ANNOTÉE DU MOIS DE JUIN 2025
+
 <table>
-<colgroup>
-<col style="width: 32%" />
-<col style="width: 18%" />
-<col style="width: 48%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: left;"><strong>AUTEURS</strong></th>
-<th style="text-align: left;"><strong>TITRES</strong></th>
-<th style="text-align: left;"><strong>COMMENTAIRES</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: left;"><p><strong>ARDITI</strong></p>
-<p><strong>Metin</strong></p></td>
-<td style="text-align: left;"><p><em>Le danseur</em></p>
-<p><em>oriental</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">Un livre aux saveurs orientales qui se
-déroule dans la Constantinople de nos rêves, à la charnière d’un empire
-ottoman finissant et de l’avènement de la nouvelle république turque.
-Des saveurs complexes, faites de transmission paternelle, de
-questionnements identitaires – est-on vraiment turque quand on est
-moitié juive moitié grecque, installée à Constantinople depuis des
-siècles ? -, de beauté artistique - Dieu ne pourrait trouver plus belles
-calligraphies pour s’exprimer dans un Coran -, d’amours troubles et de
-sombres intrigues autour du commerce de miniatures. Laissons-nous porter
-par l’écriture si légère et si évocatrice de Metin Arditi.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>ANGOT</strong></p>
-<p><strong>Christine</strong></p></td>
-<td style="text-align: left;"><p><em>La Nuit sur</em></p>
-<p><em>commande</em></p>
-<p><em>&amp;&amp;</em></p>
-<p><em>( Collection</em></p>
-<p><em>Ma nuit</em></p>
-<p><em>au Musée)</em></p></td>
-<td style="text-align: left;">Vous n’apprendrez pas grand-chose sur la
-Bourse du commerce ou la Fondation Pinault mais vous comprendrez mieux
-le rapport à l’art ou plutôt à l’écriture de Christine Angot. Une Nuit
-au Musée un peu erratique, écourtée, car la seule chose qui compte pour
-l’auteure, c’est l’écriture. Pour les inconditionnels de la
-romancière.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>AUDIN</strong></p>
-<p><strong>Michèle</strong></p></td>
-<td style="text-align: left;"><p><em>La maison</em></p>
-<p><em>hantée</em></p>
-<p><em>&amp;&amp;</em></p></td>
-<td style="text-align: left;">La narratrice quitte Paris pour
-Strasbourg. Elle trouve une place de bibliothécaire et achète un grand
-appartement dans un immeuble des années 1930. Le passé et tout
-particulièrement celui de la période de l’Annexion de l’Alsace par les
-nazis, se rappelle peu à peu à elle. Elle recueille des témoignages,
-fait des recherches sur ceux qui ont vécu là et restitue ainsi la vie
-quotidienne sous l’Occupation. Rien de spectaculaire mais une enquête
-intéressante et émouvante qui révèle les souffrances et aussi les
-compromissions d’une société dominée.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>AVALLONE</strong></p>
-<p><strong>Silvia</strong></p></td>
-<td style="text-align: left;"><p><em>Cœur noir</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">Emilia a commis l’irréparable à seize ans.
-Quinze ans plus tard, elle retrouve sa liberté, après avoir purgé sa
-peine dans un centre pénitentiaire pour mineurs. Soutenue par un père
-aimant mais le cœur plein d’angoisse et de noirceur, elle souhaite se
-faire oublier de la société dans un hameau abandonné, loin de Ravenne et
-de Bologne. Un roman d’une force et d’une finesse exceptionnelles sur la
-question du mal, la culpabilité et la rédemption. Un texte absolument
-bouleversant qui invite à la réflexion.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>BENACQUISTA</strong></p>
-<p><strong>Tonino</strong></p></td>
-<td style="text-align: left;"><p><em>Tiré de faits</em></p>
-<p><em>Irréels</em></p>
-<p><em>&amp;&amp;/&amp;</em></p></td>
-<td style="text-align: left;">Bertrand Dumas, fondateur d’une maison
-d’édition assez modeste qui porte son nom, fait faillite. Il lui reste
-une dernière nuit pour sauver son affaire. Ce passionné de littérature
-de qualité doit composer avec des auteurs capricieux et exigeants qu’il
-peine à discipliner et à conseiller. Un tableau caustique, souvent
-drôle, du monde des Lettres qui nous éclaire sur le travail ingrat et
-méconnu des éditeurs.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>CLAUDEL</strong></p>
-<p><strong>Philippe</strong></p></td>
-<td style="text-align: left;"><p><em>Wanted</em></p>
-<p><em>&amp;&amp;</em></p></td>
-<td style="text-align: left;">Une étonnante farce politique et
-dystopique qui met en scène deux mégalomanes narcissiques, Donal Trump
-et Elon Musk, deux cowboys modernes lancés à la conquête du Far West qui
-n’est rien de moins pour eux que la planète et même l’univers. Une sorte
-de fable dérangeante comme les aime l’auteur qui fait abondamment parler
-ses protagonistes pour souligner leur vulgarité et leur absence totale
-de considérations morales.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>FEREY</strong></p>
-<p><strong>Caryl</strong></p></td>
-<td style="text-align: left;"><p><em>Grindadràp</em></p>
-<p><em>&amp;&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">Un roman policier puissant, porté par la
-volonté de défendre les cétacés et autres animaux marins menacés par la
-cupidité humaine. Caryl Férey nous emmène dans les îles Féroé et nous
-fait participer dans ce thriller palpitant au combat de jeunes
-militants, bouleversés par ce qu’on fait subir aux orques et aux
-baleines. Vous apprendrez ce qu’est un « grind », vous vivrez
-intensément un ouragan dantesque dans l’Atlantique nord. Un roman engagé
-qui fait réagir.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>GRAS</strong></p>
-<p><strong>Cédric</strong></p></td>
-<td style="text-align: left;"><p><em>Les routes de</em></p>
-<p><em>La soif</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">Récit passionnant et actuel de ce
-géographe spécialiste de l’Eurasie. Parti de la mer d’Aral presque
-entièrement asséchée, il remonte aux sources de l’Amour Daria (2500 kms)
-qui naît dans le Pamir (massif montagneux d’Asie centrale, sommets de
-plus de 5000 mètres, nombreux glaciers). Le fleuve coule entre de
-nombreuses « républiques ex-soviétiques » : Ouzbékistan, Turkménistan,
-Tadjikistan, souvent traversés de déserts. Pendant longtemps, l’ex—URSS
-a favorisé la culture du coton, grande dévoreuse d’eau- et beaucoup de
-ces terres sont aujourd’hui craquelées, charriant du sable en nuées,
-sous des températures extrêmes. Du fait du réchauffement climatique, les
-glaciers du Pamir fondent ; le problème de l’eau devient essentiel et
-des rivalités géopolitiques surgissent entre ces pays riverains du
-fleuve. Ce ne sont plus les « routes de la soie » mais les « routes de
-la soif ».</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>HORVILLEUR</strong></p>
-<p><strong>Delphine</strong></p></td>
-<td style="text-align: left;"><p><em>Euh…</em></p>
-<p><em>comment</em></p>
-<p><em>parler de</em></p>
-<p><em>la mort</em></p>
-<p><em>aux enfants</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">L’auteure prévient d’emblée son lecteur
-qu’elle n’a aucune certitude en ce qui concerne la mort. Elle offre
-comme une confidence pleine de retenue et d’humilité mais aussi avec une
-paradoxale légèreté sa méditation personnelle sur la vie et la mort. Un
-texte assurément consolateur qui rappelle combien la vie de chaque être
-humain est précieuse et mérite d’être racontée pour ceux qui
-entretiendront le souvenir du défunt. Des références judicieuses aux
-jeux d’enfants qui parleront aux plus jeunes mais pas seulement.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>LAFON</strong></p>
-<p><strong>Marie-Hélène</strong></p></td>
-<td style="text-align: left;"><p><em>Vie de Gilles</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">Deux volets distincts pour évoquer la vie
-de Gilles, le frère taiseux resté à la ferme avec ses parents dans un
-coin perdu du Cantal : l’enfance et le cinquantième anniversaire.
-L’écriture ciselée fait mouche pour restituer sans pathos la France
-rurale dans ce diptyque savamment construit. La puissance évocatoire des
-lieux est convoquée pour traduire au plus près le destin morne d’un fils
-de paysan, pris au piège de la ferme familiale.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>LAPIERRE</strong></p>
-<p><strong>Alexandra</strong></p></td>
-<td style="text-align: left;"><p><em>L’ardente</em></p>
-<p><em>et très secrète Miles Franklin</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">Récit vivant et très documenté sur la vie
-de Miles Franklin, née en Australie, dans le « Bush », à la fin du 19ème
-siècle. Très jeune, elle écrit en 1901 son premier livre, plein
-d’insolence et de fougue. Elle étouffe dans son milieu familial et
-souhaite vivre ailleurs, à Sydney, Melbourne et bientôt les USA ; elle
-débarque à San Francisco, au moment du tremblement de terre puis
-s’installe à Chicago. Tout au long de ses pérégrinations, elle se
-débrouille, nouant des relations amicales solides dans les milieux
-féministes. Elle est très moderne pour son époque et travaille pour
-survivre, comme vendeuse, bonne, secrétaire… Elle tient des « journaux
-quotidiens ». Et même en 1914, elle s’engage comme aide-soignante sur le
-front serbe. Elle déborde de vitalité et de courage. Après de nombreuses
-années, elle retourne en Australie et continue d’écrire sur l’histoire
-du pays. Finalement reconnue comme écrivaine par de nombreux prix
-littéraires, elle crée l’équivalent du Goncourt, généreusement doté, un
-prix qui existe toujours en Australie.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>LERAUD</strong></p>
-<p><strong>Inès</strong></p>
-<p><strong>VAN HOVE</strong></p>
-<p><strong>Pierre</strong></p></td>
-<td style="text-align: left;"><p><em>Champs de</em></p>
-<p><em>bataille</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">Un superbe roman graphique sur l’histoire
-du remembrement qui ne peut laisser indifférent. La journaliste évoque
-le drame vécu par les petits paysans bretons et leur lutte dans les
-années 1950 quand, au nom de la productivité agricole, on a décidé de
-remembrer les terres. Une enquête journalistique rigoureuse servie par
-les talents graphiques d’un dessinateur soucieux de traduire finement le
-désespoir des petites gens et de faire mesurer les conséquences
-désastreuses d’une telle mesure pour les paysages et les
-écosystèmes.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>MARTIN-LUGAND</strong></p>
-<p><strong>Agnès</strong></p></td>
-<td style="text-align: left;"><p><em>Les</em></p>
-<p><em>Renaissances</em></p>
-<p><em>&amp;&amp;</em></p></td>
-<td style="text-align: left;">Une écrivaine rencontre un homme passionné
-d’art et de restauration d’objets et meubles anciens. Lui vit mal son
-passé, elle est en mal d’inspiration. Commence alors un rapprochement
-entre eux, une renaissance douloureuse, pour lui, un roman, pour elle,
-qui s’inspire de leurs rencontres et qui lui redonne son ardeur pour
-l’écriture. Après beaucoup de péripéties, quelques longueurs et
-digressions sentimentales, une fin heureuse -qu’on attend déjà… depuis
-le début – s’annonce. Un roman apaisant qui peut faire du bien en ces
-temps agités.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>PAMUK</strong></p>
-<p><strong>Orhan</strong></p></td>
-<td style="text-align: left;"><p><em>Neige</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">Sous le pseudonyme de Ka, un poète, exilé
-depuis douze ans en Allemagne mais reconnu dans son pays natal, revient
-à Istanbul pour l’enterrement de sa mère. Il se voit confier par un ami
-journaliste une enquête sur l’assassinat d’un maire et sur les suicides
-de femmes dans la petite ville anatolienne de Kars. A son arrivée sur
-les lieux, la neige tombe abondamment et coupe la ville du monde pendant
-trois jours. Dans cette ville-frontière marquée par la tragédie vécue
-par les Arméniens, Ka découvre une société divisée après différents
-putschs militaires. Si les kémalistes font encore la loi, les islamistes
-sont en passe de s’imposer. Un roman kafkaïen, puissant et dense, qui
-plonge le lecteur au cœur des divisions et des tensions qui agitent la
-Turquie moderne, entre la fascination pour l’Occident et les impératifs
-d’une religion toute-puissante. La neige omniprésente, source
-d’inspiration constante pour le poète, poétise et métaphorise ce roman
-majeur qui a valu entre autres, le prix Nobel de littérature à son
-auteur.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>TRAN HUY</strong></p>
-<p><strong>Minh</strong></p></td>
-<td style="text-align: left;"><p><em>Ma grand-mère</em></p>
-<p><em>et le Pays de la poésie</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">L’auteure a été gardée et choyée pendant
-toute son enfance par une grand-mère qui a quitté son pays, le Vietnam,
-dans les années 1970 pour rejoindre en France son fils et sa famille.
-Elle ne découvrira l’histoire douloureuse et admirable de cette
-grand-mère mutique et ne mesurera ce qu’elle lui doit que bien plus
-tard. Un roman émouvant et plein de tendresse.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>VALOGNES</strong></p>
-<p><strong>Aurélie</strong></p></td>
-<td style="text-align: left;"><p><em>La fugue</em></p>
-<p><em>&amp;&amp;&amp;</em></p></td>
-<td style="text-align: left;">Inès étouffe dans sa vie de quinquagénaire
-parisienne et quitte les siens pour s’installer dans une maison située
-en bord de mer, dans un coin isolé du Finistère. Il lui faut s’adapter à
-une nouvelle demeure et à un nouvel environnement. Elle parvient peu à
-peu à se réinventer, notamment grâce à la bibliothèque laissée par
-l’ancienne propriétaire et fait avec bonheur l’expérience de l’entraide
-féminine. Un roman assurément Feel Good mais plus subtil et plus profond
-qu’il n’y paraît.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>VEYSSIER</strong></p>
-<p><strong>Hélène</strong></p></td>
-<td style="text-align: left;"><p><em>Parmi toutes les</em></p>
-<p><em>autres</em></p>
-<p><em>&amp;&amp;</em></p></td>
-<td style="text-align: left;">Adèle est une provinciale de quinze ans,
-montée à Paris pour être ballerine à l’Opéra Garnier. Sa rencontre avec
-le peintre Edgar Degas va jouer un rôle immense dans sa vie, même si
-leur liaison ne dure qu’un temps. Un roman délicat qui fait écho à celui
-de Camille Laurens sur le même sujet mais qui donne une image un peu
-plus douce et plus tendre de la condition des petits rats de Paris.</td>
-</tr>
-</tbody>
+  <colgroup>
+    <col style="width: 32%" />
+    <col style="width: 18%" />
+    <col style="width: 48%" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th><strong>AUTEURS</strong></th>
+      <th><strong>TITRES</strong></th>
+      <th><strong>COMMENTAIRES</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p><strong>BARICCO Alessandro</strong></p></td>
+      <td><p><em>Abel &amp;&amp;</em></p></td>
+      <td>Dans ce court roman qui tient de la fable, on suit avec un certain plaisir les tribulations improbables d’Abel Crow, un pistolero de génie devenu shérif et justicier dans un Far West revisité par la fantaisie de l’auteur. Un héros qui revient sur son parcours, qui s’interroge sur le destin et nous entraîne dans des questionnements philosophiques, reste somme toute plutôt attachant. Le caractère décousu de la narration choisie par l’auteur peut désorienter mais on se laisse facilement séduire.</td>
+    </tr>
+    <tr>
+      <td><p><strong>CHENG François</strong></p></td>
+      <td><p><em>Une nuit au cap de  la Chèvre &amp;&amp;&amp;</em></p></td>
+      <td>Une lectrice attentionnée offre à l’auteur un séjour dans une maison isolée au bout du cap de la Chèvre, loin de tout, dans la presqu’île de Crozon. L’occasion de méditer face à la mer et dans la contemplation du ciel étoilé sur la vie, la mort et les chers disparus. Un texte d’une poésie délicate et subtile qui nous aide dans l’acceptation de la condition humaine. </td>
+    </tr>
+    <tr>
+      <td><p><strong>COLLETTE Sandrine</strong></p></td>
+      <td><p><em>Animal &amp;&amp;&amp;</em></p></td>
+      <td>Un thriller prenant qui transporte le lecteur successivement dans la jungle népalaise et, vingt ans plus tard, au Kamtchatka. L’autrice excelle dans l’évocation saisissante de la vie rude et dangereuse dans les lieux les plus reculés et les plus « sauvages » de la planète. Un roman sur les liens entre animalité et humanité et sur la confrontation avec les grands fauves dans la pratique cruelle de la chasse. Un fil conducteur passionnant : comment guérir de son enfance, surtout quand elle a été profondément ensevelie ?</td>
+    </tr>
+    <tr>
+      <td><p><strong>DESERABLE François-Henri</strong></p></td>
+      <td><p><em>Chagrin d’un chant inachevé &amp;&amp;&amp;</em></p></td>
+      <td>L’auteur se lance avec un ami, depuis Cordoba en Argentine, sur les traces d’Ernesto Guevara, encore étudiant, et d’Alberto Granado qui décidèrent de traverser l’Amérique latine à moto, en passant par le Chili, le Pérou, la Colombie et le Venezuela. Un seul objectif : voir du pays. On se laisse très facilement embarquer dans cette équipée parfois drôle qui invite le lecteur à réfléchir sur l’évolution actuelle de l’Amérique latine. L’auteur ne cache pas son admiration pour l’idéalisme du jeune Che Guevara. Son périple devient un pèlerinage quand il se rend en Bolivie où sera exécutée son idole. Un récit de voyage tonique et sans prétention qui s’inspire avec bonheur des carnets des deux comparses que l’auteur suit scrupuleusement.</td>
+    </tr>
+    <tr>
+      <td><p><strong>DETOMBE Baptiste</strong></p></td>
+      <td><p><em>L’homme démantelé &amp;&amp;&amp;&amp; </em></p></td>
+      <td>Un essai absolument nécessaire et brillant qui analyse avec une très grande finesse les ravages de l’omnipotence numérique en particulier sur le cerveau des plus jeunes. On aboutit à mutiler de manière irréversible l’être humain, à le désocialiser et à déconstruire toutes les conquêtes de l’humanisme sous le prétexte de créer un homme augmenté. Un livre à méditer de toute urgence.</td>
+    </tr>
+    <tr>
+      <td><p><strong>GRIMALDI Virginie</strong></p></td>
+      <td><p><em>Les Heures fragiles &amp;&amp;&amp;</em></p></td>
+      <td>Diane est une mère de famille attentionnée. Quand elle devine et découvre le mal-être soigneusement tu de sa fille, une adolescente de seize ans, tout vacille. Le retour sur ses propres tourments au même âge, la volonté farouche de faire la paix avec son propre passé vont la conduire à reprendre pied. Une double narration qui fait mesurer l’impact du transgénérationnel. Un roman délicat, tendre qu’on dévore et qui a un pouvoir indéniablement consolateur.</td>
+    </tr>
+    <tr>
+      <td><p><strong>HOCHET Stéphanie</strong></p></td>
+      <td><p><em>Armures &amp;&amp;&amp;</em></p></td>
+      <td>Un roman quelque peu dérangeant mais qui ne laisse pas indifférent tant l’écriture puissante séduit le lecteur. L’autrice se penche sur deux figures antinomiques que les hasards de l’histoire ont liées : celle de Jeanne d’Arc, la Sainte et celle de l’Ogre que fut Gilles de Rais. L’occasion pour elle de revenir sur ses traumas d’enfance et sur la nécessité pour les filles de se protéger de la violence par des « armures » extérieures et intérieures. </td>
+    </tr>
+    <tr>
+      <td><p><strong>KAUFFMANN Jean-Paul</strong></p></td>
+      <td><p><em>L’accident &amp;&amp;&amp;</em></p></td>
+      <td>Le 2 janvier 1949, a lieu dans le village breton de Corps-Nuds, un terrible accident qui causera la mort de dix-huit personnes, des jeunes footballeurs pour la plupart. Cette tragédie qui restera dans la mémoire des habitants de la région est le premier vrai souvenir de l’auteur qui a vécu toute son enfance dans cette commune. Deux prêtres vont avoir un rôle déterminant dans son parcours. Un récit autobiographique plein de pudeur et de retenue qui restitue avec justesse la vie quotidienne dans la France rurale des années 1950-1960.</td>
+    </tr>
+    <tr>
+      <td><p><strong>LEVY Marc</strong></p></td>
+      <td><p><em>La librairiedes livres interdits &amp;&amp;&amp;</em></p></td>
+      <td>Mitch, un libraire passionné, est condamné à cinq ans de prison pour avoir vendu des livres interdits par une dictature ennemie de la liberté de pensée. Une dystopie qui résonne étrangement à notre époque où fleurissent les régimes totalitaires... Une citation à méditer : " Le rôle des livres, être des remèdes contre les peurs, les préjugés et la haine ".</td>
+    </tr>
+    <tr>
+      <td><p><strong>LOUBIERE Sophie</strong></p></td>
+      <td><p><em>Obsolète &amp;&amp;&amp;</em></p></td>
+      <td>En 2050, c’est l’effondrement total de notre monde, notamment en raison des catastrophes climatiques et des pandémies. Le nombre des humains est divisé par dix. Les survivants essaient de reconstruire un monde écologique et sans guerres. Un seul problème, celui de la perpétuation de l’espèce humaine. Trop d’humains infertiles et trop de femmes par rapport au nombre d’hommes. On écarte de la société les femmes de plus de cinquante ans en leur promettant le paradis dans un ailleurs mystérieux. Un roman dystopique remarquable par la finesse d’analyse de la romancière qui veut nous faire réfléchir sur la surconsommation, l’hédonisme effréné et nos choix de vie actuels.</td>
+    </tr>
+    <tr>
+      <td><p><strong>ORBAN Christine</strong></p></td>
+      <td><p><em>Mademoiselle Spencer &amp;&amp;&amp;</em></p></td>
+      <td>La romancière a choisi de livrer au lecteur les réflexions au jour le jour, de ses huit ans à son divorce, de Mademoiselle Spencer, dans un roman qui s’apparente au journal intime de celle qui deviendra peu à peu la très populaire Lady Di. Une « confession » bouleversante, très documentée, d’une jeune femme bafouée qui découvre qu’elle a été choisie avec un certain cynisme pour son pedigree et pour donner un héritier à la monarchie anglaise.</td>
+    </tr>
+    <tr>
+      <td><p><strong>PASCOT Panayotis</strong></p></td>
+      <td><p><em>La prochaine fois que tu mordras la poussière &amp;&amp;</em></p></td>
+      <td>Quand l’auteur apprend que les jours de son père très malade sont comptés, il décide de prendre la plume pour tenter de comprendre sa relation compliquée avec un homme castrateur et peu causant. Une dépression sévère le met à terre. Un récit autobiographique d’une franchise totale qui peut agacer ou heurter, notamment quand l’auteur évoque crûment sa vie sentimentale et sexuelle tourmentée.</td>
+    </tr>
+    <tr>
+      <td><p><strong>PERRIGNON Judith</strong></p></td>
+      <td><p><em>L’autre Amérique, Quand Roosevelt défiait le capitalisme aux Etats-Unis &amp;&amp;&amp;</em></p></td>
+      <td>F. D. Roosevelt, un des plus grands présidents des Etats-Unis, a été élu et réélu quatre fois. Il fait face à la Grande dépression et à la Seconde guerre mondiale. Cet homme atteint de poliomyélite, un grand bourgeois, consacre son temps et son action à comprendre et vaincre le chômage et la grande pauvreté. L’autrice, Judith Perrignon, nous livre, grâce aux écrits de H. Morgenthau, Secrétaire au Trésor, la lutte de Roosevelt et de son épouse Eleanor menée contre le pouvoir financier. Un livre d’une grande actualité si on considère la toute-puissance d’un président au-dessus des lois, appelé Donald Trump.</td>
+    </tr>
+    <tr>
+      <td><p><strong>PONTHUS Joseph</strong></p></td>
+      <td><p><em>A la ligne &amp;&amp;&amp;</em></p></td>
+      <td>L’auteur qui a été éducateur accepte d’être intérimaire dans l’industrie agroalimentaire. Il est employé sur des lignes de production et expérimente le travail à la chaîne dans la gestion des arrivages de crevettes et de bulots avant de connaître le travail harassant et éprouvant des ouvriers dans un abattoir. Un témoignage essentiel sur le monde de l’usine, rédigé en vers libres, un mode d’expression qui fait mouche dans ce roman coup de poing, multi primé.</td>
+    </tr>
+    <tr>
+      <td><p><strong>RUFIN Jean-Christophe</strong></p></td>
+      <td><p><em>Un été avec Dumas &amp;&amp;&amp;</em></p></td>
+      <td>L’auteur nous fait aimer Alexandre Dumas qu’il considère comme un frère de plume et un modèle littéraire. Il sait, d’une écriture alerte, nous faire goûter les mille facettes d’un écrivain injustement boudé par les manuels scolaires, un bon vivant, un touche à tout génial qu’il est urgent de redécouvrir.</td>
+    </tr>
+    <tr>
+      <td><p><strong>SAVIANO Roberto</strong></p></td>
+      <td><p><em>Giovanni Falcone &amp;&amp;&amp;</em></p></td>
+      <td>Après Gomorra, son roman coup de poing contre la mafia napolitaine, Roberto Saviano continue à affronter « la pieuvre », ici la « Cosa nostra », la mafia sicilienne. Son nouveau roman-enquête est centré sur le juge antimafia Giovanni Falcone mais aussi sur ses confrères dalla Chiesa, Borsellino ou encore Chinnini, tous morts assassinés. Il nous livre avec brio un panorama complet sur le travail accompli par ces juges en donnant en fin d’ouvrage les sources de chaque chapitre.</td>
+    </tr>
+    <tr>
+      <td><p><strong>THILLIEZ Franck</strong></p></td>
+      <td><p><em>A retardement &amp;&amp;&amp;</em></p></td>
+      <td>Eléonore est psychiatre dans l’Unité pour malades difficiles de Chambly. Elle regarde avec une certaine humanité ceux que la société et certains confrères voient comme des monstres à enfermer et à sédater jusqu’à ce qu’elle se trouve confrontée à l’horreur absolue dans sa propre vie. L’inspecteur Sharko mène l’enquête dans ce thriller diabolique qu’on ne lâche pas jusqu’à la fin. Une intrigue qui joue sur le concept de bombe à retardement, absolument magistrale. </td>
+    </tr>
+    <tr>
+      <td><p><strong>WARESQUIEL (de) Emmanuel</strong></p></td>
+      <td><p><em>Rien ne passe, tout s’oublie &amp;&amp;&amp;</em></p></td>
+      <td>Un journal de bord, une série de chroniques composées par « sauts et gambades », à la manière de Montaigne. Des pages éclairantes sur le retour des empires, sur Odessa, sur les charmes de Paris, sur la disparition des oiseaux et bien d’autres sujets. Le regard d’un historien érudit mais qui sait être plus léger tout en essayant de décrypter notre époque. Une très plaisante lecture de vacances.</td>
+    </tr>
+  </tbody>
 </table>
