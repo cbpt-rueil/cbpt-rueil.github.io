@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - current/**
-      - .github/worflows/format-docs.yaml
+      - .github/workflows/format-docs.yaml
   workflow_dispatch:
 
 permissions:

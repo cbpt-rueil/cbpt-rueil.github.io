@@ -44,7 +44,7 @@ nouveautes = f"# Les nouveautés du mois: {month.capitalize()} {year}" + nouveau
 with open("nouveautes.md", "w", encoding="utf-8") as f:
     f.write(nouveautes)
 
-with open("current/LISTE ANNOTEE.docx", "rb") as f:
+with open("tmp/conseils.md", "rb") as f:
     conseils = f.read().decode()
 
 advice_header = """# Nos conseils de lecture
