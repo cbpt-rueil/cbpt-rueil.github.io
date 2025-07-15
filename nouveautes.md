@@ -1,46 +1,52 @@
-# Les nouveautés du mois: Juillet-Août 2025
-  
-## ROMANS
--  BLANC-GRAS Julien,         Bungalow
--  CUNNINGHAM Michael, Un jour d’avril 
--  DELFINO Jean-Paul,          L’Homme qui rêvait d’aimer
--  DELOMME Martine,         Une vie d’amour et de haine
--  FRAIN Irène,                       L’Or de la nuit
--  FROMM Pete,                    Impératrice des airs
--  FUNDER Anna,                   L’Invisible Madame Orwell
--  HOWARD Elizabeth J.,     A petit feu
--  KINSELLA Sophie,             Comment tu te sens ?
--  LOUBIERE Sophie,            Obsolète
--  LYNCH David,                    Le chant du prophète
--  PAVLENKO Marie,            Traverser les montagnes et venir naître ici
--  RAVENNE Jacques,           Les Ressuscités
--  RYAN Donal,                      La vie est une chose étrange
--  SUTER Martin,                   Allmen et le dernier des Weynfeldt
--  VITKINE Benoît,                 Donbass
+# Les nouveautés du mois: Juillet 2025
+## En bleu les livres très récents
 
+
+## ROMANS
+
+- ALEXIEVITCH Svetlana La, Fin de l'homme rouge
+- APPELFELD Aharon, La chambre de Mariana (poche)
+- ARDITI Metin, Le danseur oriental
+- AVALLONE Silvia, Cœur noir
+- BARICCO Alassandro, Abel
+- CLAUDEL Philippe, Wanted
+- DICKER Joël La Très Catastrophique, Visite au zoo
+- FOUCHER Lorraine, Aller simple pour la joie
+- GRANN David, Il était une fois les Amériques
+- GRIMALDI Virginie, Les heures fragiles
+- LAFON Marie-Hélène, Vie de Gilles
+- ORBAN Christine Mademoiselle, Spencer
+- PAMUK Orhan, La femme aux cheveux roux
+- RUFIN Jean-Christophe, Le revenant d'Albanie
+- SHIMAZAKI Aki, Ajisaï
 
 ## ROMANS POLICIERS
--  BEAUSSAULT Mathilde,   Les Saules
--  BURKE James Lee,             Un autre Eden
--  CONNELLY Michael,          Sous les eaux d’Avalon  
--  ELLORY R.J.,                        Au nord de la frontière
--  GRISHAM John,                  Les garçons de Biloxi
--  THILLIEZ Franck,                 A retardement
--  LÄCKBERG Camilla et FEXEUX Henrik,            Mirage
--  MUSSO Valentin,               Voici demain
 
+- FLUKE Joanne, Meurtres et carrot cake
+
+## Les enquêtes d' Hannah Swensen
+
+- FOUASSIER Eric, Requiem pour la dame Blanche
+- GIEBEL Karine, Chambres noires
+- HIGASHINO Keigo, Le fil de l'espoir
+- McFADDEN Freida, La prof
+- McFADDEN Freida La Psy, (poche)
+- PULIXI Piergiorgio, Stella
 
 ## BIOGRAPHIES
--  AUTISSIER Isabelle,                La fille du grand hiver
--  EL MAKKI Laura,                     Adèle Hugo
--  DIETRICH Marlène,                Mémoires
--  FERNANDEZ Dominique,      Un choix impossible
--  ONO-DIT-BIOT Christophe,  Mer intérieure
--  RUFIN Jean-Christophe,       Un été avec Dumas
-  
-## ESSAIS /RECITS / BD
--  CHANTREAU Jérôme,            L’affaire de la rue Transnonain
--  DETOMBE Baptiste,               L’homme démantelé 
--  OUDGHIRI Rémy,                   Microvoyage
-                                                 Le paradis à deux pas
--  MAALOUF Amin,                   Le naufrage des civilisations
+
+- GOLDNADEL Gilles-William, Journal d'un prisonnier
+- PERRIGNON Judith L'autre, Amérique
+> ESSAIS /RECITS /, BD
+- BELAÏCH Charlotte, La, Meute
+
+## PEROU Olivier
+
+- CHENG François, Une nuit au cap de la Chèvre
+- DAOUD Kamel, Avant qu'il ne soit trop tard
+- DESERABLE François-Henri, Chagrin d'un chant inachevé
+- HORVILLEUR Delphine, Euh...
+
+## Comment parler de la mort aux enfants
+
+- SAVIANO Roberto Giovanni, Falcone
