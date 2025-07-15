@@ -26,7 +26,7 @@ jobs:
       - name: Convert advices
         uses: docker://pandoc/core
         with:
-          args: --output=tmp/conseils.md "current/LISTE ANNOTEE.docx"
+          args: --output=tmp/conseils.md --from=markdown_strict "current/LISTE ANNOTEE.docx"
       - name: Convert new purchases
         uses: docker://pandoc/core
         with:
