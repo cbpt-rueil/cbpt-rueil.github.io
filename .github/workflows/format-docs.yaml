@@ -16,8 +16,8 @@ jobs:
         uses: actions/checkout@v4
       - name: backup files
         run: |
-          cp "current/24-12_LISTE ANNOTEE.docx" "past/${date +"%y-%m"}LISTE ANNOTEE.docx"
-          cp current/ACQUISITIONS.docx past/${date +"%y-%m"}_ACQUISITIONS.docx
+          cp "current/24-12_LISTE ANNOTEE.docx" "past/$(date +%y-%m)LISTE ANNOTEE.docx"
+          cp current/ACQUISITIONS.docx past/$(date +%y-%m)_ACQUISITIONS.docx
       - name: Convert advices
         uses: docker://pandoc/core
         with:
