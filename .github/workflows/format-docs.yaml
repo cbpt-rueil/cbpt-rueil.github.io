@@ -19,6 +19,7 @@ jobs:
         run: |
           cp "current/LISTE ANNOTEE.docx" "past/$(date +%y-%m)LISTE ANNOTEE.docx"
           cp current/ACQUISITIONS.docx past/$(date +%y-%m)_ACQUISITIONS.docx
+          mkdir tmp
       - name: Convert advices
         uses: docker://pandoc/core
         with:
