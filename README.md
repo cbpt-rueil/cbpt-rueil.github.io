@@ -50,12 +50,12 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ## Nos permanences
 
-⚠️ Nouvelle permanence à partir de Septembre 2025: le mercredi de 16h30 à 18h30
+⚠️ Nouvelle permanence à partir de Septembre 2025: le mercredi de 16h30 à 18h00
 
 Venez choisir et retirer vos livres pendant nos heures de permanence, les:
 
 - Lundi de 14h30 à 16h30
-- Mercredi de 10h30 à 12h30 et de 16h30 à 18h30
+- Mercredi de 10h30 à 12h30 et de 16h30 à 18h00
 - Samedi de 15h30 à 17h30
 
 ## Nos conseils
