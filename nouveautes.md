@@ -28,10 +28,8 @@
 
 - MOHAMMADI Narges, Torture blanche
 - WARESQUIEL Emmanuel (de), Voyage autour de ma chambre
-> ESSAIS, /RECITS
-- BRUCKNER Pascal Pour Boualem, Sansal
-,(collectif; recueil de 62 articles écrits par des intellectuels de tous
 
-## bords)
+## ESSAIS, /RECITS
 
+- BRUCKNER Pascal Pour Boualem, Sansal,(collectif; recueil de 62 articles écrits par des intellectuels de tous bords)
 - HARARI Yuval Noah, Nexus
