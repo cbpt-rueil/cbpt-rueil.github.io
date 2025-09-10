@@ -25,13 +25,13 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 ### Evènements passés:
 
 - 7 septembre 2025: 10h-18h, Forum des Associations
-- 21 juin: 9h30-13h, grande braderie annuelle 
-- 27 mai: 15h-16h30, Orangerie square Lagauche, cercle de lecture: le meilleur
+- 21 juin 2025: 9h30-13h, grande braderie annuelle 
+- 27 mai 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture: le meilleur
   de la littérature mondiale du XXIème siècle
-- 22 mai: 10h-12h30, Orangerie square Lagauche, La dictée de l'orangerie
+- 22 mai 2025: 10h-12h30, Orangerie square Lagauche, La dictée de l'orangerie
   (niveaux difficile et facile prévus)
-- 26 avril: 10h-13h, Orangerie square Lagauche, Matinée portes ouvertes
-- 8 avril: 15h-16h30, Orangerie square Lagauche, cercle de lecture: la
+- 26 avril 2025: 10h-13h, Orangerie square Lagauche, Matinée portes ouvertes
+- 8 avril 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture: la
   littérature du réel (non fiction)
 - 29 mars 2025: 15h30-17h, Orangerie square Lagauche, café littéraire: l'amour
   toujours
@@ -39,14 +39,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
   et poésie
 - 14 janvier 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture:
   les romans de la littérature étrangère
-- 14 décembre 2024: 15h30-17h30, Orangerie square Lagauche, rencontre avec
-  Marie Sizun
-- 26 novembre 2024: 15h-16h30, Orangerie square Lagauche, cercle de lecture:
-  les prix littéraires
-- 12 octobre 2024: café littéraire, 15h30-17h30, les livres de la rentrée
-  littéraire
-- 8 octobre 2024: 15h-16h30, Orangerie square Lagauche, cercle de lecture
-- 8 septembre 2024: [Forum des associations de Rueil-Malmaison](https://www.villederueil.fr/en/node/6239)
+
 
 ## Nos permanences
 
