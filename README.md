@@ -18,9 +18,9 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 16 septembre: 15h-16h30, cercle de lecture: Eloge de la bienveillance
+- 16 septembre: 15h-16h30, Cercle de lecture de l'Orangerie: Eloge de la bienveillance
 - 11 octobre: 15h30-17h30: café littéraire: Récits et carnets de voyage, ouvert à tous
-- 16 octobre: 15h: la dictée de l'Orangerie, ouverte à tous
+- 16 octobre: 14h30: la dictée de l'Orangerie, ouverte à tous, suivie d'une réunion d'information à 16h30 sur le "Carré de lecture"
   
 ### Evènements passés:
 
