@@ -18,12 +18,14 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 16 septembre: 15h-16h30, Cercle de lecture de l'Orangerie: Eloge de la bienveillance
-- 11 octobre: 15h30-17h30: café littéraire: Récits et carnets de voyage, ouvert à tous
-- 16 octobre: 14h30: la dictée de l'Orangerie, ouverte à tous, suivie d'une réunion d'information à 16h30 sur le "Carré de lecture"
+- 11 octobre: 15h30-17h30: Café littéraire: Récits et carnets de voyage, ouvert à tous
+- 14 octobre: 15h00-17h00: Cercle de lecture de l'Orangerie: Le roman policier
+- 16 octobre: 14h30: la dictée de l'Orangerie, ouverte à tous
+- 16 Octobre: 16h30: Réunion d'information sur notre nouveau "Carré de lecture"
   
 ### Evènements passés:
 
+- 16 septembre: 15h-16h30, Cercle de lecture de l'Orangerie: Eloge de la bienveillance
 - 7 septembre 2025: 10h-18h, Forum des Associations
 - 21 juin 2025: 9h30-13h, grande braderie annuelle 
 - 27 mai 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture: le meilleur
