@@ -21,7 +21,9 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 11 octobre: 15h30-17h30: Café littéraire: Récits et carnets de voyage, ouvert à tous
 - 14 octobre: 15h00-17h00: Cercle de lecture de l'Orangerie: Le roman policier
 - 16 octobre: 14h30: la dictée de l'Orangerie, ouverte à tous
-- 16 Octobre: 16h30: Réunion d'information sur notre nouveau "Carré de lecture"
+- 16 Octobre: 16h30: Réunion d'information sur notre nouveau "Carré de lecture", ouverte à tous
+- 22 Octobre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
+- 29 Octobre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
   
 ### Evènements passés:
 
