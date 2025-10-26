@@ -18,15 +18,20 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 11 octobre: 15h30-17h30: Café littéraire: Récits et carnets de voyage, ouvert à tous
-- 14 octobre: 15h00-17h00: Cercle de lecture de l'Orangerie: Le roman policier
-- 16 octobre: 14h30: la dictée de l'Orangerie, ouverte à tous
-- 16 Octobre: 16h30: Réunion d'information sur notre nouveau "Carré de lecture", ouverte à tous
-- 22 Octobre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
 - 29 Octobre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
+- 4 Novembre: 15h à 16h30: Et si on relisait les classiques? Conférence donnée par Claire Bazin, professeur émérite des universités, spécialiste de littérature anglophone. "Les 3 filles du Révérend Brontë" Entrée libre, inscription souhaitée au préalable.
+- 13 Novembre: 14h30 à 16h: Dictée ludique, entrée libre
+- 20 Novembre: 15h à 16h30: Carré de lecture, autour d'un livre: "Serena" de Ron Rash (édition poche)
+- 25 Novembre: 15hà 17h: Cercle de lecture de l'Orangerie: Les romans étrangers
+- 29 Novembre: de 15h30 à 17h30: Café littéraire: Les prix littéraires 2025, ouvert à tous
   
 ### Evènements passés:
 
+- 22 Octobre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
+- 16 octobre: 14h30: la dictée de l'Orangerie, ouverte à tous
+- 16 Octobre: 16h30: Réunion d'information sur notre nouveau "Carré de lecture", ouverte à tous
+- 14 octobre: 15h00-17h00: Cercle de lecture de l'Orangerie: Le roman policier
+- 11 octobre: 15h30-17h30: Café littéraire: Récits et carnets de voyage, ouvert à tous
 - 16 septembre: 15h-16h30, Cercle de lecture de l'Orangerie: Eloge de la bienveillance
 - 7 septembre 2025: 10h-18h, Forum des Associations
 - 21 juin 2025: 9h30-13h, grande braderie annuelle 
