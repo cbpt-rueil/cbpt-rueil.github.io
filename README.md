@@ -18,8 +18,8 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 29 Octobre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
-- 4 Novembre: 15h à 16h30: Et si on relisait les classiques? Conférence donnée par Claire Bazin, professeur émérite des universités, spécialiste de littérature anglophone. "Les 3 filles du Révérend Brontë" Entrée libre, inscription souhaitée au préalable.
+- 5 Novembre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
+- 12 Novembre: 16h à 16h3à: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
 - 13 Novembre: 14h30 à 16h: Dictée ludique, entrée libre
 - 20 Novembre: 15h à 16h30: Carré de lecture, autour d'un livre: "Serena" de Ron Rash (édition poche)
 - 25 Novembre: 15hà 17h: Cercle de lecture de l'Orangerie: Les romans étrangers
@@ -27,6 +27,8 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
   
 ### Evènements passés:
 
+- 4 Novembre: 15h à 16h30: Et si on relisait les classiques? Conférence donnée par Claire Bazin, professeur émérite des universités, spécialiste de littérature anglophone. "Les 3 filles du Révérend Brontë" Entrée libre, inscription souhaitée au préalable.
+- 29 Octobre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
 - 22 Octobre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
 - 16 octobre: 14h30: la dictée de l'Orangerie, ouverte à tous
 - 16 Octobre: 16h30: Réunion d'information sur notre nouveau "Carré de lecture", ouverte à tous
