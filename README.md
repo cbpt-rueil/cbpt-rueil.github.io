@@ -18,7 +18,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 29 Novembre: 15h30 à 17h30: Café littéraire: Les prix littéraires 2025, ouvert à tous
+- 9 Décembre: 15h à 16h30: Et si on relisait les classiques? Modernité de Camus (L'étranger, La peste) Présentation de Camus, suivie d'un débat. Entrée libre, inscription souhaitée au préalable.
 - 16 Décembre: 15h à 16h30: Et si on relisait les classiques? "D'un monstre à l'autre" (Frankenstein, Dracula). Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre, inscription souhaitée au préalable.
 - 13 Janvier 2026: Cercle de lecture de l'Orangerie: Biographies de femmes, liste des livres disponibles à la bibliothèque
 - 22 Janvier 2026: 15h à 16h30: Carré de lecture, autour d'un livre, "Un monde à refaire" de Claire Deya, édition poche
@@ -26,6 +26,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
  
   ### Evènements passés:
 
+- 29 Novembre: 15h30 à 17h30: Café littéraire: Les prix littéraires 2025, ouvert à tous
 - 25 Novembre: 15hà 17h: Cercle de lecture de l'Orangerie: Les romans étrangers
 - 26 Novembre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
 - 20 Novembre: 15h à 16h30: Carré de lecture, autour d'un livre: "Serena" de Ron Rash (édition poche)
