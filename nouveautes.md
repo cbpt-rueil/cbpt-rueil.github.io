@@ -1,46 +1,40 @@
-# Les nouveautés du mois: Novembre 2025
+# Les nouveautés du mois: Décembre 2025
 
 ## ROMANS
 
-- ADAM Olivier, Et toute la vie devant nous
-- ALANI Feurat, Le ciel est immense
-- ARDITI Metin, L'espion d'Atatürk
-- BENZINE Rachid, L'homme qui lisait des livres
-- BRONTË Charlotte Jane Eyre, (livre de poche)
-- COE Jonathan, Les preuves de mon innocence
-- CRESSAN Séverine, Nourrices
-- DAVIES Carys, Eclaircie
-- DESARTHE Agnès, L'oreille absolue
-- DREYFUS Pauline, Un pont sur la Seine
-- DUPONT-MONOD Clara, La confrontation
-- FARGETTON Manon, Ce que prend la mer
-- FOLLETT Ken Le, Cercle des Jours
-- GASNIER Paul, La collision
-- LA ROCHEFOUCAULD Louis-H. (de), L'amour moderne
-- LEWINSKY Micha, Ben ou l'art de la fuite
-- MODIANO P./ MAZZALAI C., 70 bis, Entrée des artistes
-- MONTESQUIOU Alfred (de), Le crépuscule des hommes
-- PATURAUD Valérie, L'Enseveli
-- RAPP Dam, A la table des loups
-- RECONDO Léonor (de), Marcher dans tes pas
-- RIVIERE Constance, L'incendiaire
-- SHAFAK Elif Les, Fleuves du ciel
-- SCHMITT Eric-Emmanuel Les Deux, Royaumes
+- ASSOULINE Pierre, Le dernier des Camondo (poche)
+- BOYNE John, Le garçon en pyjama (poche)
+- FRANCK & VAUTRIN, La dame de Berlin (poche)
+- LAPIERRE Alexandra, Le fils du rebelle (poche)
+- PASSERON Anthony, Jacky
+- POINOT Emmanuel La, Nuit funambule
+- SNEGAROFF Thomas La, Conspiration
+- WERBER Bernard La, Voix de l'arbre
 
 ## ROMANS POLICIERS
 
-- BURKE James Lee, Clete
-- COSBY S.A. Le, Roi des cendres
-- FOSTER Kate, Le baiser de la demoiselle
-- McFADDEN Freida Le, Boyfriend
-- PULIXI Piergiorgio, Si les chats pouvaient parler
-- SLOCOMBE Romain, Les revenants de l'inspecteur Sadorski
+- CAMUT J. & HUG N., Loin de la fureur du monde
+- MUSSO Valentin Le, Mystère de la maison aux trois ormes
 
 ## BIOGRAPHIES
 
-- BONA Dominique, Le roi Arthur
-- LE PERSON Xavier Le Grand, Condé
+- GAILLARDON David, Marie-Blanche de Polignac
+>, La dernière égérie
+- GRANGE Jean-Christophe, Je suis né du diable
+- LANEZ Emilie, Folcoche
+- PIALOUX Gilles, Admirations
+>, Sept héros de la médecine
+,>
 > ESSAIS, /RECITS
-- GIRARD Delphine, "Madame, vous n'avez pas le droit"
-- SARMANT Thierry, Histoire des palais
-- SOULEIMANE Omar Youssef, Les complices du mal
+- BACHARAN N. & SIMONNET D., Requiem pour le monde libre
+- BUISSON J.-C. & SEVILLIA J., Les guerres civiles
+
+## De la Renaissance à nos jours
+
+- CAMUS Albert " Cher Monsieur Germain,...", (poche)
+- GIESBERT Franz-Olivier, Voyage dans la France d'avant
+- MHALLA Asma, Cyberpunk
+
+## Le nouveau système totalitaire
+
+- TREVIDIC Marc, Justice présumée coupable
