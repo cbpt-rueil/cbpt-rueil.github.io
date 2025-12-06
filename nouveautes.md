@@ -18,23 +18,16 @@
 
 ## BIOGRAPHIES
 
-- GAILLARDON David, Marie-Blanche de Polignac
->, La dernière égérie
+- GAILLARDON David, Marie-Blanche de Polignac, La dernière égérie
 - GRANGE Jean-Christophe, Je suis né du diable
 - LANEZ Emilie, Folcoche
-- PIALOUX Gilles, Admirations
->, Sept héros de la médecine
-,>
-> ESSAIS, /RECITS
+- PIALOUX Gilles, Admirations, Sept héros de la médecine
+
+## ESSAIS/RECITS
+
 - BACHARAN N. & SIMONNET D., Requiem pour le monde libre
-- BUISSON J.-C. & SEVILLIA J., Les guerres civiles
-
-## De la Renaissance à nos jours
-
-- CAMUS Albert " Cher Monsieur Germain,...", (poche)
+- BUISSON J.-C. & SEVILLIA J., Les guerres civiles de la Renaissance à nos jours
+- CAMUS Albert, "Cher Monsieur Germain,..." (poche)
 - GIESBERT Franz-Olivier, Voyage dans la France d'avant
-- MHALLA Asma, Cyberpunk
-
-## Le nouveau système totalitaire
-
+- MHALLA Asma, Cyberpunk Le nouveau système totalitaire5
 - TREVIDIC Marc, Justice présumée coupable
