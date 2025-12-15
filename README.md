@@ -18,17 +18,19 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 9 Décembre: 15h à 16h30: Et si on relisait les classiques? Modernité de Camus (L'étranger, La peste) Présentation de Camus, suivie d'un débat. Entrée libre, inscription souhaitée au préalable.
-- 10 Décembre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
+
 - 16 Décembre: 15h à 16h30: Et si on relisait les classiques? "D'un monstre à l'autre" (Frankenstein, Dracula). Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre, inscription souhaitée au préalable.
 - 13 Janvier 2026: Cercle de lecture de l'Orangerie: Biographies de femmes, liste des livres disponibles à la bibliothèque
 - 15 Janvier: 14h30 à 16h: Dictée ludique, une facile, une plus difficile, entrée libre, inscription souhaitée
 - 16 Janvier: 15h à 16h30: Et si on relisait les classiques? Relecture de "1984" d'Orwell et "2084" de Boualem Sansal, proposée par Annie Karnik et Patricia Kodyra, deux de nos bibliothécaires. Entrée libre, inscription souhaitée au préalable.
 - 22 Janvier 2026: 15h à 16h30: Carré de lecture, autour d'un livre, "Un monde à refaire" de Claire Deya, édition poche
-
+- 27 Janvier 2026: 15h à16h30: Et si on relisait nos classiques? "Le meilleur des mondes" d'Aldous Huxley, proposé par Annie Karnik, inscription souhaitée au préalable
+- 7 Février 2026: 15h30 à 17h30: Café littéraire: La littérature anglophone contemporaine, ouvert à tous
  
   ### Evènements passés:
 
+- 9 Décembre: 15h à 16h30: Et si on relisait les classiques? Modernité de Camus (L'étranger, La peste) Présentation de Camus, suivie d'un débat. Entrée libre, inscription souhaitée au préalable.
+- 10 Décembre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
 - 29 Novembre: 15h30 à 17h30: Café littéraire: Les prix littéraires 2025, ouvert à tous
 - 25 Novembre: 15hà 17h: Cercle de lecture de l'Orangerie: Les romans étrangers
 - 26 Novembre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
