@@ -18,15 +18,17 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 13 Janvier 2026: Cercle de lecture de l'Orangerie: Biographies de femmes, liste des livres disponibles à la bibliothèque
+- 14 Janvier: 16h30 à 17h: L'heure du conte
 - 15 Janvier: 14h30 à 16h: Dictée ludique, une facile, une plus difficile, entrée libre, inscription souhaitée
 - 16 Janvier: 15h à 16h30: Et si on relisait les classiques? Relecture de "1984" d'Orwell et "2084" de Boualem Sansal, proposée par Annie Karnik et Patricia Kodyra, deux de nos bibliothécaires. Entrée libre, inscription souhaitée au préalable.
 - 22 Janvier 2026: 15h à 16h30: Carré de lecture, autour d'un livre, "Un monde à refaire" de Claire Deya, édition poche
 - 27 Janvier 2026: 15h à16h30: Et si on relisait nos classiques? "Le meilleur des mondes" d'Aldous Huxley, proposé par Annie Karnik, inscription souhaitée au préalable
 - 7 Février 2026: 15h30 à 17h30: Café littéraire: La littérature anglophone contemporaine, ouvert à tous
+- 17 Février: 15h à 17h: Cercle de lecture, "Des livres pour comprendre notre époque"
  
   ### Evènements passés:
-  
+
+- 13 Janvier 2026: Cercle de lecture de l'Orangerie: Biographies de femmes, liste des livres disponibles à la bibliothèque
 - 16 Décembre: 15h à 16h30: Et si on relisait les classiques? "D'un monstre à l'autre" (Frankenstein, Dracula). Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre, inscription souhaitée au préalable.
 - 9 Décembre: 15h à 16h30: Et si on relisait les classiques? Modernité de Camus (L'étranger, La peste) Présentation de Camus, suivie d'un débat. Entrée libre, inscription souhaitée au préalable.
 - 10 Décembre: 16h à 16h30: L'heure du conte, pour les enfants de 4 à 10 ans, ouvert à tous
@@ -45,30 +47,16 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 11 octobre: 15h30-17h30: Café littéraire: Récits et carnets de voyage, ouvert à tous
 - 16 septembre: 15h-16h30, Cercle de lecture de l'Orangerie: Eloge de la bienveillance
 - 7 septembre 2025: 10h-18h, Forum des Associations
-- 21 juin 2025: 9h30-13h, grande braderie annuelle 
-- 27 mai 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture: le meilleur
-  de la littérature mondiale du XXIème siècle
-- 22 mai 2025: 10h-12h30, Orangerie square Lagauche, La dictée de l'orangerie
-  (niveaux difficile et facile prévus)
-- 26 avril 2025: 10h-13h, Orangerie square Lagauche, Matinée portes ouvertes
-- 8 avril 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture: la
-  littérature du réel (non fiction)
-- 29 mars 2025: 15h30-17h, Orangerie square Lagauche, café littéraire: l'amour
-  toujours
-- 4 mars 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture: roman
-  et poésie
-- 14 janvier 2025: 15h-16h30, Orangerie square Lagauche, cercle de lecture:
-  les romans de la littérature étrangère
 
 
 ## Nos permanences
 
-⚠️ Nouvelle permanence à partir de Septembre 2025: le mercredi de 16h30 à 18h00
+⚠️ Nouvelle permanence à partir de Septembre 2025: le mercredi de 17h à 18h00
 
 Venez choisir et retirer vos livres pendant nos heures de permanence, les:
 
 - Lundi de 14h30 à 16h30
-- Mercredi de 10h30 à 12h30 et de 16h30 à 18h00
+- Mercredi de 10h30 à 12h30 et de 17h à 18h00
 - Samedi de 15h30 à 17h30
 
 ## Nos conseils
