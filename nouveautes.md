@@ -1,33 +1,42 @@
-# Les nouveautés du mois: Décembre 2025
+# Les nouveautés du mois: Janvier 2026
 
 ## ROMANS
 
-- ASSOULINE Pierre, Le dernier des Camondo (poche)
-- BOYNE John, Le garçon en pyjama (poche)
-- FRANCK & VAUTRIN, La dame de Berlin (poche)
-- LAPIERRE Alexandra, Le fils du rebelle (poche)
-- PASSERON Anthony, Jacky
-- POINOT Emmanuel La, Nuit funambule
-- SNEGAROFF Thomas La, Conspiration
-- WERBER Bernard La, Voix de l'arbre
+- BANKS Russell, American spirits
+- BESSON Philippe, Une pension en Italie
+- DA COSTA Mélissa, Fauves
+- DE VIGAN Delphine, Je suis Romane Monnier
+- LAFON Marie-Hélène, Hors champ
+- LEMAITRE Pierre Les Belles, Promesses
+- MAJDALANI Charif, Le nom des rois
+- MASSINI Stefano, Donald
+- MUNOZ MOLINA, Je ne te verrai pas mourir
+- NUNEZ Sigrid, Les vulnérables
+- PAWLOWSKA Christine, Ecarlate
+- PHILLIPS Jay Anne Les, Sentinelles
+- SHRIVER Lionel, Hystérie collective
+- WINGATE Lisa, Les enfants du Bois-Refuge
 
 ## ROMANS POLICIERS
 
-- CAMUT J. & HUG N., Loin de la fureur du monde
-- MUSSO Valentin Le, Mystère de la maison aux trois ormes
+- CHATTAM Maxime 8,2, Secondes
+- CONNELLY Michael, Sans âme ni conscience
+- FOUASSIER Eric, Le fantôme du vicaire (poche)
+- MEYER Deon, La femme au manteau bleu (poche)
+- MICHAUD Andrée A., Baignades
+- SVEISTRUP Soren, Cache-cache
+- VARESI Valerio, Ce n'est qu'un debut, commissaire Soneri
 
-## BIOGRAPHIES
+## BIOGRAPHIE
 
-- GAILLARDON David, Marie-Blanche de Polignac, La dernière égérie
-- GRANGE Jean-Christophe, Je suis né du diable
-- LANEZ Emilie, Folcoche
-- PIALOUX Gilles, Admirations, Sept héros de la médecine
+- BOISSON Pierre, Flamme, volcan, tempête
+> ESSAIS /, RECITS
+- BERN Stéphane, Les énigmes de l'Histoire
 
-## ESSAIS/RECITS
+## La Maison-Blanche
 
-- BACHARAN N. & SIMONNET D., Requiem pour le monde libre
-- BUISSON J.-C. & SEVILLIA J., Les guerres civiles de la Renaissance à nos jours
-- CAMUS Albert, "Cher Monsieur Germain,..." (poche)
-- GIESBERT Franz-Olivier, Voyage dans la France d'avant
-- MHALLA Asma, Cyberpunk Le nouveau système totalitaire5
-- TREVIDIC Marc, Justice présumée coupable
+- CHALUMEAU Ambre, Liste de lecture
+- FRANCK Dan Bohèmes,, Les aventures de l'art moderne (1900-1930)
+- LE CLEZIO J.M.G. Trois, Mexique
+- MHALLA Asma Technopolitique, (poche)
+- OCKRENT Christine Le, Trump de A à Z
