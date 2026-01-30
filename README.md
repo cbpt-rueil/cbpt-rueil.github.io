@@ -18,14 +18,15 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 22 Janvier 2026: 15h à 16h30: Carré de lecture, autour d'un livre, "Un monde à refaire" de Claire Deya, édition poche
-- 27 Janvier 2026: 15h à16h30: Et si on relisait nos classiques? "Le meilleur des mondes" d'Aldous Huxley, proposé par Annie Karnik, inscription souhaitée au préalable
-- 28 Janvier: 16h30 à 17h: L'heure du conte, entrée libre
 - 7 Février 2026: 15h30 à 17h30: Café littéraire: La littérature anglophone contemporaine, ouvert à tous
-- 17 Février: 15h à 17h: Cercle de lecture, "Des livres pour comprendre notre époque"
+- 17 Février: 15h à 17h: Cercle de lecture, "Des livres pour comprendre notre époque" 
+- 19 Mars: Carré de lecture, autour d'un livre, "Complot contre l'Amérique" de Philip Roth, édition poche
  
   ### Evènements passés:
   
+- 28 Janvier: 16h30 à 17h: L'heure du conte, entrée libre
+- 27 Janvier 2026: 15h à16h30: Et si on relisait nos classiques? "Le meilleur des mondes" d'Aldous Huxley, proposé par Annie Karnik, inscription souhaitée au préalable
+- 22 Janvier 2026: 15h à 16h30: Carré de lecture, autour d'un livre, "Un monde à refaire" de Claire Deya, édition poche  
 - 21 Janvier: 16h30 à 17h: L'heure du conte, entrée libre
 - 14 Janvier: 16h30 à 17h: L'heure du conte, entrée libre
 - 15 Janvier: 14h30 à 16h: Dictée ludique, une facile, une plus difficile, entrée libre, inscription souhaitée
