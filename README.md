@@ -18,7 +18,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 10 Mars: 15h à 16h30: Et si on relisait nos classiques? 3Un ange à ma table" de Janet Frame. Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre, inscription souhaitée au préalable.
+- 10 Mars: 15h à 16h30: Et si on relisait nos classiques? "Un ange à ma table" de Janet Frame. Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre, inscription souhaitée au préalable.
 - 11 Mars: 16h30 à 17h: L'heure du conte, entrée libre
 - 18 Mars: 16h30 à 17h: L'heure du conte, entrée libre
 - 19 Mars: Carré de lecture, autour d'un livre, "Complot contre l'Amérique" de Philip Roth, édition poche
