@@ -21,7 +21,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 10 Mars: 15h à 16h30: Et si on relisait nos classiques? "Un ange à ma table" de Janet Frame. Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre, inscription souhaitée au préalable.
 - 11 Mars: 16h30 à 17h: L'heure du conte, entrée libre
 - 18 Mars: 16h30 à 17h: L'heure du conte, entrée libre
-- 19 Mars: Carré de lecture, autour d'un livre, "Complot contre l'Amérique" de Philip Roth, édition poche
+- 19 Mars: 15h à 16h30: Carré de lecture, autour d'un livre, "Complot contre l'Amérique" de Philip Roth, édition poche
 - 20 Mars: 15h à 16h30: Dictée ludique,  une facile, une plus difficile, entrée libre, inscription souhaitée
 - 25 Mars: 16h30 à 17h: L'heure du conte, entrée libre
 - 11 Avril: 15h30 à 17h30: Café littéraire: Polars et Thrillers du monde entier, entrée libre
