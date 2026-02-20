@@ -1,4 +1,4 @@
-# Les nouveautés du mois: Février 2026
+*3# Les nouveautés du mois: Février 2026
 ## ROMANS
 
 - BANKS Russell, American spirits
@@ -23,10 +23,11 @@
 
 - CHANTAL Laure (de), Yourcenar avant les autres
 - VUILLARD Eric Les Orphelins, Billy The, Kid
-> ESSAIS /, RECITS
+
+ ## ESSAIS, RECITS
+ 
 - COLLARD Gilbert, Indéfendables mémoires
 - DANIEL Lison, L'art d'avoir toujours raison avec ses enfants
 - FINKIELKRAUT Alain, Le coeur lourd
-- SNEGAROFF Thomas France/Algérie,, Anatomie d'une
-> STORA, Benjamin déchirure
+- SNEGAROFF Thomas, STORA Benjamin, France/Algérie Anatomie d'une déchirure
 - VILLIERS Pierre (de), Pour le succès des armes de la France
