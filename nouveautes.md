@@ -1,4 +1,4 @@
-*3# Les nouveautés du mois: Février 2026
+# Les nouveautés du mois: Février 2026
 ## ROMANS
 
 - BANKS Russell, American spirits
