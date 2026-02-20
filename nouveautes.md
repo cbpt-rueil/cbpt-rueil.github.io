@@ -15,8 +15,7 @@
 
 - GEORGE Elizabeth, Une si lente agonie
 - FILIPENKO Sacha, Retour à Ostrog
-- LEVISON Iain, Les stripteaseuses ont toujours besoin
-,> de conseils juridiques
+- LEVISON Iain, Les stripteaseuses ont toujours besoin de conseils juridiques
 - McCONAGHY Charlotte, Les fantômes de Shearwater
 
 ## BIOGRAPHIE
@@ -24,7 +23,7 @@
 - CHANTAL Laure (de), Yourcenar avant les autres
 - VUILLARD Eric Les Orphelins, Billy The, Kid
 
- ## ESSAIS, RECITS
+## ESSAIS, RECITS
  
 - COLLARD Gilbert, Indéfendables mémoires
 - DANIEL Lison, L'art d'avoir toujours raison avec ses enfants
