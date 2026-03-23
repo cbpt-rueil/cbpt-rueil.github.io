@@ -18,14 +18,16 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 18 Mars: 16h30 à 17h: L'heure du conte, entrée libre
-- 19 Mars: 15h à 16h30: Carré de lecture, autour d'un livre, "Complot contre l'Amérique" de Philip Roth, édition poche
-- 20 Mars: 15h à 16h30: Dictée ludique,  une facile, une plus difficile, entrée libre, inscription souhaitée
+- 24 Mars: 15h à 17h: Cercle de lecture, "Présentation de votre coup de coeur"
 - 25 Mars: 16h30 à 17h: L'heure du conte, entrée libre
 - 11 Avril: 15h30 à 17h30: Café littéraire: Polars et Thrillers du monde entier, entrée libre
+- 7 Mai: 15h à 16h30: Carré de lecture, autour d'un livre,"Au temps de l'innocence" d'Edith Wharton, édition poche
  
   ### Evènements passés:
-  
+
+- 20 Mars: 15h à 16h30: Dictée ludique,  une facile, une plus difficile, entrée libre, inscription souhaitée
+- 19 Mars: 15h à 16h30: Carré de lecture, autour d'un livre, "Complot contre l'Amérique" de Philip Roth, édition poche
+- 18 Mars: 16h30 à 17h: L'heure du conte, entrée libre
 - 11 Mars: 16h30 à 17h: L'heure du conte, entrée libre
 - 10 Mars: 15h à 16h30: Et si on relisait nos classiques? "Un ange à ma table" de Janet Frame. Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre, inscription souhaitée au préalable.  
 - 17 Février: 15h à 17h: Cercle de lecture, "Des livres pour comprendre notre époque"
