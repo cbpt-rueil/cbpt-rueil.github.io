@@ -18,13 +18,18 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 24 Mars: 15h à 17h: Cercle de lecture, "Présentation de votre coup de coeur"
-- 25 Mars: 16h30 à 17h: L'heure du conte, entrée libre
+- 8 Avril: 16h30 à 17h: L'heure du conte, entrée libre
 - 11 Avril: 15h30 à 17h30: Café littéraire: Polars et Thrillers du monde entier, entrée libre
+- 14 Avril: 15h à 16h: Et si on relisait nos classiques? "Alcools" d'Apollinaire, lecture de poèmes choisis, entrée libre
+- 15 Avril: 16h30 à 17h: L'heure du conte, entrée libre
+- 17 Avril: 15h à 16h: Dictée ludique, entrée libre, inscription souhaitée
+- 29 Avril: 16h30 à 17h: L'heure du conte, entrée libre
 - 7 Mai: 15h à 16h30: Carré de lecture, autour d'un livre,"Au temps de l'innocence" d'Edith Wharton, édition poche
  
   ### Evènements passés:
 
+- 24 Mars: 15h à 17h: Cercle de lecture, "Présentation de votre coup de coeur"
+- 25 Mars: 16h30 à 17h: L'heure du conte, entrée libre
 - 20 Mars: 15h à 16h30: Dictée ludique,  une facile, une plus difficile, entrée libre, inscription souhaitée
 - 19 Mars: 15h à 16h30: Carré de lecture, autour d'un livre, "Complot contre l'Amérique" de Philip Roth, édition poche
 - 18 Mars: 16h30 à 17h: L'heure du conte, entrée libre
