@@ -1,36 +1,31 @@
-# Les nouveautés du mois: Avril 2026
+# Les nouveautés du mois: Mai 2026
 ## ROMANS
 
-- ABDALLAH Dima, D'une rive l'autre
-- ANDRUKHOVYCH Sofia Amadoca,, L'histoire de Romana et
-,> d'Ouliana
-- BRODESSER-AKNER Taffy Le, Compromis de Long Island
-- ELKIN Laurent, Une année à Venise
-- FOENKINOS David, Je suis drôle
-- HALFON Eduardo, Tarentule
-- MATHIS Ayana, Les égarés
-- MÜLLER Herta, La convocation
-- MURUGAN Perumal, Femme pour moitié
-- PLATH Sylvia, La cloche de détresse
-- RODIER Renaud Les, Echappés
-- SANSAL Boualem Le, Serment des barbares
-- SERBERG Amélie, Première dame
-- WHARTON Edith Le, Temps de l'innocence (poche)
-- WERBER Jonathan La, Meilleure écrivaine du monde
-- WILDE Oscar Le, Portrait de Dorian Gray (poche)
+- ADICHIE Chimamanda Ngozi, L'Inventaire des rêves
+- DUROY Lionel, Une journée dans la vie de Maria Ivanova
+- FERRARI Jérôme, Très brève théorie de l'enfer
+- GAUTHERIE Aurélien, L'enfant du vent des Féroé
+- LLOYD Toby, La famille Rosenthal
+- MODIANO Patrick Dora, Bruder
+- NOBECOURT Laurence La, Petite sauvage
+- PEREZ Stéphanie Le, Berger d'Alep
+- STEFANSSON Jon Kalman, Corps célestes à la lisière du monde
+- TOIBIN Colm Brooklyn, (10/18)
+- VAREILLE Marie, Nous qui avons connu Solange
+- VUONG Ocean, L'Empereur de la joie
 
 ## ROMANS POLICIERS
 
-- GODDARD Robert 18 Barnfield, Hill
-- JONASSON Ragnar La, Mort en blanc (poche)
-- LEON Donna, L'Epreuve du feu
-- REDONDO Dolores, Celles qui ne dorment pas
+- JONASSON Ragnar, Hulda
+- Mc.FADDEN Freida La, Locataire
+- MASSIMI Fabiano Le, Pacte de Venise
+- MINIER Bernard, Ruptures
+- VARGAS Fred, Une unique lueur
 
 ## BIOGRAPHIE
 
-- GIRARD Catherine, In violentia veritas
-- BOTUL Jean-Baptiste, Freud et le cigare fatal
+- ROY Arundhati, Mon refuge et mon orage
 > ESSAIS /, RECITS
-- DIVINO, Le temps de l'obsolescence humaine
-- SCHIFFER Daniel Salvatore, Critique de la déraison antisémite
-- SLIMANI Leïla, Assaut contre la frontière
+- ENDERS Giulia, Organique
+- DEVERS Nathan Aimer, Jérusalem
+- MARTEL Frédéric, Occidents
