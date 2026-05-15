@@ -18,17 +18,18 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 29 Avril: 16h30 à 17h: L'heure du conte, entrée libre
-- 6 Mai: 16h30 à 17h: L'heure du conte, entrée libre
-- 7 Mai: 15h à 16h30: Carré de lecture, autour d'un livre,"Au temps de l'innocence" d'Edith Wharton, édition poche
-- 12 Mai: 15h à 17h: Cercle de lecture, "La littérature non-européenne", pour abonnés
-- 13 Mai: 16h30 à 17h: L'heure du conte, entrée libre
-- 19 Mai: 15h à 16h: Et si on relisait nos classiques? Présentation et lecture de Dora Bruder de Patrick Modiano, suivie d'échanges, entrée libre
+- 19 Mai: 15h à 16h: Et si on relisait nos classiques? Présentation et lecture de Dora Bruder de Patrick Modiano, proposée par Joël DUBLOSCART, Professeur de Lettres en classes préparatoires au Lycée Condorcet.
+Un récit biographique sous forme d'enquête sur la disparition d'une jeune fille dans le Paris des années 1940 qui hantent le romancier. Présentation suivie d'échanges, entrée libre
 - 20 Mai: 16h30 à 17h: L'heure du conte, entrée libre
 - 27 Mai: 16h30 à 17h: L'heure du conte, entrée libre
  
   ### Evènements passés:
-  
+ 
+- 13 Mai: 16h30 à 17h: L'heure du conte, entrée libre
+- 12 Mai: 15h à 17h: Cercle de lecture, "La littérature non-européenne", pour abonnés
+- 7 Mai: 15h à 16h30: Carré de lecture, autour d'un livre,"Au temps de l'innocence" d'Edith Wharton, édition poche
+- 6 Mai: 16h30 à 17h: L'heure du conte, entrée libre
+- 29 Avril: 16h30 à 17h: L'heure du conte, entrée libre
 - 17 Avril: 15h à 16h: Dictée ludique, entrée libre, inscription souhaitée
 - 15 Avril: 16h30 à 17h: L'heure du conte, entrée libre
 - 14 Avril: 15h à 16h: Et si on relisait nos classiques? "Alcools" d'Apollinaire, lecture de poèmes choisis, entrée libre
