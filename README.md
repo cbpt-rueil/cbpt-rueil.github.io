@@ -18,13 +18,15 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 19 Mai: 15h à 16h: Et si on relisait nos classiques? Présentation et lecture de Dora Bruder de Patrick Modiano, proposée par Joël DUBLOSCART, Professeur de Lettres en classes préparatoires au Lycée Condorcet.
-Un récit biographique sous forme d'enquête sur la disparition d'une jeune fille dans le Paris des années 1940 qui hantent le romancier. Présentation suivie d'échanges, entrée libre
-- 20 Mai: 16h30 à 17h: L'heure du conte, entrée libre
 - 27 Mai: 16h30 à 17h: L'heure du conte, entrée libre
+- 5 Juin: 15h à 16h30: dictée ludique, entrée libre
+- 9 Juin: 15h à 16h30: Et si on relisait nos classiques? "Le portrait de Dorian Gray" d'Oscar Wilde. Conférence donnéé par Claire Bazin, professeur émérite des universités. Entrée libre, inscription souhaitée au préalable.
+- 16 Juin: 15h à 17H: Cercle de lecture, "La condition féminine"
  
   ### Evènements passés:
- 
+  
+- 20 Mai: 16h30 à 17h: L'heure du conte, entrée libre
+- 19 Mai: 15h à 16h: Et si on relisait nos classiques? Présentation et lecture de Dora Bruder de Patrick Modiano, proposée par Joël DUBLOSCART, Professeur de Lettres en classes préparatoires au Lycée Condorcet. Présentation suivie d'échanges, entrée libre
 - 13 Mai: 16h30 à 17h: L'heure du conte, entrée libre
 - 12 Mai: 15h à 17h: Cercle de lecture, "La littérature non-européenne", pour abonnés
 - 7 Mai: 15h à 16h30: Carré de lecture, autour d'un livre,"Au temps de l'innocence" d'Edith Wharton, édition poche
