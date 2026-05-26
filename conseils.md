@@ -4,7 +4,7 @@ Au moins une fois par trimestre, nous proposons une liste de livres accompagnés
 de commentaires de nos lecteurs. Si vous cherchez votre prochaine lecture, cette
 page peut être pour vous !
 
-## LISTE ANNOTÉE DE MARS 2026
+## LISTE ANNOTÉE DE MAI 2026
 <table>
 <colgroup>
 <col style="width: 21%" />
@@ -12,534 +12,376 @@ page peut être pour vous !
 </colgroup>
 <thead>
 <tr>
-<th style="text-align: left;"><p><strong>BANKS</strong></p>
-<p><strong>Russell</strong></p>
-<p><em><strong>American</strong></em></p>
-<p><em><strong>Spirits</strong></em></p>
+<th style="text-align: left;"><p><strong>ASSOULINE</strong></p>
+<p><strong>Pierre</strong></p>
+<p><em><strong>Tenez bon</strong></em></p>
 <p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>NOUVELLES</strong></em></p></th>
-<th style="text-align: left;">Trois nouvelles posthumes, sans doute
-inspirées de faits divers qui ont défrayé la chronique à Sam Dent, une
-bourgade de l’Etat de New York et qui donnent lieu à des enquêtes qu’on
-suit avec avidité. Une plongée dans l’Amérique profonde, celle de la
-classe moyenne blanche fière de porter la casquette MAGA mais travaillée
-par de multiples frustrations et attentes. Une écriture incisive pour
-débusquer les hostilités souterraines qui minent les communautés rurales
-surarmées, repliées sur elles-mêmes.</th>
+<p><em><strong>ESSAI</strong></em></p></th>
+<th style="text-align: left;">Une sorte de manuel de survie pour temps
+obscurs. L’auteur se nourrit de certains épisodes marquants de sa vie
+pour nous inviter à ne pas renoncer et à lutter. Il nous livre quelques
+préceptes à méditer : « Tenir, c’est aussi se tenir », « Tenir bon grâce
+à des livres qui vous portent et des convoyeurs d’idées qui vous
+transportent ». Une lecture réconfortante et revigorante.</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align: left;"><p><strong>BARNES</strong></p>
-<p><strong>Julian</strong></p>
-<p><em><strong>Départ(s)</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ESSAI</strong></em></p>
-<p><em><strong>AUTOPORTRAIT</strong></em></p></td>
-<td style="text-align: left;">Le point de départ de ce texte hybride, à
-la fois essai littéraire et récit autobiographique, est une réflexion
-brillante sur la mémoire involontaire, IAM en anglais, avec de
-judicieuses références à Proust. S’ensuit une savoureuse méditation sur
-la mémoire qui est le socle incontournable de l’identité humaine, ce que
-l’homonymie I am et IAM souligne. On apprécie le regard distancié et
-l’ironie subtile d’un auteur, fin observateur de l’âme humaine. Une
-confidence sur sa santé conduit à de belles pages très apaisantes sur
-l’ultime départ.</td>
+<td style="text-align: left;"><p><strong>BOTUL</strong></p>
+<p><strong>Jean-Baptiste</strong></p>
+<p><em><strong>Freud et</strong></em></p>
+<p><em><strong>le cigare</strong></em></p>
+<p><em><strong>fatal</strong></em></p>
+<p><em><strong>&amp;&amp;</strong></em></p></td>
+<td style="text-align: left;">Un canular littéraire jubilatoire imaginé
+par Frédéric Pagès. Jean-Baptiste Botul n’existe pas mais l’entretien
+d’un chauffeur de taxi qui « psychanalyse » à sa manière dans un long
+monologue Freud, est l’occasion de mettre ce dernier face à ses
+contradictions. Un livre qui nous conduit à reconsidérer l’itinéraire du
+père de la psychanalyse.</td>
 </tr>
 <tr>
-<td style="text-align: left;"><p><strong>BESSON</strong></p>
+<td style="text-align: left;"><p><strong>COLOMBANI</strong></p>
+<p><strong>Laetitia</strong></p>
+<p><em><strong>Un jour</strong></em></p>
+<p><em><strong>sans femme</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Quatre femmes de notre temps et quatre
+cultures différentes pour faire le point sur la condition féminine, à
+notre époque. Quatre personnages attachants qu’un même combat pour la
+dignité humaine va relier, dans une même révolte contre les injustices
+et les mauvais traitements que subissent les femmes. Un roman généreux
+qui laisse éclater l’indignation de la romancière et qui nous prend aux
+tripes.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>DA COSTA</strong></p>
+<p><strong>Mélissa</strong></p>
+<p><em><strong>Fauves</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Un magnifique roman d’apprentissage. Tony
+à dix-sept ans fuit son père qu’il vient de frapper violemment. Il sait
+qu’il n’obtiendra pas le pardon d’une brute épaisse qui ne sait que
+cogner. Il trouve sur sa route un cirque et une communauté soudée qui
+l’adopte. Un dresseur de fauves lui apprendra à « dompter « des animaux
+sauvages et sa propre rage pour construire sa vie. Un roman plein
+d’humanité.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>DEVERS</strong></p>
+<p><strong>Nathan</strong></p>
+<p><em><strong>Surchauffe</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Un roman magistral qui décrypte avec
+finesse et maestria certains des maux de notre époque en perpétuelle
+surchauffe. L’ambitieuse Jade court après la réussite professionnelle et
+se laisse embarquer dans un projet pharaonique sulfureux : implanter un
+complexe hôtelier de luxe dans l’archipel indien d’Andaman, où une île
+inviolée jusque-là, jalousement gardée par un peuple ancestral, les
+Sentinelles, fascine. Une satire efficace de la jet-set internationale
+et une réflexion brillante sur l’évolution de notre époque.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>DEVERS</strong></p>
+<p><strong>Nathan</strong></p>
+<p><em><strong>Aimer</strong></em></p>
+<p><em><strong>Jérusalem</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ESSAI</strong></em></p></td>
+<td style="text-align: left;">Le philosophe Nathan Devers, auteur de
+l’essai <em>Penser contre soi-même</em> suit ce précepte dans une
+évocation érudite de l’histoire de Jérusalem, ville mythifiée, fantasmée
+et vénérée par trois religions. Un essai indispensable pour cerner la
+complexité de la société israélienne et un examen scrupuleux des
+tensions et des divisions qui secouent cette nation. Une hauteur de vue
+exceptionnelle et une écriture magnifique. « Jérusalem, ville dont l’âme
+est nomade », ville à aimer ou à oublier ?</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>DUROY</strong></p>
+<p><strong>Lionel</strong></p>
+<p><em><strong>Une journée</strong></em></p>
+<p><em><strong>dans la vie</strong></em></p>
+<p><em><strong>de Maria</strong></em></p>
+<p><em><strong>Ivanova</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>RECIT/ROMAN</strong></em></p></td>
+<td style="text-align: left;">Marc, un écrivain français, double de
+l’auteur, s’installe près de Chisinau, en Moldavie. Il suit le parcours
+d’une certaine Maria Ivanova, directrice d’un mensuel culturel et
+l’accompagne le jour de l’élection présidentielle. S’affrontent Maia
+Sandu qui souhaite le rapprochement avec l’Union européenne et le
+candidat pro-russe, Alexandre Stoianoglo. Un témoignage édifiant sur la
+société moldave, tiraillée entre nostalgie du « bonheur soviétique » des
+années 1980 et fascination pour les démocraties européennes.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>FOENKINOS</strong></p>
+<p><strong>David</strong></p>
+<p><em><strong>Je suis drôle</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">C’est le parcours d’un jeune comique en
+mal de réussite. N’est pas drôle qui veut. Son manque de confiance
+l’entraîne vers l’échec et l’isolement, même dans sa vie privée.
+Paradoxalement, c’est sa profonde tristesse qui le fera remarquer. Du
+cabaret de stand-up au festival de Cannes, le héros malheureux va
+renaître tel un phénix. Foenkinos grossit le trait et nous livre sa
+réflexion sur les illusions du succès, les faux artistes victimes des
+modes et les manipulateurs.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>GABORIAU</strong></p>
 <p><strong>Philippe</strong></p>
-<p><em><strong>Une pension</strong></em></p>
-<p><em><strong>en Italie</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Philippe Besson explore dans ce roman
-construit comme une enquête intime, le poids des non-dits. L’auteur y
-raconte la trajectoire de Paul, professeur d’italien à Nice. Eté 1964,
-Paul emmène son épouse Gaby et leurs deux filles, Suzanne et Colette, en
-vacances en Toscane dans une pension familiale entre Florence et Sienne.
-Ils n’y resteront que trois jours. Un événement irréversible, tel un
-tsunami, va venir bouleverser à jamais le cours de leur vie. 40 ans plus
-tard, l’auteur, fils de Suzanne et petit-fils de Paul tente de combler
-les silences, de déterrer tout ce qui a été tu : que s’est-il passé dans
-cette pension toscane ? Qui était cet homme que l’histoire familiale a
-méthodiquement gommé ? Et pourquoi ce secret continue-t-il à projeter
-son ombre sur les vivants ? Il va alors questionner sa mère pour
-comprendre. Philippe Besson traite son sujet avec profondeur,
-délicatesse. Il analyse comment un événement imprévisible peut faire
-basculer une existence. Un roman d’une grande finesse, profondément
-humain, qui interroge sur la transmission des secrets et le poids des
-héritages familiaux.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>BOYNE</strong></p>
-<p><strong>John</strong></p>
-<p><em><strong>Le garçon</strong></em></p>
-<p><em><strong>au pyjama</strong></em></p>
-<p><em><strong>rayé</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Un magnifique roman mondialement reconnu
-qu’il faut lire comme une parabole. Bruno, neuf ans, vit heureux à
-Berlin dans une grande et belle maison avec sa sœur aînée et ses
-parents. Le père, distant et autoritaire, annonce leur déménagement, le
-« Fourreur » ayant décidé de le promouvoir. Quand le garçonnet découvre
-sa nouvelle maison dans un lieu inhospitalier, il ne comprend pas ce
-qu’il voit depuis la fenêtre de sa chambre : une multitude de gens en
-pyjamas rayés enfermés dans un immense enclos. Lui qui rêve d’être un
-grand explorateur se met à enquêter. Terriblement prenant et
-profond.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>BUSSI</strong></p>
-<p><strong>Michel</strong></p>
-<p><em><strong>Les ombres</strong></em></p>
-<p><em><strong>du monde</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN POLICIER</strong></em></p></td>
-<td style="text-align: left;">Le six avril 1994, le Falcon du président
-rwandais explose en plein vol. Pendant cent jours, des milliers de hutus
-manipulés et excités par des fanatiques très haut placés vont se livrer
-à un massacre à grande échelle sous les yeux de la communauté
-internationale, totalement dépassée devant le génocide des Tutsis.
-Espérance, jeune professeure tutsie, se bat pour la transition
-démocratique de son pays et se trouve entraînée dans la tourmente. Elle
-assiste, impuissante et médusée à l’implication politique de la France
-dans un conflit dont personne ne semble percevoir la complexité et les
-enjeux. Un roman policier magistral, construit sur une documentation
-minutieuse pour ne pas oublier le terrible aveuglement de certains
-responsables politiques français.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>CHANTAL</strong></p>
-<p><strong>Laure (de)</strong></p>
-<p><em><strong>Yourcenar</strong></em></p>
-<p><em><strong>avant les</strong></em></p>
-<p><em><strong>autres</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ESSAI</strong></em></p>
-<p><em><strong>BIOGRAPHIE</strong></em></p></td>
-<td style="text-align: left;">Dans ce récit littéraire, Laure de Chantal
-s’adresse à Marguerite Yourcenar, « Dear you », celle avec qui elle
-partage le même amour pour le monde antique ainsi qu’une grande
-complicité intellectuelle. Au fil des pages, nous voyageons jusqu’à
-Petite Plaisance, la maison refuge de l’écrivaine dans le Maine
-américain. Ce n’est pas une biographie classique mais plutôt une lecture
-thématique de son œuvre. Les Lettres de France puis celles d’Amérique
-nous font découvrir des questions devenues essentielles : la conscience
-écologique, l’importance de la culture antique, le dialogue entre les
-civilisations, la réflexion sur la liberté sans oublier l’identité et la
-responsabilité morale de l’être humain. L’analyse de Laure de Chantal
-fait ressortir l’étonnante modernité des réflexions de Marguerite
-Yourcenar, qui justifie le titre du livre. Et lorsque nous refermons ce
-dernier, nous n’avons plus qu’un seul désir : relire les œuvres de la
-première académicienne… « Avant les autres » !</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>CHATTAM</strong></p>
-<p><strong>Maxime</strong></p>
-<p><em><strong>8,2 secondes</strong></em></p>
+<p><em><strong>Mireille,</strong></em></p>
+<p><em><strong>ouvrière</strong></em></p>
+<p><em><strong>de la</strong></em></p>
+<p><em><strong>chaussure</strong></em></p>
 <p><em><strong>&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN POLICIER</strong></em></p></td>
-<td style="text-align: left;">Constance, scénariste reconnue, vient de
-perdre son mari et son fils dans un terrible accident et se réfugie dans
-le chalet familial, loin de tout, au bord d’un lac de l’Etat de New
-York. Elle est face à un insupportable dilemme : continuer à vivre ou
-mourir. Pendant ce temps, May, une jeune inspectrice de Greenwitch
-Village, se lance dans la traque d’un ignoble tueur en série. Deux
-parcours tourmentés de femmes blessées par la vie que l’auteur finit par
-croiser. Une construction romanesque alambiquée et peu convaincante mais
-une réflexion assez fine sur le deuil et l’amour. Le titre renvoie au
-temps nécessaire pour qu’un baiser génère un coup de foudre et à la
-durée de l’ultime onde qui traverse le cerveau au moment de la mort.
-Eros et Thanatos.</td>
+<p><em><strong>RECIT</strong></em></p></td>
+<td style="text-align: left;">C’est le récit émouvant d’une génération
+d’ouvriers née dans les années 1920-1930 à travers la vie de Mireille,
+ouvrière de la chaussure dans le Choletais. Avec son mari Cyrille venu
+des Vosges, ils ont eu une petite vie tranquille et honnête, dit-elle,
+lui à l’usine, elle à domicile pour faire des chaussures des années 1960
+à 2000. Ils ont vu l’arrivée de la télévision chère à acheter, le cinéma
+des jours de fête avec leurs deux enfants. Philippe Gaboriau, né en
+1952, sociologue au CNRS nous raconte une vie ordinaire, celle de sa
+tante.</td>
 </tr>
 <tr>
-<td style="text-align: left;"><p><strong>DEBRE</strong></p>
-<p><strong>Constance</strong></p>
-<p><em><strong>Protocoles</strong></em></p>
+<td style="text-align: left;"><p><strong>GAUTHERIE</strong></p>
+<p><strong>Aurélien</strong></p>
+<p><em><strong>L’enfant du vent</strong></em></p>
+<p><em><strong>des Féroé</strong></em></p>
 <p><em><strong>&amp;&amp;&amp;</strong></em></p>
 <p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">L’auteure qui est avocate de formation
-choisit d’assister aux différentes manières d’appliquer la peine de mort
-dans un pays qu’elle ne cite pas mais qui est sans aucun doute possible
-les Etats-Unis. Elle décrit dans un style objectiviste glaçant les
-protocoles minutieux mis en en place scrupuleusement pour exécuter en
-conformité avec la loi et la Constitution les condamnés. Elle donne à
-voir la terrible réalité et l’inhumanité de la peine de mort et détaille
-les processus, du recours à la chambre à gaz à la pendaison, sans
-oublier l’injection létale, la chaise électrique et la mort par balles.
-Beaucoup de ratés ! Personne n’a plus conscience de tuer un être humain,
-on suit simplement le protocole. En arrière-plan, un tableau peu
-réjouissant d’une certaine Amérique. Une lecture édifiante.</td>
+<td style="text-align: left;">Les Îles Féroé en 1902, naissance de la
+petite Anna chétive, malingre qui ne survivra que quelques mois. Le
+père, Jonas, un modeste pêcheur, aime sa petite fille aveuglément tandis
+qu’Olga, la mère, est assaillie de sentiments plus ambivalents. Jonas
+s’éteint en 1953 le même jour que sa fille adorée, puisque c’est ce
+jour-là qu’il est mort au-dedans. Les objets du quotidien, le village
+Gjogv (prononcer Djèkv) prennent tour à tour la parole. Et quand les
+hommes et les choses se taisent, les vents racontent par des vers libres
+la courte vie d’Anna, héroïne de cette tragédie. Avec ce premier roman
+d’une immense poésie, l’auteur fait la part belle à la nature sauvage
+des Îles Féroé et à ceux qui l’habitent.</td>
 </tr>
 <tr>
-<td style="text-align: left;"><p><strong>DE VIGAN</strong></p>
-<p><strong>Delphine</strong></p>
-<p><em><strong>Je suis</strong></em></p>
-<p><em><strong>Romane</strong></em></p>
-<p><em><strong>Monnier</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Idée originale sur nos vies à l’ère du
-numérique. Thomas, la cinquantaine, à la « vie froissée », s’aperçoit en
-rentrant chez lui, après avoir passé la soirée au restaurant avec son
-ami, que son smartphone n’est pas le sien, sans doute un échange par
-inadvertance avec la jeune femme inconnue assise à la table voisine.
-Romane, tel est son prénom, s’arrange pour restituer le téléphone de
-Thomas mais refuse de récupérer le sien. Thomas devient alors le
-dépositaire de cet objet moralement encombrant. A-t-il le droit d’entrer
-dans l’intimité de cette jeune femme, via ses photos, ses conversations,
-ses réseaux sociaux… ? Romane lui a donné le code. Thomas avance dans
-une enquête, tel un détective et se dessine alors le profil de cette
-jeune femme sensible, connectée et pourtant bien solitaire. Abandonner
-le smartphone serait un signe de « prise de distance ». Cette fragilité
-répond au portrait de Thomas que l’auteur a dressé en parallèle au cours
-du roman.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>DEYA</strong></p>
-<p><strong>Claire</strong></p>
-<p><em><strong>Un monde</strong></em></p>
-<p><em><strong>à refaire</strong></em></p>
+<td style="text-align: left;"><p><strong>JOYCE</strong></p>
+<p><strong>Rachel</strong></p>
+<p><em><strong>La villa du lac</strong></em></p>
 <p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
 <p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Plongeant dans l’immédiat après-guerre, ce
-roman explore une page méconnue de l’Histoire : le déminage des côtes
-méditerranéennes en 45, où Français et Allemands doivent collaborer pour
-reconstruire un pays ravagé. Destins croisés : résistants, prisonniers,
-survivants des camps, un récit poignant : comment reconstruire un monde
-après le chaos ?</td>
+<td style="text-align: left;">Vic Kemp, un peintre autodidacte veuf,
+élève seul ses trois filles et son fils dans une fascinante villa située
+sur une île du lac d’Orta. Quand quelque vingt ans plus tard, ce père
+aimant mais autoritaire, à peine remarié, meurt noyé, la fratrie se
+trouve confrontée à l’énigmatique et très jeune belle-mère et finit par
+se déchirer. Un roman prenant, construit comme un thriller qui propose
+une réflexion intéressante sur le statut de l’artiste et sur la
+création.</td>
 </tr>
 <tr>
-<td style="text-align: left;"><p><strong>ELKAIM</strong></p>
-<p><strong>Olivia</strong></p>
-<p><em><strong>La disparition</strong></em></p>
-<p><em><strong>des choses</strong></em></p>
+<td style="text-align: left;"><p><strong>MARTEL</strong></p>
+<p><strong>Frédéric</strong></p>
+<p><em><strong>Occidents</strong></em></p>
 <p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Automne 1941, gare de Lyon, Cécile PEREC,
-juive polonaise, envoie son fils de 5 ans en zone libre, par
-l’intermédiaire de la Croix-Rouge, pour le mettre à l’abri. Mais en le
-privant de sa présence, elle le condamne au vide et à l’absence de
-souvenirs. Dans ce récit enquête, l’auteure plonge dans l’œuvre de
-Georges PEREC, en cherchant la présence de Cécile disparue à Auschwitz
-qui hante les silences de l’écrivain. Comment redonner vie à une femme
-dont toutes les traces ont été effacées ? Alors, elle imagine, comble
-les blancs et la fiction permet d’approcher au plus près une vérité
-intime pour faire renaître Cécile sous la plume de l’auteure. Le roman
-mêle les époques et les récits, croise l’histoire personnelle de
-l’auteure avec celle des PEREC. La question juive traverse le texte en
-filigrane tout comme l’exil, l’arrachement aux racines, comment se
-construire quand ceux qu’on aime ont disparu… Roman sensible et rempli
-d’émotion.</td>
+<p><em><strong>ESSAI</strong></em></p></td>
+<td style="text-align: left;">Que représente exactement l’Occident pour
+tous ceux qui le détestent ? L’essayiste a consacré huit ans à son
+enquête et propose dans cette somme la synthèse de près de deux mille
+entretiens avec ceux qui cultivent la haine de la démocratie, du
+pluralisme, des droits de l’homme et de la liberté d’expression. Il note
+une étonnante convergence entre les extrémistes de droite et ceux de
+gauche. Un livre incontournable pour comprendre certains enjeux, face au
+chaos organisé par les dictatures triomphantes ou émergentes qui tentent
+de gouverner le monde.</td>
 </tr>
 <tr>
-<td style="text-align: left;"><p><strong>FARGETTON</strong></p>
-<p><strong>Manon</strong></p>
-<p><em><strong>Ce que</strong></em></p>
-<p><em><strong>prend la</strong></em></p>
-<p><em><strong>mer</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">La jeune vidéaste Maxine prépare un
-documentaire qui donne la parole à des femmes qu’elle interroge sur leur
-expérience de la maternité. Quand elle apprend l’AVC de son père, un
-violoncelliste taiseux qui vit retiré dans une cabane menacée par
-l’effondrement d’une falaise en Normandie, elle se précipite à son
-chevet. Elle ne sait presque rien de la vie d’un père peu présent. La
-découverte de curieux et énigmatiques polaroids dans la cabane vont la
-conduire en Ecosse et dans une enquête prenante sur la vie sentimentale
-tourmentée d’un père désormais emmuré par la maladie dans le silence.
-Une intéressante interrogation sur la maternité ou le désir
-d’enfant.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>FERNEY</strong></p>
-<p><strong>Alice</strong></p>
-<p><em><strong>Comme en</strong></em></p>
-<p><em><strong>amour</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Le photographe Cyril Blot mène une vie
-insouciante dans les beaux quartiers de Paris. Quand il rencontre la
-créatrice de mode Marianne Villette, mariée et mère de famille, c’est le
-coup de foudre amical. Leur relation se nourrit de connivence, de
-confidences et d’écoute bienveillante. Tout se complique quand la vie
-conjugale de Marianne se délite et quand Cyril tombe amoureux fou d’une
-jeune femme qui veut un enfant de lui. A travers une quarantaine de
-chapitres abondamment dialogués, la romancière interroge et analyse
-finement l’amitié, l’amour et la parentalité.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>FINKIELKRAUT</strong></p>
-<p><strong>Alain</strong></p>
-<p><em><strong>Le cœur</strong></em></p>
-<p><em><strong>Lourd</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ENTRETIENS</strong></em></p></td>
-<td style="text-align: left;">Un livre d’entretiens passionnant dans
-lequel se livre à cœur ouvert l’académicien Alain Finkielkraut. Le
-philosophe se sait clivant et regrette le temps où les débats étaient
-encore possibles. Il nous livre un autoportrait plein de nostalgie mais
-aussi une réflexion stimulante sur la situation du monde en six
-chapitres. Il déplore une forme de nihilisme qui va de pair avec
-l’effondrement de l’école, de notre langue et le triomphe du « tout se
-vaut » qui sclérose notre société.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>HIGASHINO</strong></p>
-<p><strong>Keigo</strong></p>
-<p><em><strong>Le gardien</strong></em></p>
-<p><em><strong>du camphrier</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Reito Naoi n’a plus que sa grand-mère pour
-le soutenir. De père inconnu, orphelin de mère, il réussit à obtenir un
-diplôme mais quand il entre dans le monde du travail, sa franchise lui
-joue des tours et lui fait perdre son emploi. Il se laisse embarquer
-dans une affaire de vol avec effraction et le voilà condamné à faire de
-la prison. Une demi-sœur de sa grand-mère, richissime, vole à son
-secours, lui évite la prison et lui met en mains un étrange marché :
-devenir le gardien d’un camphrier doté d’étranges pouvoirs. Le lecteur
-assiste à la lente et progressive métamorphose d’un jeune homme mal
-dégrossi en adulte respectable et responsable, tout cela sous la
-direction d’une femme énergique et bienveillante. Bien des secrets et
-des souffrances vont être dévoilés et dénoués dans ce roman qui prône
-compassion et pardon. Une MAGNIFIQUE parabole sur la construction de soi
-et l’ouverture aux autres.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>KEFI</strong></p>
-<p><strong>Ramsès</strong></p>
-<p><em><strong>Quatre jours</strong></em></p>
-<p><em><strong>sans ma mère</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Aux environs de Paris, la famille de
-Slimane a toujours vécu heureuse au milieu de la cité baptisée La
-Caverne, un ensemble immobilier ouvrier situé en bordure de forêt.
-Oubliée la Tunisie, le pays d’origine où les parents n’auraient plus
-d’attaches parce qu’ils ont été très tôt orphelins ! Quand Amani, la
-mère, disparaît sans prévenir et sans explication, c’est le choc pour le
-père et le fils et même l’électrochoc pour ce dernier qui décide enfin
-de s’intéresser à la vie des siens et de se prendre en mains. Un roman
-tonique, dont on goûte sans retenue les scènes cocasses et
-l’autodérision qui n’étouffe pas, bien au contraire, l’immense tendresse
-du narrateur pour les siens et ses amis.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>LE CLEZIO</strong></p>
-<p><strong>J.M.G.</strong></p>
-<p><em><strong>Trois</strong></em></p>
-<p><em><strong>Mexique</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ESSAI</strong></em></p>
-<p><em><strong>BIOGRAPHIE</strong></em></p></td>
-<td style="text-align: left;">Le Clézio rend hommage de manière vibrante
-à trois figures de la littérature latino-américaine qui l’ont nourri.
-Des auteurs enracinés dans la culture mexicaine. Tout d’abord, Sœur
-Juana de la Cruz, femme éminemment libre malgré son enfermement
-volontaire dans un couvent au XVIIème siècle. Son œuvre poétique et
-dramatique réussit à marier traditions et langue indiennes avec la
-littérature baroque hispanique. L’auteur fait de Juan Rulfo l’inventeur
-du réalisme magique qui fera la renommée de Garcia Marquès. L’historien
-Luis Gonzales avec la chronique de son village natal donne une place de
-choix au petit peuple. Une documentation fournie, servie par une langue
-envoûtante.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>LAFON</strong></p>
-<p><strong>Marie-Hélène</strong></p>
-<p><em><strong>Hors champ</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Claire et Gilles sont nés dans la même
-ferme du Cantal mais leurs parcours divergent dès la petite enfance.
-L’aînée se tourne vers les études longues qui la conduiront à Paris, le
-frère plie l’échine devant la pression des parents qui le poussent à
-poursuivre le travail de la ferme. Claire, constate, impuissante, le
-mal-être d’un frère mutique, incapable de secouer le joug. Un court
-roman à l’écriture ciselée qui célèbre dans une prose poétique la beauté
-des paysages du Cantal tout en auscultant avec une infinie tendresse le
-drame intérieur d’un frère sacrifié.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>LEMAITRE</strong></p>
-<p><strong>Pierre</strong></p>
-<p><em><strong>Les Belles</strong></em></p>
-<p><em><strong>Promesses</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">L’intrigue du roman se situe entre 1963 et
-1964 et l’on retrouve la famille Pelletier et aussi le chat Joseph qui
-joue sa partition ! Les Trente Glorieuses restent la toile de fond à
-laquelle s’ajoutent la construction du périphérique parisien et le
-remembrement agricole. D’ailleurs, un nouveau personnage apparaît, issu
-d’une famille d’immigrés espagnols. Beaucoup de rebondissements et la
-lecture de ce roman est très plaisante et ne déçoit pas. S’y ajoute une
-« enquête policière » menée par le cadet de la famille, François au
-sujet de l’aîné, Jean dit « Bouboule » et le suspense nous tient en
-haleine jusqu’au bout.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>McCONAGHY</strong></p>
-<p><strong>Charlotte</strong></p>
-<p><em><strong>Les fantômes</strong></em></p>
-<p><em><strong>de</strong></em></p>
-<p><em><strong>Shearwater</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p>
-<p><em><strong>POLICIER</strong></em></p></td>
-<td style="text-align: left;">Dominic Salt habite avec ses trois enfants
-dans un phare désaffecté, sur l’île de Shearwater, située à mi-chemin
-entre la Tasmanie et l’Antarctique, un lieu où sont stockés dans des
-souterrains des millions de semences et de graines du monde entier. Les
-scientifiques viennent de quitter le lieu devant la montée inexorable
-des eaux qui menacent le site. L’île est coupée du monde et il faut
-attendre de longues semaines le bateau qui approvisionne la famille.
-Dominic qui vit seul avec ses trois enfants recueille malgré lui une
-naufragée bien mal en point. Chacun garde ses secrets et ses fantômes
-pour lui. Un thriller psychologique polyphonique hautement addictif qui
-nous installe dans le cadre sublime d’une nature sauvage, mise en péril
-par des catastrophes climatiques incontrôlables.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>MASSINI</strong></p>
-<p><strong>Stefano</strong></p>
-<p><em><strong>Donald</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">La disposition typographique particulière
-du texte sous forme de vers libres peut dérouter mais se prête à
-merveille dans ce roman pamphlétaire inclassable, à la satire et à la
-démythification de Trump, dont on suit avec autant d’amusement que de
-consternation, l’enfance et les années de formation jusqu’à l’ascension
-fulgurante d’un Golden man d’un cynisme parfaitement assumé. L’auteur
-donne dans ce roman jubilatoire des clés essentielles pour comprendre la
-personnalité d’un homme « inarrêtable, comme une vague
-radioactive ».</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>MIZUBAYASHI</strong></p>
-<p><strong>Akira</strong></p>
-<p><em><strong>La forêt de</strong></em></p>
-<p><em><strong>flammes</strong></em></p>
-<p><em><strong>et d’ombres</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Un roman envoûtant qui célèbre la force
-d’une indéfectible amitié entre trois jeunes gens épris d’art et de
-beauté. Un roman dont le leitmotiv majeur est la révolte contre le
-fanatisme criminel de l’Empereur du Japon qui a conduit son pays et son
-peuple à la catastrophe. Trois beaux portraits de jeunes gens mus par
-les valeurs humanistes héritées de l’Europe des Lumières. Un livre qui
-célèbre le pouvoir de l’art face à la barbarie et à la guerre et qui
-réconcilie avec l’humanité, qui fait du bien.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>MIRANDA</strong></p>
-<p><strong>Arnaud</strong></p>
-<p><em><strong>Les Lumières</strong></em></p>
-<p><em><strong>Sombres</strong></em></p>
-<p><strong>&amp;&amp;&amp;&amp;</strong></p>
-<p><strong>ESSAI</strong></p></td>
-<td style="text-align: left;">Une présentation très claire et structurée
-de la « néoréaction » américaine appelée encore « Lumières sombres ». On
-voit émerger au cours des années 2010 et 2020, une forme de
-contre-culture de droite radicale qui s’est développée essentiellement
-sur internet. L’auteur entreprend de décrypter de manière méthodique
-l’idéologie des figures centrales de ce mouvement très influent, Curtis
-Yarvin et Nick Land, sans oublier les entrepreneurs qui les soutiennent
-comme Peter Thiel. Tous ennemis de la démocratie et chantres décomplexés
-des inégalités sociales et « raciales ».</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>NUNEZ</strong></p>
-<p><strong>Sigrid</strong></p>
-<p><em><strong>Les</strong></em></p>
-<p><em><strong>Vulnérables</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">En pleine pandémie, une écrivaine
-s’installe au cœur de Manhattan pour s’occuper du perroquet d’une amie,
-prétexte pour amener le lecteur à suivre un fil, une plongée dans
-l’esprit d’une femme consciente d’elle-même et de ses limites. Un roman
-drôle, rythmé, ancré dans le quotidien et suspendu dans le temps.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>POINOT</strong></p>
-<p><strong>Emmanuel</strong></p>
-<p><em><strong>La nuit</strong></em></p>
-<p><em><strong>funambule</strong></em></p>
-<p><em><strong>ROMAN</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;</strong></em></p></td>
-<td style="text-align: left;">Court roman où l’on accompagne Sven,
-infirmier sur une plate-forme pétrolière. Une tempête terrible a eu
-lieu, un accident, un hélicoptère appelé en urgence, que s’est-il
-passé ? Puis on retrouve Sven sur une île où il répare un phare
-abandonné en laissant remonter les souvenirs dans le fracas des
-émotions. Une histoire d’amitié, une humanité qui brave ses
-tempêtes.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>SAVIANO</strong></p>
-<p><strong>Roberto</strong></p>
-<p><em><strong>Giovanni</strong></em></p>
-<p><em><strong>Falcone</strong></em></p>
-<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>BIOGRAPHIE</strong></em></p></td>
-<td style="text-align: left;">Le juge Giovanni Falcone a mené un combat
-sans merci contre Cosa nostra, jusqu’au procès historique qui a mis sous
-les verrous la plupart des parrains de la Mafia sicilienne. En mettant à
-jour l’organisation de l’hydre et les connivences entre hommes
-politiques de tous bords et les entrepreneurs italiens les plus
-influents, Falcone est devenu une cible à abattre. Ce sera chose faite
-le 23 mai 1992, aux abords de Palerme quand plusieurs centaines
-d’explosifs font sauter sa voiture. Saviano dont la vie est menacée rend
-hommage au courage et à la dignité d’un juge incorruptible,
-malheureusement trop peu soutenu et compris par les médias italiens. Une
-biographie remarquablement documentée qui se lit comme un thriller
-glaçant. Une lecture certes éprouvante mais nécessaire.</td>
-</tr>
-<tr>
-<td style="text-align: left;"><p><strong>SNEGAROFF</strong></p>
-<p><strong>Thomas</strong></p>
-<p><em><strong>La Conspiration</strong></em></p>
+<td style="text-align: left;"><p><strong>MASSIMI</strong></p>
+<p><strong>Fabiano</strong></p>
+<p><em><strong>Le Pacte de</strong></em></p>
+<p><em><strong>Venise</strong></em></p>
 <p><em><strong>&amp;&amp;&amp;</strong></em></p>
 <p><em><strong>ROMAN</strong></em></p>
 <p><em><strong>HISTORIQUE</strong></em></p></td>
-<td style="text-align: left;">Quand Franklin Delano Roosevelt arrive au
-pouvoir en 1932, c’est la consternation et l’affolement dans le monde de
-la finance et des grands entrepreneurs. J.-P. Morgan est un des
-concepteurs d’une vaste conspiration pour renverser Roosevelt. Les
-vétérans de la Grande Guerre sont mécontents de ne pas toucher le bonus
-promis et soutiennent le Général Butler, très populaire. Il s’agit dès
-lors de pousser ce dernier à la rébellion. Snégaroff excelle dans les
-scènes souvent cocasses d’échanges entre conspirateurs mais le lecteur
-peut être dérouté par les constants changements de narrateurs. Une page
-sombre de l’histoire américaine, minée par la fascination des puissants
-pour le fascisme italien et allemand émergent.</td>
+<td style="text-align: left;">Un roman historique qui s’attache à
+reconstituer des faits avérés et à les restituer dans leur contexte tout
+en les inscrivant dans une enquête fictive. Deux dates-clés et deux
+villes pour évoquer l’Italie de Mussolini : en1934, à Venise, le Duce et
+Hitler scellent un pacte, en 1942, à Milan se joue le destin du fils
+caché de Mussolini. Deux victimes innocentes du fascisme révélées par
+deux enquêtes prenantes, menées par des commissaires scrupuleux et hauts
+en couleur. Passionnant.</td>
 </tr>
 <tr>
-<td style="text-align: left;"><p><strong>SVEISTRUP</strong></p>
-<p><strong>Soren</strong></p>
-<p><em><strong>Cache-Cache</strong></em></p>
+<td style="text-align: left;"><p><strong>MINIER</strong></p>
+<p><strong>Bernard</strong></p>
+<p><em><strong>Ruptures</strong></em></p>
 <p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
 <p><em><strong>ROMAN</strong></em></p>
 <p><em><strong>POLICIER</strong></em></p></td>
-<td style="text-align: left;">En mai 1992, dans la campagne danoise, une
-partie de cache-cache rythmée par une amusante comptine vire au
-cauchemar avec la découverte du corps démembré d’un enfant. Trente ans
-plus tard, un tueur en série harcèle ses futures victimes en leur
-envoyant des photos prises à leur insu et accompagnées de la même
-comptine rimée, dans un insoutenable compte à rebours avant le massacre
-final. Marie, la mère d’une adolescente assassinée sauvagement, décide
-de reprendre à sa manière l’enquête, en même temps que deux inspecteurs.
-Se met en place une vertigineuse partie de cache-cache, d’abord entre le
-tueur et ses proies puis entre le mystérieux criminel et les enquêteurs.
-Un roman policier sur les traumas d’enfance hautement addictif et
-prenant.</td>
+<td style="text-align: left;">L’auteur ne retient pas ses coups dans ce
+roman policier glaçant. Lucia Guerrero mesure très vite le pouvoir de
+nuisance phénoménal de Milton Gail, un géant de la TECH qui ne connaît
+ni limites ni scrupules, dans sa conquête du pouvoir. Des jeunes femmes
+enceintes qui occupent toutes des postes à responsabilité dans les
+firmes du milliardaire sont assassinées. L’enquêtrice fétiche de Minier
+qui est une guerrière s’attaque à un personnage mythifié, soutenu par un
+président aussi immoral qu’immature. Une attaque en règle des apprentis
+sorciers qui mettent en péril l’humanité tout entière. Vertigineux et
+salutaire.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>NOBECOURT</strong></p>
+<p><strong>Laurence</strong></p>
+<p><em><strong>La Petite</strong></em></p>
+<p><em><strong>Sauvage</strong></em></p>
+<p><em><strong>&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Dune, écrivaine en grande souffrance
+psychique, est la dernière de trois filles. Quand après la mort des
+parents arrive l’heure de la succession, la fratrie se déchire et
+explose. Dune est rejetée par ses sœurs qu’elle a tant aimées. Elle
+s’adresse dans ce roman à la « petite sauvage » qui est l’enfant qu’elle
+a été. Si la première partie du roman est un peu trop obsessionnelle, la
+seconde en revanche qui traque les non-dits et les secrets devient vite
+passionnante.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>PATINO</strong></p>
+<p><strong>Bruno</strong></p>
+<p><em><strong>Le Temps</strong></em></p>
+<p><em><strong>de l’obsolescence</strong></em></p>
+<p><em><strong>humaine</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ESSAI</strong></em></p></td>
+<td style="text-align: left;">Un nouvel essai brillant et stimulant qui
+fait écho à <em>La Civilisation du poisson rouge.</em> L’ère numérique
+qui devait libérer l’homme est en passe de le submerger, de le dominer
+et de le déposséder de son libre arbitre. A une époque où l’IA
+impressionne par sa redoutable efficacité, il est temps de se poser les
+bonnes questions. Nous vivons à cent à l’heure, nous acceptons qu’on
+aspire nos données personnelles, nous sommes tentés de recourir à l’IA
+pour prendre des décisions personnelles. Qu’en est-il de la spiritualité
+et des valeurs humanistes ? L’auteur n’est pas catastrophiste mais nous
+invite à une salutaire lucidité.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>REDONDO</strong></p>
+<p><strong>Dolores</strong></p>
+<p><em><strong>Celles qui</strong></em></p>
+<p><em><strong>ne dorment</strong></em></p>
+<p><em><strong>pas</strong></em></p>
+<p><em><strong>&amp;&amp;/&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p>
+<p><em><strong>POLICIER</strong></em></p></td>
+<td style="text-align: left;">Fin février 2020, en Navarre, juste avant
+le confinement, on découvre dans « le gouffre aux sorcières » le cadavre
+d’une jeune disparue. Si l’enquêtrice Amaya Salazar, figure emblématique
+de la trilogie du Baztan s’intéresse aux légendes locales, elle s’appuie
+avant tout sur les analyses et déductions d’une psychologue
+médico-légale appelée Nash, un acronyme qui récapitule les quatre causes
+de décès suspects. Un thriller psychologique captivant mais dont le
+dénouement peut décevoir.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>ROSNAY</strong></p>
+<p><strong>Tatiana</strong></p>
+<p><strong>(de)</strong></p>
+<p><em><strong>Les cœurs</strong></em></p>
+<p><em><strong>sont faits</strong></em></p>
+<p><em><strong>pour être</strong></em></p>
+<p><em><strong>brisés</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Un matin, l’annonce de la mort prématurée
+de Marlo von Graf fait le tour du monde. La célèbre romancière lègue son
+dernier manuscrit à Audrey, une ancienne rivale, aujourd’hui libraire à
+Londres. Ce texte retrace l’histoire d’un triangle amoureux et confronte
+soudain Audrey à son premier amour. C’était il y a trente ans… De
+Londres aux rives du lac d’Annecy en passant par le Paris d’Oscar Wilde,
+autour de ces deux femmes aussi opposées que la lune et le soleil,
+Tatiana de Rosnay tisse un suspense amoureux entre réalité et fiction.
+Faut-il toujours croire ce que racontent les écrivains ? Avec des mots
+qui sonnent juste, l’auteure nous offre un roman sensible et rempli
+d’émotions.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>SERBERG</strong></p>
+<p><strong>Amélie</strong></p>
+<p><em><strong>Première</strong></em></p>
+<p><em><strong>Dame</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Comment la première Dame d’un pays
+totalitaire, en « vacances » en Inde a-t-elle pu échapper à sa suite ?
+Pourquoi aller demander un visa à l’Ambassade US de Delhi ? Cette
+histoire rocambolesque n’amuse personne dans le microcosme politique,
+sauf l’Ambassadeur US qui voit là une occasion de briller et d’atteindre
+l’époux dictateur. S’en suit un jeu de poker menteur et de revirements
+dictés par la diplomatie. Un premier roman d’espionnage très
+divertissant !</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>SCHLESSER</strong></p>
+<p><strong>Thomas</strong></p>
+<p><em><strong>Le Chat du</strong></em></p>
+<p><em><strong>Jardinier</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Louis est un jardinier de trente ans,
+solitaire et taiseux. Son hypersensibilité le fait souffrir et plus
+encore quand il apprend que son chaton a un cancer incurable. Sa
+voisine, un peu fantasque, a enseigné les Lettres et se désespère de
+voir son jardin ravagé par un orage. Elle propose au jeune homme un
+marché : « Réparez mon jardin ; je réparerai votre parole ». Le remède,
+ce sera la poésie qu’elle cite à longueur de temps et qui va opérer des
+miracles. Un livre réjouissant qu’on peut lire comme une jolie parabole
+et une ode à la poésie dont l’auteur souligne les vertus.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>SHRIVER</strong></p>
+<p><strong>Lionel</strong></p>
+<p><em><strong>Il faut qu’on</strong></em></p>
+<p><em><strong>parle de Kevin</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Ce roman terrible narre l’histoire de
+Kevin, dont on apprend très vite qu’il a commis un massacre dans son
+lycée aux environs de NY. Le roman est construit sous forme
+épistolaire : la mère de Kevin écrit à son mari, le père de Kevin, pour
+restituer a posteriori l’histoire du jeune homme et avant même sa
+naissance, la rencontre et la vie de ses parents et le chemin vers la
+maternité. Kevin est dès la petite enfance un être désagréable, voire
+hargneux, méprisant. Il mange peu, n’apprécie aucune des activités qui
+lui sont proposées, se construit un personnage hors normes. Le livre
+s’appesantit pendant près de 700 pages sur la genèse de Kevin, son
+enfance et son adolescence. La mère s’interroge dans les moindres
+détails sur les faits ayant ponctué son existence pour tenter de
+comprendre pourquoi il a commis cet acte monstrueux. L’humour n’est pas
+absent du livre.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>SLIMANI</strong></p>
+<p><strong>Leïla</strong></p>
+<p><em><strong>Assaut</strong></em></p>
+<p><em><strong>contre</strong></em></p>
+<p><em><strong>la frontière</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ESSAI </strong></em></p></td>
+<td style="text-align: left;">Le titre choisi renvoie à une phrase de
+Franz Kafka : « Toute littérature est assaut contre la frontière ». Dans
+cet écrit autobiographique qui est aussi un essai sur la place de la
+langue dite « maternelle », l’auteure évoque son rapport intime avec
+l’arabe, sa langue fantôme, constitutive de son identité, et élargit le
+propos en faisant assaut contre la frontière, au nom des valeurs
+universelles. Une belle leçon d’humanisme.</td>
 </tr>
 <tr>
 <td style="text-align: left;"><p><strong>TALLENT</strong></p>
@@ -547,37 +389,141 @@ prenant.</td>
 <p><em><strong>La Voie</strong></em></p>
 <p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
 <p><em><strong>ROMAN</strong></em></p></td>
-<td style="text-align: left;">Dan et Tamma habitent dans le sud du
-désert de Mojave et sont fanatiques d’escalade. Si Dan est un excellent
-élève, rien de tel chez Tamma, mal dans sa peau, élève absentéiste et
-peu motivée par les études. Leur dernière année de lycée les contraint à
-faire des choix et à trouver leur voie. Ils rêvent d’aventure et
-d’exploits dans le monde de l’escalade. Nous sommes très loin de la
-noirceur de <em>My absolute Darling,</em> le roman qui a fait connaître
-son auteur. Un roman d’apprentissage double qui analyse avec une rare
-finesse la métamorphose d’adolescents de notre époque. Une magnifique et
-lumineuse histoire d’amitié et de passion dans une nature âpre et
-sauvage.</td>
+<td style="text-align: left;">Dans le désert de Mojave en Californie,
+Tamma et Dan, deux lycéens, partagent la même passion pour l’escalade.
+Si le garçon, bon élève, est poussé par sa famille à s’inscrire à
+l’université, rien de tel pour Tamma qui n’a aucun goût pour les études
+et qui doit composer avec une famille dysfonctionnelle. Deux adolescents
+particulièrement attachants et volontaires qui cherchent leur « voie »
+et que l’on suit volontiers dans leurs aventures. Un roman lumineux,
+véritable ode à l’amitié.</td>
 </tr>
 <tr>
-<td style="text-align: left;"><p><strong>VUILLARD</strong></p>
-<p><strong>Eric</strong></p>
-<p><em><strong>Les Orphelins :</strong></em></p>
-<p><em><strong>Une histoire</strong></em></p>
-<p><em><strong>de Billy</strong></em></p>
-<p><em><strong>The Kid</strong></em></p>
+<td style="text-align: left;"><p><strong>TOIBIN</strong></p>
+<p><strong>Colm</strong></p>
+<p><em><strong>Long</strong></em></p>
+<p><em><strong>Island</strong></em></p>
 <p><em><strong>&amp;&amp;&amp;</strong></em></p>
-<p><em><strong>BIOGRAPHIE</strong></em></p></td>
-<td style="text-align: left;">Dans cette courte biographie, l’auteur
-annonce d’emblée qu’on sait peu de choses sur Billy The kid, ce célèbre
-hors-la-loi qui tue pour la première fois à dix-sept ans et se laisse
-embarquer dans une vie d’errance, à la merci d’hommes d’affaires véreux,
-avant de finir abattu comme un chien à vingt et un ans. L’auteur
-déconstruit méthodiquement le récit mythique forgé par ses amis et nous
-présente un délinquant plus pathétique que véritablement redoutable. Il
-porte sur cet anti-héros un regard empreint de compassion pour en faire
-une victime dans un contexte de colonisation sans foi ni loi. Une
-relecture stimulante d’un mythe américain, un peu trop manichéen.</td>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Le roman <em>Long Island</em> de Colm
+Toibin reprend le personnage d’Eilis Lacey, déjà héroïne de
+<em>Brooklyn.</em> Vingt ans après son installation aux Etats-Unis,
+Eilis vit à Long Island avec son mari Tony et leurs enfants, menant une
+vie apparemment stable au sein d’une communauté italo-américaine. Un
+événement soudain vient bouleverser cet équilibre : un inconnu frappe à
+sa porte et lui annonce une nouvelle choquante liée à Tony. Face à cette
+crise, Eilis se retrouve confrontée à un choix difficile entre rester
+fidèle à sa vie actuelle ou revenir en Irlande. Elle décide alors de
+retourner temporairement dans sa ville natale d’Enniscorthy, où
+ressurgissent souvenirs, regrets et anciennes relations. Là, elle
+retrouve Jim Farrell, un homme avec qui une autre vie aurait été
+possible. Le roman explore les thèmes du mariage, de l’identité, des
+choix de vie et des occasions manquées. A travers une écriture sobre et
+nuancée, Toibin met en lumière les tensions entre devoir et désir, passé
+et présent.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>VAREILLE</strong></p>
+<p><strong>Marie</strong></p>
+<p><em><strong>Nous qui</strong></em></p>
+<p><em><strong>avons connu</strong></em></p>
+<p><em><strong>Solange</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">A 107 ans, Célestine avoue à une certaine
+« Biquette » qu’elle a commis dans la ferme familiale un meurtre dont
+elle n’a jamais été soupçonnée. Dans ce roman, les voix de deux
+demi-sœurs donnent en alternance leurs points de vue sur la même
+histoire. La romancière dresse un tableau désolant d’une société
+patriarcale cruelle qui étouffe les rêves des jeunes filles. Un roman
+bouleversant qui tient en haleine en distillant peu à peu de terribles
+secrets. Une écriture élégante et poétique pour célébrer de manière
+appuyée la progressive conquête de la liberté de quatre générations de
+femmes, solidaires malgré les trahisons et les malentendus.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>VARGAS</strong></p>
+<p><strong>Fred</strong></p>
+<p><em><strong>Une unique</strong></em></p>
+<p><em><strong>lueur</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p>
+<p><em><strong>POLICIER</strong></em></p></td>
+<td style="text-align: left;">Nous retrouvons avec plaisir le
+Commissaire Adamsberg et son équipe au complet. Il leur faudra beaucoup
+de « séances plénières » pour débusquer le pervers qui assassine
+« proprement » de très belles jeunes femmes avec un identique modus
+operandi. De fausses pistes en indices improbables, on se promène de
+Paris à Los Angeles avec la collaboration précieuse de cinéphiles et
+collectionneurs américains. Une très bonne cuvée !</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>VERONESI</strong></p>
+<p><strong>Sandro</strong></p>
+<p><em><strong>Septembre noir</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Le professeur et traducteur Luigi Bellandi
+repense à l’été de ses douze ans dans une station balnéaire toscane où
+il connaît ses premiers émois amoureux avec une certaine Astel.
+L’innocence et le bonheur de l’enfance sont brisés net par une tragédie
+familiale que l’auteur annonce mais ne dévoile qu’à la toute fin du
+roman et qui concorde avec l’attentat aux Jeux olympiques de Munich en
+septembre 1972. Un roman prenant, délicat et subtil.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>VUONG</strong></p>
+<p><strong>Ocean</strong></p>
+<p><em><strong>L’Empereur</strong></em></p>
+<p><em><strong>de la joie</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Sous une pluie battante, Hai, 19 ans, est
+prêt à sauter d’un pont, désespéré par sa vie à East Gladness, coin
+perdu d’Amérique. Il en est empêché par les cris d’une vieille dame,
+Grazina, qui va l’accueillir dans sa maison délabrée. Deux histoires de
+migration (Lituanie pour Grazina, Vietnam pour Hai) se rencontrent. Hai
+trouve un emploi dans un fast-food dont les employés sont tous des
+laissés-pour-compte du rêve américain et pourtant tous solidaires les
+uns des autres. Cette nouvelle famille (Grazina et et ses compagnons
+d’infortune du fast-food) l’aidera-t-elle à reprendre goût à la
+vie ?</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>WHARTON</strong></p>
+<p><strong>Edith</strong></p>
+<p><em><strong>Le Temps de</strong></em></p>
+<p><em><strong>l’innocence</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p>
+<p><em><strong>HISTORIQUE</strong></em></p></td>
+<td style="text-align: left;">Un chef d’œuvre qui a valu à Edith Wharton
+le Pulitzer 1921. Une immersion dans une société corsetée, fermée,
+arcboutée sur ses valeurs et ses convictions, la grande bourgeoisie de
+New York en 1870. Le jeune Newland Archer a voyagé, a beaucoup lu et
+s’apprête à rentrer dans le rang en se fiançant avec la pure et parfaite
+May Welland. Quand il rencontre à l’Opéra, la comtesse Ellen Olenska
+dont la réputation sulfureuse l’intrigue, il est séduit par cette femme
+en apparence libre et reconsidère peu à peu sa vision de la condition
+féminine. Une satire d’un milieu et d’une époque d’une causticité rare
+et une analyse psychologique de conflits intérieurs d’une grande
+finesse. A lire absolument. Un roman porté au cinéma par Martin
+Scorsese.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><p><strong>WOLKENSTEIN</strong></p>
+<p><strong>Julie</strong></p>
+<p><em><strong>Chimère</strong></em></p>
+<p><em><strong>&amp;&amp;&amp;</strong></em></p>
+<p><em><strong>ROMAN</strong></em></p></td>
+<td style="text-align: left;">Osmond, un photographe français qui vit à
+Rome de trafics d’antiquités et qui élève seul sa fille Iris, née de
+mère inconnue, est une véritable énigme. Des témoins assistent à sa fin
+tragique dans un quartier de Rome. Cinq femmes très différentes vont
+livrer à tour de rôle leurs témoignages sur un artiste séduisant,
+manipulateur et tyrannique. Un roman captivant qui se lit comme un
+thriller. Une immersion intéressante dans la vie mondaine
+franco-italienne.</td>
 </tr>
 </tbody>
 </table>
