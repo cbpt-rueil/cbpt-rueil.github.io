@@ -18,13 +18,18 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 27 Mai: 16h30 à 17h: L'heure du conte, entrée libre
+- 3 Juin: 16h30 à 17h: L'heure du conte, pour enfants de 3 à 6 ans, entrée libre
 - 5 Juin: 15h à 16h30: dictée ludique, entrée libre
-- 9 Juin: 15h à 16h30: Et si on relisait nos classiques? "Le portrait de Dorian Gray" d'Oscar Wilde. Conférence donnéé par Claire Bazin, professeur émérite des universités. Entrée libre, inscription souhaitée au préalable.
-- 16 Juin: 15h à 17H: Cercle de lecture, "La condition féminine"
+- 9 Juin: 15h à 16h30: Et si on relisait nos classiques? "Le portrait de Dorian Gray" d'Oscar Wilde. Conférence donnéé par Claire Bazin, professeur émérite des universités. Entrée libre
+- 10 Juin: 16h30 à 17h: L'heure du conte, entrée libre
+- 16 Juin: 15h à 17H: Cercle de lecture, "La condition féminine", pour abonnés
+- 17 Juin: 16h30 à 17h: L'heure du conte, entrée libre
+- 20 Juin: 17h30 à 18h30: Lecture de poèmes choisis de Victor Hugo, entrée libre
+- 24 Juin: 16h30 à 17h: L'heure du conte, entrée libre
  
   ### Evènements passés:
   
+- 27 Mai: 16h30 à 17h: L'heure du conte, entrée libre 
 - 20 Mai: 16h30 à 17h: L'heure du conte, entrée libre
 - 19 Mai: 15h à 16h: Et si on relisait nos classiques? Présentation et lecture de Dora Bruder de Patrick Modiano, proposée par Joël DUBLOSCART, Professeur de Lettres en classes préparatoires au Lycée Condorcet. Présentation suivie d'échanges, entrée libre
 - 13 Mai: 16h30 à 17h: L'heure du conte, entrée libre
