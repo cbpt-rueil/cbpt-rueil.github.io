@@ -1,31 +1,45 @@
-# Les nouveautés du mois: Mai 2026
+# Les nouveautés du mois: Juin 2026
 ## ROMANS
 
-- ADICHIE Chimamanda Ngozi, L'Inventaire des rêves
-- DUROY Lionel, Une journée dans la vie de Maria Ivanova
-- FERRARI Jérôme, Très brève théorie de l'enfer
-- GAUTHERIE Aurélien, L'enfant du vent des Féroé
-- LLOYD Toby, La famille Rosenthal
-- MODIANO Patrick Dora, Bruder
-- NOBECOURT Laurence La, Petite sauvage
-- PEREZ Stéphanie Le, Berger d'Alep
-- STEFANSSON Jon Kalman, Corps célestes à la lisière du monde
-- TOIBIN Colm Brooklyn, (10/18)
-- VAREILLE Marie, Nous qui avons connu Solange
-- VUONG Ocean, L'Empereur de la joie
+- BERKOVITS Charles, La quintette de Montauban
+- BORDENAVE Lauriane, Donut girl
+- COLOMBANI Laetitia, Un jour sans femme
+- DAENINCKX Didier, Les maisons parachutées
+- DISCOURS Magali Revoir, Palerme
+- DUCHATEL Julie Hôtel, Louisiane
+- GALANTE Valeria Les, Sirènes de Naples
+- GAUDEMET Nicolas, Nous n'avons rien à envier au reste du monde
+- GESTERN Hélène Atelier, 4
+- GRUDA, Agnès ça finit quand, toujours ?
+- GROFF Lauren, La bagarre
+- GRIMALDI Virginie, D'autres printemps
+- GUTMANN Caroline, J'irai jusqu'au bout de vos nuits
+- KENNEDY Douglas, L'homme qui n'avait pas assez d'une vie
+- McCONAGHY Charlotte, Je pleure encore la beauté du monde (poche)
+- ONO-DIT-BIOT Christophe, L'odyssée de L'Odyssée
+- RUFIN Jean-Christophe La Folie, Sainte-Hélène
+- SALAME, Manal habibi Beyrouth
+- SHIMAZAKI Aki, Mukudori
+- STEFANSSON Jon Kalman, Mon sous-marin jaune
+- TALTY Morgan, De l'autre côté de la rivière
+- ZWEIG Stefan, Vingt-quatre heures de la vie d'une femme
+,(poche)
 
 ## ROMANS POLICIERS
 
-- JONASSON Ragnar, Hulda
-- Mc.FADDEN Freida La, Locataire
-- MASSIMI Fabiano Le, Pacte de Venise
-- MINIER Bernard, Ruptures
-- VARGAS Fred, Une unique lueur
+- ALBERTINI Antoine, Vous le regarderez comme impur
+- BUCK Véra La, Cabane dans les arbres
+- PULIXI Piergiorgio, La mariée silencieuse
+- THILLIEZ Franck, L'autre moi
 
 ## BIOGRAPHIE
 
-- ROY Arundhati, Mon refuge et mon orage
+- HUSTVEDT Siri, Ghost stories
 > ESSAIS /, RECITS
-- ENDERS Giulia, Organique
-- DEVERS Nathan Aimer, Jérusalem
-- MARTEL Frédéric, Occidents
+- AZIHARI Ferghane, L'Islam contre la modernité
+- BOUZOU Nicolas, L'éternel sursaut
+- COHEN Patrick Les, Mystificateurs
+- GOLDMAN Caroline, File dans ta chambre !
+- GRUSZKA Sarah, Le siège de Leningrad
+- LE MAIRE Bruno, Le temps d'une decision
+- POUVREAU-MONTI N. Immigration, Mythes et réalité
