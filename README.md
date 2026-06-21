@@ -18,13 +18,13 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 16 Juin: 15h à 17H: Cercle de lecture, "La condition féminine", pour abonnés
-- 17 Juin: 16h30 à 17h: L'heure du conte, entrée libre
-- 20 Juin: 17h30 à 18h30: Lecture de poèmes choisis de Victor Hugo, entrée libre
 - 24 Juin: 16h30 à 17h: L'heure du conte, entrée libre
  
   ### Evènements passés:
 
+- 20 Juin: 17h30 à 18h30: Lecture de poèmes choisis de Victor Hugo, entrée libre. Reportée en Septembre en raison de la canicule.
+- 17 Juin: 16h30 à 17h: L'heure du conte, entrée libre
+- 16 Juin: 15h à 17H: Cercle de lecture, "La condition féminine", pour abonnés
 - 10 Juin: 16h30 à 17h: L'heure du conte, entrée libre 
 - 9 Juin: 15h à 16h30: Et si on relisait nos classiques? "Le portrait de Dorian Gray" d'Oscar Wilde. Conférence donnéé par Claire Bazin, professeur émérite des universités. Entrée libre 
 - 5 Juin: 15h à 16h30: dictée ludique, entrée libre  
