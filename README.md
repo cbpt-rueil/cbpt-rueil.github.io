@@ -18,7 +18,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 24 Juin: 16h30 à 17h: L'heure du conte, entrée libre
+- 24 Juin: 16h30 à 17h: L'heure du conte, entrée libre, annulé en raison de la canicule
  
   ### Evènements passés:
 
