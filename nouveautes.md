@@ -1,45 +1,24 @@
 # Les nouveautés du mois: Juin 2026
 ## ROMANS
 
-- BERKOVITS Charles, La quintette de Montauban
-- BORDENAVE Lauriane, Donut girl
-- COLOMBANI Laetitia, Un jour sans femme
-- DAENINCKX Didier, Les maisons parachutées
-- DISCOURS Magali Revoir, Palerme
-- DUCHATEL Julie Hôtel, Louisiane
-- GALANTE Valeria Les, Sirènes de Naples
-- GAUDEMET Nicolas, Nous n'avons rien à envier au reste du monde
-- GESTERN Hélène Atelier, 4
-- GRUDA, Agnès ça finit quand, toujours ?
-- GROFF Lauren, La bagarre
-- GRIMALDI Virginie, D'autres printemps
-- GUTMANN Caroline, J'irai jusqu'au bout de vos nuits
-- KENNEDY Douglas, L'homme qui n'avait pas assez d'une vie
-- McCONAGHY Charlotte, Je pleure encore la beauté du monde (poche)
-- ONO-DIT-BIOT Christophe, L'odyssée de L'Odyssée
-- RUFIN Jean-Christophe La Folie, Sainte-Hélène
-- SALAME, Manal habibi Beyrouth
-- SHIMAZAKI Aki, Mukudori
-- STEFANSSON Jon Kalman, Mon sous-marin jaune
-- TALTY Morgan, De l'autre côté de la rivière
-- ZWEIG Stefan, Vingt-quatre heures de la vie d'une femme
-,(poche)
+- ARDITI Metin Bosphore, Tango
+- ERLIH Charlotte Embrasser, Kaboul
+- MOINOT Gilles, Vincent disparaît
+- PEYRADE Pauline Les, Habitantes
+- STOCKETT Kathryn Le Calamity, Club
 
 ## ROMANS POLICIERS
 
-- ALBERTINI Antoine, Vous le regarderez comme impur
-- BUCK Véra La, Cabane dans les arbres
-- PULIXI Piergiorgio, La mariée silencieuse
-- THILLIEZ Franck, L'autre moi
+- BROOKMYRE Chris, La maison sur la falaise
+- KING Stephen, Ne jamais trembler
+- LEON Donna, Minuit sur le canal San Boldo (poche)
 
 ## BIOGRAPHIE
 
-- HUSTVEDT Siri, Ghost stories
-> ESSAIS /, RECITS
-- AZIHARI Ferghane, L'Islam contre la modernité
-- BOUZOU Nicolas, L'éternel sursaut
-- COHEN Patrick Les, Mystificateurs
-- GOLDMAN Caroline, File dans ta chambre !
-- GRUSZKA Sarah, Le siège de Leningrad
-- LE MAIRE Bruno, Le temps d'une decision
-- POUVREAU-MONTI N. Immigration, Mythes et réalité
+- POURCHET Maria, Un été avec Romain Gary
+> ESSAIS / RECITS / POESIE/, BD
+- APTER Terri, Les mères toxiques
+- BLOCH Marc, L'étrange défaite
+- DEBRE & BOCHENEK, Ces femmes qui ont réveillé la France
+- HUGO Victor, L'art d'être grand-père
+- LECOQ &DUBOIS, Les grandes oubliées (BD)
