@@ -18,7 +18,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 24 Juin: 16h30 à 17h: L'heure du conte, entrée libre, annulé en raison de la canicule
+-Et si on lisait les classiques? Courtes présentation de classiques au programme des collèges et lycées, adultes bienvenus!          Mardi 21 Juillet, 11h à 12h: "L'Odyssée" d'HOMERE et de 16h à 17h: "L'étranger" de Camus. Mercredi 22 Juillet, de 16h à 17h: "Le meilleur des mondes" d'Huxley. Jeudi 23 Juillet, de 16h à 17h: "La peste" de Camus. Mardi 28 Juillet, de 11h à 12h:"La ferme des animaux" d'Orwell. Et de 16h à 17h: Les romans de Zola. Mercredi 29 Juillet, de 16h à 17h: L'oeuvre poétique de Rimbaud.
  
   ### Evènements passés:
 
