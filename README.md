@@ -18,15 +18,27 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
--Et si on lisait les classiques? Courtes présentation de classiques au programme des collèges et lycées, adultes bienvenus!          Mardi 21 Juillet, 11h à 12h: "L'Odyssée" d'HOMERE et de 16h à 17h: "L'étranger" de Camus. Mercredi 22 Juillet, de 16h à 17h: "Le meilleur des mondes" d'Huxley. Jeudi 23 Juillet, de 16h à 17h: "La peste" de Camus. Mardi 28 Juillet, de 11h à 12h:"La ferme des animaux" d'Orwell. Et de 16h à 17h: Les romans de Zola. Mercredi 29 Juillet, de 16h à 17h: L'oeuvre poétique de Rimbaud.
+- 2 Septembre: 16h30 à 17h: L'heure du conte, entrée libre
+- 4 Septembre: 17h à 18h: Et si on relisait les classiques? "L'Iliade" d'Homère, entrée libre
+- 6 Septembre: 10h à 18H: Forum des Associations, stand 33, Parc des Bords de Seine
+- 12 Septembre: 15h30 à 16h30: Lecture de poèmes choisis de Victor Hugo, l'enfant dans la poésie de Victor Hugo
+- 15 Septembre: 15h à 16h30: Et si on relisait nos classiques? "La servante écarlate" de Margaret Atwood. Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre
+- 16 Septembre: 16h30 à 17h: L'heure du conte
+- 17 Septembre: 15h à 16h30: Carré de lecture, "24 heures de la vie d'une femme" Stefan Zweig, entrée libre
+- 18 Septembre: 15h à 16h30: dictée ludique, entrée libre
+- 29 Septembre: 15h à 17h: Cercle de lecture, Les romans historiques, mythes et histoires, pour abonnés
+- 30 Septembre: 16h30 à 17h: L'heure du conte
+
+
  
   ### Evènements passés:
-
+  
+- Et si on lisait les classiques? Courtes présentation de classiques au programme des collèges et lycées, adultes bienvenus!          Mardi 21 Juillet, 11h à 12h: "L'Odyssée" d'HOMERE et de 16h à 17h: "L'étranger" de Camus. Mercredi 22 Juillet, de 16h à 17h: "Le meilleur des mondes" d'Huxley. Jeudi 23 Juillet, de 16h à 17h: "La peste" de Camus. Mardi 28 Juillet, de 11h à 12h:"La ferme des animaux" d'Orwell. Et de 16h à 17h: Les romans de Zola. Mercredi 29 Juillet, de 16h à 17h: L'oeuvre poétique de Rimbaud.
 - 20 Juin: 17h30 à 18h30: Lecture de poèmes choisis de Victor Hugo, entrée libre. Reportée en Septembre en raison de la canicule.
 - 17 Juin: 16h30 à 17h: L'heure du conte, entrée libre
 - 16 Juin: 15h à 17H: Cercle de lecture, "La condition féminine", pour abonnés
 - 10 Juin: 16h30 à 17h: L'heure du conte, entrée libre 
-- 9 Juin: 15h à 16h30: Et si on relisait nos classiques? "Le portrait de Dorian Gray" d'Oscar Wilde. Conférence donnéé par Claire Bazin, professeur émérite des universités. Entrée libre 
+- 9 Juin: 15h à 16h30: Et si on relisait nos classiques? "Le portrait de Dorian Gray" d'Oscar Wilde. Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre 
 - 5 Juin: 15h à 16h30: dictée ludique, entrée libre  
 - 3 Juin: 16h30 à 17h: L'heure du conte, pour enfants de 3 à 6 ans, entrée libre 
 - 27 Mai: 16h30 à 17h: L'heure du conte, entrée libre 
