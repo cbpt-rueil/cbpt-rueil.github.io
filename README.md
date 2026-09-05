@@ -21,7 +21,8 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 2 Septembre: 16h30 à 17h: L'heure du conte, entrée libre
 - 4 Septembre: 17h à 18h: Et si on relisait les classiques? "L'Iliade" d'Homère, entrée libre
 - 6 Septembre: 10h à 18H: Forum des Associations, stand 33, Parc des Bords de Seine
-- 12 Septembre: 15h30 à 16h30: Lecture de poèmes choisis de Victor Hugo, l'enfant dans la poésie de Victor Hugo
+- 9 Septembre: 17h à 18h: Et si on relisait les classiques, "L'odyssée" d'Homère, en lien avec le film de Nolan
+- 11 Septembre: 17h à 17h30: A la découverte des racines gréco-romaines de la langue française, le plaisir de jongler avec l'étymologie, pour enfants et adultes, entrée libre
 - 15 Septembre: 15h à 16h30: Et si on relisait nos classiques? "La servante écarlate" de Margaret Atwood. Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre
 - 16 Septembre: 16h30 à 17h: L'heure du conte
 - 17 Septembre: 15h à 16h30: Carré de lecture, "24 heures de la vie d'une femme" Stefan Zweig, entrée libre
