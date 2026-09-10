@@ -29,6 +29,10 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 18 Septembre: 15h à 16h30: dictée ludique, entrée libre
 - 29 Septembre: 15h à 17h: Cercle de lecture, Les romans historiques, mythes et histoires, pour abonnés
 - 30 Septembre: 16h30 à 17h: L'heure du conte
+- 3 0ctobre: 15h30 à 16h: Lecture de poèmes, "L'enfant dans la poésie de Victor Hugo"
+- 10 0ctobre: 15h30 à 17h30: Café littéraire, "La rentrée littéraire"
+- 13 Octobre: 15h à 16h: "Le premier homme" d'Albert Camus, présenté par Joël Dubloscard, professeur de lettres en classes préparatoires
+  
 
 
  
