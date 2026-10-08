@@ -18,6 +18,14 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
+- 10 0ctobre: 15h30 à 17h30: Café littéraire, "La rentrée littéraire"
+- 13 Octobre: 15h à 16h: "Le premier homme" d'Albert Camus, présenté par Joël Dubloscard, professeur de lettres en classes préparatoires
+-14 Octobre: 16h à 16h30: l'heure du conte, pour enfants de 4 à 6 ans et de 16h30 à 17h pour enfants de 6 à 12 ans  
+
+
+ 
+  ### Evènements passés:
+
 - 2 Septembre: 16h30 à 17h: L'heure du conte, entrée libre
 - 4 Septembre: 17h à 18h: Et si on relisait les classiques? "L'Iliade" d'Homère, entrée libre
 - 6 Septembre: 10h à 18H: Forum des Associations, stand 33, Parc des Bords de Seine
@@ -30,56 +38,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 29 Septembre: 15h à 17h: Cercle de lecture, Les romans historiques, mythes et histoires, pour abonnés
 - 30 Septembre: 16h30 à 17h: L'heure du conte
 - 3 0ctobre: 15h30 à 16h: Lecture de poèmes, "L'enfant dans la poésie de Victor Hugo"
-- 10 0ctobre: 15h30 à 17h30: Café littéraire, "La rentrée littéraire"
-- 13 Octobre: 15h à 16h: "Le premier homme" d'Albert Camus, présenté par Joël Dubloscard, professeur de lettres en classes préparatoires
   
-
-
- 
-  ### Evènements passés:
-  
-- Et si on lisait les classiques? Courtes présentation de classiques au programme des collèges et lycées, adultes bienvenus!          Mardi 21 Juillet, 11h à 12h: "L'Odyssée" d'HOMERE et de 16h à 17h: "L'étranger" de Camus. Mercredi 22 Juillet, de 16h à 17h: "Le meilleur des mondes" d'Huxley. Jeudi 23 Juillet, de 16h à 17h: "La peste" de Camus. Mardi 28 Juillet, de 11h à 12h:"La ferme des animaux" d'Orwell. Et de 16h à 17h: Les romans de Zola. Mercredi 29 Juillet, de 16h à 17h: L'oeuvre poétique de Rimbaud.
-- 20 Juin: 17h30 à 18h30: Lecture de poèmes choisis de Victor Hugo, entrée libre. Reportée en Septembre en raison de la canicule.
-- 17 Juin: 16h30 à 17h: L'heure du conte, entrée libre
-- 16 Juin: 15h à 17H: Cercle de lecture, "La condition féminine", pour abonnés
-- 10 Juin: 16h30 à 17h: L'heure du conte, entrée libre 
-- 9 Juin: 15h à 16h30: Et si on relisait nos classiques? "Le portrait de Dorian Gray" d'Oscar Wilde. Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre 
-- 5 Juin: 15h à 16h30: dictée ludique, entrée libre  
-- 3 Juin: 16h30 à 17h: L'heure du conte, pour enfants de 3 à 6 ans, entrée libre 
-- 27 Mai: 16h30 à 17h: L'heure du conte, entrée libre 
-- 20 Mai: 16h30 à 17h: L'heure du conte, entrée libre
-- 19 Mai: 15h à 16h: Et si on relisait nos classiques? Présentation et lecture de Dora Bruder de Patrick Modiano, proposée par Joël DUBLOSCART, Professeur de Lettres en classes préparatoires au Lycée Condorcet. Présentation suivie d'échanges, entrée libre
-- 13 Mai: 16h30 à 17h: L'heure du conte, entrée libre
-- 12 Mai: 15h à 17h: Cercle de lecture, "La littérature non-européenne", pour abonnés
-- 7 Mai: 15h à 16h30: Carré de lecture, autour d'un livre,"Au temps de l'innocence" d'Edith Wharton, édition poche
-- 6 Mai: 16h30 à 17h: L'heure du conte, entrée libre
-- 29 Avril: 16h30 à 17h: L'heure du conte, entrée libre
-- 17 Avril: 15h à 16h: Dictée ludique, entrée libre, inscription souhaitée
-- 15 Avril: 16h30 à 17h: L'heure du conte, entrée libre
-- 14 Avril: 15h à 16h: Et si on relisait nos classiques? "Alcools" d'Apollinaire, lecture de poèmes choisis, entrée libre
-- 11 Avril: 15h30 à 17h30: Café littéraire: Polars et Thrillers du monde entier, entrée libre
-- 8 Avril: 16h30 à 17h: L'heure du conte, entrée libre
-- 24 Mars: 15h à 17h: Cercle de lecture, "Présentation de votre coup de coeur"
-- 25 Mars: 16h30 à 17h: L'heure du conte, entrée libre
-- 20 Mars: 15h à 16h30: Dictée ludique,  une facile, une plus difficile, entrée libre, inscription souhaitée
-- 19 Mars: 15h à 16h30: Carré de lecture, autour d'un livre, "Complot contre l'Amérique" de Philip Roth, édition poche
-- 18 Mars: 16h30 à 17h: L'heure du conte, entrée libre
-- 11 Mars: 16h30 à 17h: L'heure du conte, entrée libre
-- 10 Mars: 15h à 16h30: Et si on relisait nos classiques? "Un ange à ma table" de Janet Frame. Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre, inscription souhaitée au préalable.  
-- 17 Février: 15h à 17h: Cercle de lecture, "Des livres pour comprendre notre époque"
-- 11 Février: 16h30 à 17h: L'heure du conte, entrée libre
-- 7 Février: 15h30 à 17h30: Café littéraire: La littérature anglophone contemporaine, ouvert à tous
-- 4 Février: 16h30 à 17h: L'heure du conte, entrée libre
-- 28 Janvier: 16h30 à 17h: L'heure du conte, entrée libre
-- 27 Janvier: 15h à16h30: Et si on relisait nos classiques? "Le meilleur des mondes" d'Aldous Huxley, proposé par Annie Karnik, inscription souhaitée au préalable
-- 22 Janvier: 15h à 16h30: Carré de lecture, autour d'un livre, "Un monde à refaire" de Claire Deya, édition poche  
-- 21 Janvier: 16h30 à 17h: L'heure du conte, entrée libre
-- 14 Janvier: 16h30 à 17h: L'heure du conte, entrée libre
-- 15 Janvier: 14h30 à 16h: Dictée ludique, une facile, une plus difficile, entrée libre, inscription souhaitée
-- 16 Janvier: 15h à 16h30: Et si on relisait les classiques? Relecture de "1984" d'Orwell et "2084" de Boualem Sansal, proposée par Annie Karnik et Patricia Kodyra, deux de nos bibliothécaires. Entrée libre, inscription souhaitée au préalable.
-- 13 Janvier 2026: Cercle de lecture de l'Orangerie: Biographies de femmes, liste des livres disponibles à la bibliothèque
-
-
 ## Nos permanences
 
 ⚠️ Nouvelle permanence à partir de Septembre 2025: le mercredi de 17h à 18h00
