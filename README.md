@@ -19,8 +19,8 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 ### Evènements à venir:
 
 - 10 0ctobre: 15h30 à 17h30: Café littéraire, "La rentrée littéraire"
-- 13 Octobre: 15h à 16h: "Le premier homme" d'Albert Camus, présenté par Joël Dubloscard, professeur de lettres en classes préparatoires
--14 Octobre: 16h à 16h30: l'heure du conte, pour enfants de 4 à 6 ans et de 16h30 à 17h pour enfants de 6 à 12 ans  
+- 13 Octobre: 15h à 16h: "Le premier homme" d'Albert Camus, présenté par Joël Dubloscard, professeur de lettres en classes préparatoires.
+- 14 Octobre: 16h à 16h30: l'heure du conte, pour enfants de 4 à 6 ans et de 16h30 à 17h pour enfants de 6 à 12 ans  
 
 
  
