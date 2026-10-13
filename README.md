@@ -18,10 +18,9 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 10 0ctobre: 15h30 à 17h30: Café littéraire, "La rentrée littéraire"
-- 13 Octobre: 15h à 16h: "Le premier homme" d'Albert Camus, présenté par Joël Dubloscard, professeur de lettres en classes préparatoires.
 - 14 Octobre: 16h à 16h30: l'heure du conte, pour enfants de 4 à 6 ans et de 16h30 à 17h pour enfants de 6 à 12 ans  
-
+- 5 Novembre: 15h à 16h30: Carré de lecture, "Au-delà du silence" André Brink, entrée libre
+- 10 Novembre: 15h à 17h: Cercle de lecture, Les écrivains du Sud-Est asiatique, pour abonnés
 
  
   ### Evènements passés:
@@ -38,6 +37,8 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 29 Septembre: 15h à 17h: Cercle de lecture, Les romans historiques, mythes et histoires, pour abonnés
 - 30 Septembre: 16h30 à 17h: L'heure du conte
 - 3 0ctobre: 15h30 à 16h: Lecture de poèmes, "L'enfant dans la poésie de Victor Hugo"
+- 10 0ctobre: 15h30 à 17h30: Café littéraire, "La rentrée littéraire"
+- 13 Octobre: 15h à 16h: "Le premier homme" d'Albert Camus, présenté par Joël Dubloscard, professeur de lettres en classes préparatoires.
   
 ## Nos permanences
 
