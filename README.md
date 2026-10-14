@@ -26,7 +26,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 22 Octobre: 17h à18h: "Pot-Bouille" d'Emile Zola, pour tous
 - 23 Octobre: 16h à 17h: "Un cœur simple" de Gustave Flaubert, pour tous
 - 23 Octobre: 17h à 18h: "Le menteur" de Pierre Corneille, pour tous
-- 24 Octobre: &&h à 12h: Les figures de rhétorique (2), pour tous
+- 24 Octobre: 11h à 12h: Les figures de rhétorique (2), pour tous
 - 24 Octobre, 17h30 à 18h30: "Les fleurs du mal" de Charles Baudelaire, pour tous
 - 5 Novembre: 15h à 16h30: Carré de lecture, "Au-delà du silence" André Brink, entrée libre
 - 10 Novembre: 15h à 17h: Cercle de lecture, Les écrivains du Sud-Est asiatique, pour abonnés
