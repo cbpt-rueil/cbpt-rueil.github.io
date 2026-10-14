@@ -21,7 +21,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - Vacances scolaires de la Toussaint: "Et si on lisait les classiques?" Des clés pour comprendre les grands textes, entrée libre
 - 20 Octobre: 17h à 18h: "La vie devant soi" de Romain Gary (Emile Ajar), pour tous
 - 21 Octobre: 15h à 16h: Les figures de rhétorique (1), pour tous
-- 21 Octobre: 16h à 17h: "Le Horla3 de Maupassant, pour tous
+- 21 Octobre: 16h à 17h: "Le Horla" de Maupassant, pour tous
 - 22 Octobre: 16h à 17h: "Le cahier de Douai" d'Arthur Rimbaud, pour tous
 - 22 Octobre: 17h à18h: "Pot-Bouille" d'Emile Zola, pour tous
 - 23 Octobre: 16h à 17h: "Un cœur simple" de Gustave Flaubert, pour tous
