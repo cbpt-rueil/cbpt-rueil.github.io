@@ -18,7 +18,16 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 14 Octobre: 16h à 16h30: l'heure du conte, pour enfants de 4 à 6 ans et de 16h30 à 17h pour enfants de 6 à 12 ans  
+- Vacances scolaires de la Toussaint: "Et si on lisait les classiques?" Des clés pour comprendre les grands textes, entrée libre
+- 20 Octobre: 17h à 18h: "La vie devant soi" de Romain Gary (Emile Ajar), pour tous
+- 21 Octobre: 15h à 16h: Les figures de rhétorique (1), pour tous
+- 21 Octobre: 16h à 17h: "Le Horla3 de Maupassant, pour tous
+- 22 Octobre: 16h à 17h: "Le cahier de Douai" d'Arthur Rimbaud, pour tous
+- 22 Octobre: 17h à18h: "Pot-Bouille" d'Emile Zola, pour tous
+- 23 Octobre: 16h à 17h: "Un cœur simple" de Gustave Flaubert, pour tous
+- 23 Octobre: 17h à 18h: "Le menteur" de Pierre Corneille, pour tous
+- 24 Octobre: &&h à 12h: Les figures de rhétorique (2), pour tous
+- 24 Octobre, 17h30 à 18h30: "Les fleurs du mal" de Charles Baudelaire, pour tous
 - 5 Novembre: 15h à 16h30: Carré de lecture, "Au-delà du silence" André Brink, entrée libre
 - 10 Novembre: 15h à 17h: Cercle de lecture, Les écrivains du Sud-Est asiatique, pour abonnés
 
@@ -39,6 +48,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 3 0ctobre: 15h30 à 16h: Lecture de poèmes, "L'enfant dans la poésie de Victor Hugo"
 - 10 0ctobre: 15h30 à 17h30: Café littéraire, "La rentrée littéraire"
 - 13 Octobre: 15h à 16h: "Le premier homme" d'Albert Camus, présenté par Joël Dubloscard, professeur de lettres en classes préparatoires.
+- 14 Octobre: 16h à 16h30: l'heure du conte, pour enfants de 4 à 6 ans et de 16h30 à 17h pour enfants de 6 à 12 ans 
   
 ## Nos permanences
 
