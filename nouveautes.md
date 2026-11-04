@@ -1,4 +1,4 @@
-# Les nouveautés du mois: Septembre 2026
+# Les nouveautés du mois: Novembre 2026
 ## ROMANS
 
 - BONNOT Xavier-Marie, Le diable rit avec nous
