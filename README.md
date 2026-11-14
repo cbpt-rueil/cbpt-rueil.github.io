@@ -18,13 +18,19 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 10 Novembre: 15h à 17h: Cercle de lecture, Les écrivains du Sud-Est asiatique, pour abonnés
-- 11 Novembre: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
 - 14 Novembre: 17h30 à 18h30: Et si on lisait les classiques? "Un cœur simple" de Flaubert
 - 18 Novembre: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
 - 20 Novembre: 15h à 16h30: La dictée ludique, entrée libre
 - 25 Novembre: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
-- 1er Décembre: 15h à 16h30: Et si on relisait nos classiques? "Femmes écrivaines britanniques d'hier et d'aujourd'hui" Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre 
+- 1er Décembre: 15h à 16h30: Et si on relisait nos classiques? "Femmes écrivaines britanniques d'hier et d'aujourd'hui" Conférence donnée par Claire Bazin, professeur émérite des universités. Entrée libre
+- 8 Décembre: 15h à 17h: Cercle de lecture, "Biographies" pour abonnés
+- 9 Décembre: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
+- 9 Janvier: 17h30 à 18h30: Lecture de poèmes, "Le voyage en poésies"
+- 13 Janvier: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
+- 16 Janvier: 15h30 à 17h30: Café littéraire: 6 coups de cœur choisis par nos lecteurs et/ou bibliothécaires
+- 20 Janvier: 17h30 à 18h30: "la nuit de la lecture" par l'Association "La saveur des mots". Lecture de "Kant" de Jon Fosse, et de "La folle journée du professeur Kant"  pour enfants et adultes
+- 21 Janvier: 15h à 16h: Carré de lecture, "Onitsha" de Le Clézio
+- 27 Janvier: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
 
  
   ### Evènements passés:
@@ -52,6 +58,8 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 24 Octobre: 11h à 12h: Les figures de rhétorique (2), pour tous - 24 Octobre, 17h30 à 18h30: "Les fleurs du mal" de Charles Baudelaire, pour tous
 - 4 Novembre: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
 - 5 Novembre: 15h à 16h30: Carré de lecture, "Au-delà du silence" André Brink, entrée libre
+- 10 Novembre: 15h à 17h: Cercle de lecture, Les écrivains du Sud-Est asiatique, pour abonnés
+- 11 Novembre: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
   
 ## Nos permanences
 
