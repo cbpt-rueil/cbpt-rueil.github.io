@@ -18,7 +18,6 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 
 ### Evènements à venir:
 
-- 14 Novembre: 17h30 à 18h30: Et si on lisait les classiques? "Un cœur simple" de Flaubert
 - 18 Novembre: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
 - 20 Novembre: 15h à 16h30: La dictée ludique, entrée libre
 - 25 Novembre: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
@@ -39,6 +38,7 @@ La bibliothèque propose aussi des évènements tout au long de l'année. Voici 
 - 5 Novembre: 15h à 16h30: Carré de lecture, "Au-delà du silence" André Brink, entrée libre
 - 10 Novembre: 15h à 17h: Cercle de lecture, Les écrivains du Sud-Est asiatique, pour abonnés
 - 11 Novembre: 16h à 16h30: L'heure du conte, de 3 à 6 ans et de 16h30 à 17h: de 7 à 12 ans
+- 14 Novembre: 17h30 à 18h30: Et si on lisait les classiques? "Un cœur simple" de Flaubert
   
 ## Nos permanences
 
